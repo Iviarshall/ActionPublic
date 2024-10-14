@@ -851,6 +851,3612 @@ TellMeWhenDB = {
 	["profiles"] = {
 
 		["Ivl - DK - Cata"] = {
+			["Groups"] = {
+				{
+					["TimerBar_MiddleColor"] = "ff000000",
+					["Scale"] = 0.600000023841858,
+					["TimerBar_CompleteColor"] = "ff000000",
+					["TimerBar_StartColor"] = "ff000000",
+					["Locked"] = true,
+					["Columns"] = 8,
+					["Icons"] = {
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1T0KeNg=IDQd", -- [1]
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1T0KeNh2uwMT", -- [1]
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1T0Kg0ZzHksM", -- [1]
+							},
+							["Enabled"] = true,
+							["GUID"] = "TMW:icon:1T0MjrGnynSL",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1T0Kg0a1tFci", -- [1]
+							},
+							["Enabled"] = true,
+							["GUID"] = "TMW:icon:1T0NdouSxYDb",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1T0Kg0a6eYf9", -- [1]
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1T0Kg0aBPYen", -- [1]
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1T0Kg0aG1oeM", -- [1]
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1T0Kg0aKbPUI", -- [1]
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [61]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [62]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [63]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [64]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [65]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [66]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [67]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [68]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [69]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [70]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [71]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [72]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [73]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [74]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [75]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [76]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [77]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [78]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [79]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [80]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [81]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [82]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [83]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [84]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [85]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [86]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [87]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [88]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [89]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [90]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [91]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [92]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [93]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [94]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [95]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [96]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [97]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [98]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [99]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [100]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [101]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [102]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [103]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [104]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [105]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [106]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [107]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [108]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [109]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [110]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [111]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [112]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [113]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [114]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [115]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [116]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [117]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [118]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [119]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [120]
+					},
+					["Name"] = "Shown Main",
+					["GUID"] = "TMW:group:1Rhh0xLqd4g8",
+					["Point"] = {
+						["y"] = 12,
+						["x"] = -29,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+				}, -- [1]
+				{
+					["TimerBar_MiddleColor"] = "ff000000",
+					["Scale"] = 0.600000023841858,
+					["TimerBar_CompleteColor"] = "ff000000",
+					["TimerBar_StartColor"] = "ff000000",
+					["Locked"] = true,
+					["Columns"] = 8,
+					["Icons"] = {
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "Rotation(thisobj)",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1T0KeNg=IDQd",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [1]
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "Rotation(thisobj)",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1T0KeNh2uwMT",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [2]
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "Rotation(thisobj)",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1T0Kg0ZzHksM",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [3]
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "Rotation(thisobj)",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1T0Kg0a1tFci",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [4]
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "Rotation(thisobj)",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1T0Kg0a6eYf9",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [5]
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "Rotation(thisobj)",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1T0Kg0aBPYen",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [6]
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "Rotation(thisobj)",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1T0Kg0aG1oeM",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [7]
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "Rotation(thisobj)",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1T0Kg0aKbPUI",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [8]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [61]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [62]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [63]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [64]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [65]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [66]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [67]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [68]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [69]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [70]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [71]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [72]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [73]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [74]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [75]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [76]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [77]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [78]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [79]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [80]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [81]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [82]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [83]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [84]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [85]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [86]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [87]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [88]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [89]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [90]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [91]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [92]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [93]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [94]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [95]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [96]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [97]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [98]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [99]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [100]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [101]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [102]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [103]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [104]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [105]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [106]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [107]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [108]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [109]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [110]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [111]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [112]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [113]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [114]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [115]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [116]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [117]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [118]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [119]
+						{
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [120]
+					},
+					["Name"] = "Hidden APL",
+					["GUID"] = "TMW:group:1T0KXe2TsCkW",
+					["Point"] = {
+						["y"] = 50,
+						["x"] = -29.0000038146973,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+				}, -- [2]
+				{
+					["Point"] = {
+						["relativeTo"] = "TMW:group:1TMvhh5X05mC",
+						["x"] = -0.0001220703125,
+					},
+					["Locked"] = true,
+					["Columns"] = 1,
+					["Icons"] = {
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1ThI9XCjZDaF", -- [1]
+								"TMW:icon:1T0MjrGnynSL", -- [2]
+								"TMW:icon:1ThI9XCnmSqm", -- [3]
+							},
+							["Enabled"] = true,
+							["GUID"] = "TMW:icon:1T0MjsTsMtq6",
+							["Events"] = {
+								{
+									["Type"] = "Lua",
+									["Lua"] = "Action.ToggleMainUI()",
+									["OnlyShown"] = true,
+									["Event"] = "OnRightClick",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+					},
+					["Name"] = "Visible APL",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["BorderInset"] = true,
+							["BorderIcon"] = 1.5,
+						},
+					},
+					["Conditions"] = {
+						{
+							["Type"] = "LUA",
+							["Name"] = "return not GetToggle(1, \"DisableRotationDisplay\")",
+						}, -- [1]
+						["n"] = 1,
+					},
+					["GUID"] = "TMW:group:1P3cu8AAtSYM",
+				}, -- [3]
+				{
+					["GUID"] = "TMW:group:1TMvhh5X05mC",
+					["Level"] = 11,
+					["Columns"] = 1,
+					["Icons"] = {
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Events"] = {
+								{
+									["Type"] = "Lua",
+									["Lua"] = "if IsShiftKeyDown() then\n    Action.ToggleBurst()\nelseif IsControlKeyDown() then\n    Action.ToggleMode()\nelseif IsAltKeyDown() then\n    Action.ToggleAoE()\nelse\n    Action.PrintHelpToggle()\nend",
+									["OnlyShown"] = true,
+									["Event"] = "OnLeftClick",
+								}, -- [1]
+								{
+									["Type"] = "Lua",
+									["Lua"] = "Action.ToggleMainUI()",
+									["OnlyShown"] = true,
+									["Event"] = "OnRightClick",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1TMvg5InaYOw",
+									["Texts"] = {
+										"[ActionBurst]", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "NONE",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+					},
+					["Name"] = "Visible APL Layout",
+					["Conditions"] = {
+						{
+							["Type"] = "LUA",
+							["Name"] = "return not GetToggle(1, \"DisableRotationDisplay\") and not GetToggle(1, \"DisableRotationModes\")",
+						}, -- [1]
+						["n"] = 1,
+					},
+					["Point"] = {
+						["y"] = 20.16578483581543,
+						["x"] = 14.21902465820313,
+						["point"] = "BOTTOM",
+						["relativePoint"] = "BOTTOM",
+					},
+				}, -- [4]
+				{
+					["Strata"] = "HIGH",
+					["Scale"] = 1.68641984462738,
+					["Rows"] = 3,
+					["Columns"] = 2,
+					["Icons"] = {
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "return Player:IsStance(1)",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1TbIsE4JwoWN",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["CustomTex"] = "2457",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [1]
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "return Player:IsSwapLocked()",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Events"] = {
+								{
+									["Scale"] = 0.6,
+									["AnimColor"] = "87000000",
+									["Type"] = "Animations",
+									["Period"] = 0.3,
+									["Animation"] = "ICONFLASH",
+									["Event"] = "OnShow",
+									["Infinite"] = true,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1TbIsE4MfEaw",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["CustomTex"] = "9576",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [2]
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "return Player:IsStance(2)",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1TbIsE4P3Suo",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["CustomTex"] = "71",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [3]
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "return not Player:HasShield(true)",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1TbIsE4RRLCE",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["CustomTex"] = "2718",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [4]
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "return Player:IsStance(3)",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1TbIyqJ3TFKU",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["CustomTex"] = "2458",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [5]
+						{
+							["Type"] = "conditionicon",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "return Player:HasShield(true)",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1TbIyqJ7JJmF",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["CustomTex"] = "9116",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+						}, -- [6]
+					},
+					["Name"] = "Hidden Visual Settings",
+					["GUID"] = "TMW:group:1TbIsE4I9qqk",
+					["Point"] = {
+						["y"] = -9,
+						["x"] = -75,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+				}, -- [5]
+				{
+					["Scale"] = 1,
+					["Locked"] = true,
+					["Columns"] = 2,
+					["Icons"] = {
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1TbIsE4JwoWN", -- [1]
+								"TMW:icon:1TbIsE4P3Suo", -- [2]
+								"TMW:icon:1TbIyqJ3TFKU", -- [3]
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1TbIsE4MfEaw", -- [1]
+								"TMW:icon:1TbIsE4RRLCE", -- [2]
+								"TMW:icon:1TbIyqJ7JJmF", -- [3]
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+					},
+					["Name"] = "Visible Visual Settings",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["BorderInset"] = true,
+							["BorderIcon"] = 1.5,
+						},
+					},
+					["Conditions"] = {
+						{
+							["Type"] = "ICON",
+							["Icon"] = "TMW:icon:1T0MjsTsMtq6",
+						}, -- [1]
+						["n"] = 1,
+					},
+					["GUID"] = "TMW:group:1TbIvGERJZOy",
+					["Point"] = {
+						["y"] = 43,
+						["relativeTo"] = "TMW:group:1P3cu8AAtSYM",
+					},
+				}, -- [6]
+				{
+					["GUID"] = "TMW:group:1ThI5PpEuV8I",
+					["Locked"] = true,
+					["Columns"] = 1,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "TheAction - LossOfControl",
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "return LossOfControl:IsEnabled(\"PlayerFrame\")",
+								}, -- [1]
+								["n"] = 1,
+							},
+						}, -- [1]
+					},
+					["Name"] = "Visible LoC PlayerFrame",
+					["Point"] = {
+						["y"] = 2,
+						["relativeTo"] = "PlayerFrame",
+						["x"] = -21,
+					},
+				}, -- [7]
+				{
+					["Point"] = {
+						["y"] = -15,
+						["x"] = -29,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["Scale"] = 1,
+					["Rows"] = 2,
+					["Locked"] = true,
+					["Columns"] = 1,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "TheAction - LossOfControl",
+							["ShowTimerText"] = true,
+							["GUID"] = "TMW:icon:1ThI9XCjZDaF",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[102] = {
+									["Alpha"] = 1,
+								},
+							},
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "return LossOfControl:IsEnabled(\"RotationFrame\") and LossOfControl:GetFrameOrder() <= 3",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["FakeHidden"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "TheAction - LossOfControl",
+							["ShowTimerText"] = true,
+							["GUID"] = "TMW:icon:1ThI9XCnmSqm",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[102] = {
+									["Alpha"] = 1,
+								},
+							},
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LUA",
+									["Name"] = "return LossOfControl:IsEnabled(\"RotationFrame\") and LossOfControl:GetFrameOrder() > 1",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["FakeHidden"] = true,
+						}, -- [2]
+					},
+					["Name"] = "Hidden LoC RotationFrame",
+					["GUID"] = "TMW:group:1ThI9JkxdKiN",
+				}, -- [8]
+			},
 			["NumGroups"] = 8,
 			["TextureName"] = "Flat",
 			["CodeSnippets"] = {
@@ -870,10 +4476,8 @@ TellMeWhenDB = {
 			["ActionDB"] = {
 				{
 					["ColorPickerConfig"] = {
-						["highlight"] = {
+						["progressBar"] = {
 							["color"] = {
-							},
-							["blank"] = {
 							},
 						},
 						["font"] = {
@@ -888,6 +4492,12 @@ TellMeWhenDB = {
 								},
 								["header"] = {
 								},
+							},
+						},
+						["highlight"] = {
+							["color"] = {
+							},
+							["blank"] = {
 							},
 						},
 						["backdrop"] = {
@@ -908,10 +4518,6 @@ TellMeWhenDB = {
 							["borderDisabled"] = {
 							},
 							["slider"] = {
-							},
-						},
-						["progressBar"] = {
-							["color"] = {
 							},
 						},
 					},
@@ -1012,11 +4618,11 @@ TellMeWhenDB = {
 					["saveForCRbutton"] = false,
 				}, -- [2]
 				{
-					["disabledActions"] = {
-					},
 					["QluaActions"] = {
 					},
 					["AutoHidden"] = true,
+					["disabledActions"] = {
+					},
 					["luaActions"] = {
 					},
 				}, -- [3]
@@ -1035,12 +4641,27 @@ TellMeWhenDB = {
 						},
 					},
 					["MouseAuto"] = true,
+					["UseMouse"] = true,
+					["UseMain"] = true,
+					["HealOnlyHealers"] = true,
+					["BlackList"] = {
+						["ruRU"] = {
+						},
+					},
 					["MousePvE"] = {
 						["Min"] = 36,
 						["Max"] = 53,
 						["ruRU"] = {
 						},
 					},
+					["MainPvP"] = {
+						["Min"] = 17,
+						["Max"] = 56,
+						["ruRU"] = {
+						},
+					},
+					["UsePvP"] = true,
+					["PvPOnlySmart"] = true,
 					["PvP"] = {
 						["Min"] = 51,
 						["Max"] = 68,
@@ -1052,11 +4673,11 @@ TellMeWhenDB = {
 								["ID"] = 20484,
 								["useRacial"] = true,
 							},
-							["Вой ужаса"] = {
+							["Гнев деревьев"] = {
 								["Enabled"] = true,
 								["useKick"] = true,
 								["useCC"] = true,
-								["ID"] = 5484,
+								["ID"] = 339,
 								["useRacial"] = true,
 							},
 							["Призыв инфернала"] = {
@@ -1080,18 +4701,18 @@ TellMeWhenDB = {
 								["ID"] = 2645,
 								["useRacial"] = true,
 							},
-							["Отпугивание зверя"] = {
-								["Enabled"] = true,
-								["useKick"] = true,
-								["useCC"] = true,
-								["ID"] = 1513,
-								["useRacial"] = true,
-							},
 							["Укус виверны"] = {
 								["Enabled"] = true,
 								["useKick"] = true,
 								["useCC"] = true,
 								["ID"] = 19386,
+								["useRacial"] = true,
+							},
+							["Отпугивание зверя"] = {
+								["Enabled"] = true,
+								["useKick"] = true,
+								["useCC"] = true,
+								["ID"] = 1513,
 								["useRacial"] = true,
 							},
 							["Изгнание"] = {
@@ -1143,11 +4764,11 @@ TellMeWhenDB = {
 								["ID"] = 9484,
 								["useRacial"] = true,
 							},
-							["Гнев деревьев"] = {
+							["Вой ужаса"] = {
 								["Enabled"] = true,
 								["useKick"] = true,
 								["useCC"] = true,
-								["ID"] = 339,
+								["ID"] = 5484,
 								["useRacial"] = true,
 							},
 							["Спячка"] = {
@@ -1159,11 +4780,7 @@ TellMeWhenDB = {
 							},
 						},
 					},
-					["HealOnlyHealers"] = true,
-					["BlackList"] = {
-						["ruRU"] = {
-						},
-					},
+					["MainAuto"] = true,
 					["Heal"] = {
 						["Min"] = 44,
 						["Max"] = 89,
@@ -1240,17 +4857,6 @@ TellMeWhenDB = {
 							},
 						},
 					},
-					["MainPvP"] = {
-						["Min"] = 17,
-						["Max"] = 56,
-						["ruRU"] = {
-						},
-					},
-					["UseMain"] = true,
-					["PvPOnlySmart"] = true,
-					["UsePvP"] = true,
-					["MainAuto"] = true,
-					["UseMouse"] = true,
 				}, -- [4]
 				{
 					["UseDispel"] = true,
@@ -1792,7 +5398,7 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raid7"] = {
+						["raid28"] = {
 							["Enabled"] = true,
 							["Role"] = "AUTO",
 							["useUtils"] = true,
@@ -1819,7 +5425,26 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raidpet38"] = {
+						["pet"] = {
+							["isPet"] = true,
+							["Role"] = "AUTO",
+							["Enabled"] = true,
+							["useUtils"] = true,
+							["LUA"] = "",
+							["useHoTs"] = true,
+							["useShields"] = true,
+							["useDispel"] = true,
+						},
+						["raid7"] = {
+							["Enabled"] = true,
+							["Role"] = "AUTO",
+							["useUtils"] = true,
+							["LUA"] = "",
+							["useHoTs"] = true,
+							["useShields"] = true,
+							["useDispel"] = true,
+						},
+						["raidpet29"] = {
 							["isPet"] = true,
 							["Role"] = "AUTO",
 							["Enabled"] = true,
@@ -1838,28 +5463,10 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raid28"] = {
-							["Enabled"] = true,
-							["Role"] = "AUTO",
-							["useUtils"] = true,
-							["LUA"] = "",
-							["useHoTs"] = true,
-							["useShields"] = true,
-							["useDispel"] = true,
-						},
-						["pet"] = {
+						["raidpet38"] = {
 							["isPet"] = true,
 							["Role"] = "AUTO",
 							["Enabled"] = true,
-							["useUtils"] = true,
-							["LUA"] = "",
-							["useHoTs"] = true,
-							["useShields"] = true,
-							["useDispel"] = true,
-						},
-						["raid16"] = {
-							["Enabled"] = true,
-							["Role"] = "AUTO",
 							["useUtils"] = true,
 							["LUA"] = "",
 							["useHoTs"] = true,
@@ -1875,10 +5482,9 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raidpet21"] = {
-							["isPet"] = true,
-							["Role"] = "AUTO",
+						["raid16"] = {
 							["Enabled"] = true,
+							["Role"] = "AUTO",
 							["useUtils"] = true,
 							["LUA"] = "",
 							["useHoTs"] = true,
@@ -2049,9 +5655,10 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raid20"] = {
-							["Enabled"] = true,
+						["raidpet5"] = {
+							["isPet"] = true,
 							["Role"] = "AUTO",
+							["Enabled"] = true,
 							["useUtils"] = true,
 							["LUA"] = "",
 							["useHoTs"] = true,
@@ -2077,7 +5684,7 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raid2"] = {
+						["raid20"] = {
 							["Enabled"] = true,
 							["Role"] = "AUTO",
 							["useUtils"] = true,
@@ -2104,10 +5711,9 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raidpet5"] = {
-							["isPet"] = true,
-							["Role"] = "AUTO",
+						["raid2"] = {
 							["Enabled"] = true,
+							["Role"] = "AUTO",
 							["useUtils"] = true,
 							["LUA"] = "",
 							["useHoTs"] = true,
@@ -2199,7 +5805,7 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raidpet29"] = {
+						["raidpet33"] = {
 							["isPet"] = true,
 							["Role"] = "AUTO",
 							["Enabled"] = true,
@@ -2218,7 +5824,7 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raidpet33"] = {
+						["raidpet21"] = {
 							["isPet"] = true,
 							["Role"] = "AUTO",
 							["Enabled"] = true,
@@ -2259,8 +5865,8 @@ TellMeWhenDB = {
 						false, -- [5]
 						true, -- [6]
 					},
-					["OffsetTanks"] = 0,
 					["OffsetMode"] = "FIXED",
+					["OffsetTanks"] = 0,
 					["ManaManagementStopAtTTD"] = 6,
 					["OffsetHealersUtils"] = 0,
 					["MultiplierPetsOutCombat"] = 1.15,
@@ -2284,3622 +5890,13 @@ TellMeWhenDB = {
 				}, -- [8]
 				["Ver"] = 2,
 			},
-			["Groups"] = {
-				{
-					["GUID"] = "TMW:group:1Rhh0xLqd4g8",
-					["TimerBar_MiddleColor"] = "ff000000",
-					["Scale"] = 0.600000023841858,
-					["TimerBar_CompleteColor"] = "ff000000",
-					["Name"] = "Shown Main",
-					["TimerBar_StartColor"] = "ff000000",
-					["Locked"] = true,
-					["Columns"] = 8,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1T0KeNg=IDQd", -- [1]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1T0KeNh2uwMT", -- [1]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["GUID"] = "TMW:icon:1T0MjrGnynSL",
-							["Icons"] = {
-								"TMW:icon:1T0Kg0ZzHksM", -- [1]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["GUID"] = "TMW:icon:1T0NdouSxYDb",
-							["Icons"] = {
-								"TMW:icon:1T0Kg0a1tFci", -- [1]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1T0Kg0a6eYf9", -- [1]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1T0Kg0aBPYen", -- [1]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1T0Kg0aG1oeM", -- [1]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1T0Kg0aKbPUI", -- [1]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [61]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [62]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [63]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [64]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [65]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [66]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [67]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [68]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [69]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [70]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [71]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [72]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [73]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [74]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [75]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [76]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [77]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [78]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [79]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [80]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [81]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [82]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [83]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [84]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [85]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [86]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [87]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [88]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [89]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [90]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [91]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [92]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [93]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [94]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [95]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [96]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [97]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [98]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [99]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [100]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [101]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [102]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [103]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [104]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [105]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [106]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [107]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [108]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [109]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [110]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [111]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [112]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [113]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [114]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [115]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [116]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [117]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [118]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [119]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [120]
-					},
-					["Point"] = {
-						["y"] = 12,
-						["x"] = -29,
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-				}, -- [1]
-				{
-					["GUID"] = "TMW:group:1T0KXe2TsCkW",
-					["TimerBar_MiddleColor"] = "ff000000",
-					["Scale"] = 0.600000023841858,
-					["TimerBar_CompleteColor"] = "ff000000",
-					["Name"] = "Hidden APL",
-					["TimerBar_StartColor"] = "ff000000",
-					["Locked"] = true,
-					["Columns"] = 8,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Rotation(thisobj)",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1T0KeNg=IDQd",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Rotation(thisobj)",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1T0KeNh2uwMT",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Rotation(thisobj)",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1T0Kg0ZzHksM",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Rotation(thisobj)",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1T0Kg0a1tFci",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Rotation(thisobj)",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1T0Kg0a6eYf9",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Rotation(thisobj)",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1T0Kg0aBPYen",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Rotation(thisobj)",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1T0Kg0aG1oeM",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Rotation(thisobj)",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1T0Kg0aKbPUI",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [61]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [62]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [63]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [64]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [65]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [66]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [67]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [68]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [69]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [70]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [71]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [72]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [73]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [74]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [75]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [76]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [77]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [78]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [79]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [80]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [81]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [82]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [83]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [84]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [85]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [86]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [87]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [88]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [89]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [90]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [91]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [92]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [93]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [94]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [95]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [96]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [97]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [98]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [99]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [100]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [101]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [102]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [103]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [104]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [105]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [106]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [107]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [108]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [109]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [110]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [111]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [112]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [113]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [114]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [115]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [116]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [117]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [118]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [119]
-						{
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [120]
-					},
-					["Point"] = {
-						["y"] = 50,
-						["x"] = -29.0000038146973,
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-				}, -- [2]
-				{
-					["GUID"] = "TMW:group:1P3cu8AAtSYM",
-					["Columns"] = 1,
-					["Name"] = "Visible APL",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["BorderInset"] = true,
-							["BorderIcon"] = 1.5,
-						},
-					},
-					["Locked"] = true,
-					["Conditions"] = {
-						{
-							["Name"] = "return not GetToggle(1, \"DisableRotationDisplay\")",
-							["Type"] = "LUA",
-						}, -- [1]
-						["n"] = 1,
-					},
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Events"] = {
-								{
-									["OnlyShown"] = true,
-									["Type"] = "Lua",
-									["Lua"] = "Action.ToggleMainUI()",
-									["Event"] = "OnRightClick",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1T0MjsTsMtq6",
-							["Icons"] = {
-								"TMW:icon:1ThI9XCjZDaF", -- [1]
-								"TMW:icon:1T0MjrGnynSL", -- [2]
-								"TMW:icon:1ThI9XCnmSqm", -- [3]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-					},
-					["Point"] = {
-						["relativeTo"] = "TMW:group:1TMvhh5X05mC",
-						["x"] = -0.0001220703125,
-					},
-				}, -- [3]
-				{
-					["GUID"] = "TMW:group:1TMvhh5X05mC",
-					["Columns"] = 1,
-					["Name"] = "Visible APL Layout",
-					["Level"] = 11,
-					["Conditions"] = {
-						{
-							["Name"] = "return not GetToggle(1, \"DisableRotationDisplay\") and not GetToggle(1, \"DisableRotationModes\")",
-							["Type"] = "LUA",
-						}, -- [1]
-						["n"] = 1,
-					},
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["Events"] = {
-								{
-									["OnlyShown"] = true,
-									["Type"] = "Lua",
-									["Lua"] = "if IsShiftKeyDown() then\n    Action.ToggleBurst()\nelseif IsControlKeyDown() then\n    Action.ToggleMode()\nelseif IsAltKeyDown() then\n    Action.ToggleAoE()\nelse\n    Action.PrintHelpToggle()\nend",
-									["Event"] = "OnLeftClick",
-								}, -- [1]
-								{
-									["OnlyShown"] = true,
-									["Type"] = "Lua",
-									["Lua"] = "Action.ToggleMainUI()",
-									["Event"] = "OnRightClick",
-								}, -- [2]
-								["n"] = 2,
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1TMvg5InaYOw",
-									["Texts"] = {
-										"[ActionBurst]", -- [1]
-									},
-								},
-							},
-							["CustomTex"] = "NONE",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-					},
-					["Point"] = {
-						["y"] = 20.16578483581543,
-						["x"] = 14.21902465820313,
-						["point"] = "BOTTOM",
-						["relativePoint"] = "BOTTOM",
-					},
-				}, -- [4]
-				{
-					["GUID"] = "TMW:group:1TbIsE4I9qqk",
-					["Strata"] = "HIGH",
-					["Columns"] = 2,
-					["Name"] = "Hidden Visual Settings",
-					["Scale"] = 1.68641984462738,
-					["Rows"] = 3,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["FakeHidden"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1TbIsE4JwoWN",
-							["Conditions"] = {
-								{
-									["Name"] = "return Player:IsStance(1)",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["CustomTex"] = "2457",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["FakeHidden"] = true,
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Period"] = 0.3,
-									["Animation"] = "ICONFLASH",
-									["Scale"] = 0.6,
-									["AnimColor"] = "87000000",
-									["Event"] = "OnShow",
-									["Infinite"] = true,
-								}, -- [1]
-								["n"] = 1,
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1TbIsE4MfEaw",
-							["Conditions"] = {
-								{
-									["Name"] = "return Player:IsSwapLocked()",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["CustomTex"] = "9576",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["FakeHidden"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1TbIsE4P3Suo",
-							["Conditions"] = {
-								{
-									["Name"] = "return Player:IsStance(2)",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["CustomTex"] = "71",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["FakeHidden"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1TbIsE4RRLCE",
-							["Conditions"] = {
-								{
-									["Name"] = "return not Player:HasShield(true)",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["CustomTex"] = "2718",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["FakeHidden"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1TbIyqJ3TFKU",
-							["Conditions"] = {
-								{
-									["Name"] = "return Player:IsStance(3)",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["CustomTex"] = "2458",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["FakeHidden"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1TbIyqJ7JJmF",
-							["Conditions"] = {
-								{
-									["Name"] = "return Player:HasShield(true)",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["CustomTex"] = "9116",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-					},
-					["Point"] = {
-						["y"] = -9,
-						["x"] = -75,
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-				}, -- [5]
-				{
-					["GUID"] = "TMW:group:1TbIvGERJZOy",
-					["Columns"] = 2,
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1TbIsE4JwoWN", -- [1]
-								"TMW:icon:1TbIsE4P3Suo", -- [2]
-								"TMW:icon:1TbIyqJ3TFKU", -- [3]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1TbIsE4MfEaw", -- [1]
-								"TMW:icon:1TbIsE4RRLCE", -- [2]
-								"TMW:icon:1TbIyqJ7JJmF", -- [3]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-					},
-					["Name"] = "Visible Visual Settings",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["BorderInset"] = true,
-							["BorderIcon"] = 1.5,
-						},
-					},
-					["Locked"] = true,
-					["Conditions"] = {
-						{
-							["Icon"] = "TMW:icon:1T0MjsTsMtq6",
-							["Type"] = "ICON",
-						}, -- [1]
-						["n"] = 1,
-					},
-					["Point"] = {
-						["y"] = 43,
-						["relativeTo"] = "TMW:group:1P3cu8AAtSYM",
-					},
-				}, -- [6]
-				{
-					["GUID"] = "TMW:group:1ThI5PpEuV8I",
-					["Columns"] = 1,
-					["Locked"] = true,
-					["Name"] = "Visible LoC PlayerFrame",
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["Conditions"] = {
-								{
-									["Name"] = "return LossOfControl:IsEnabled(\"PlayerFrame\")",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Type"] = "TheAction - LossOfControl",
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-					},
-					["Point"] = {
-						["y"] = 2,
-						["relativeTo"] = "PlayerFrame",
-						["x"] = -21,
-					},
-				}, -- [7]
-				{
-					["GUID"] = "TMW:group:1ThI9JkxdKiN",
-					["Name"] = "Hidden LoC RotationFrame",
-					["Columns"] = 1,
-					["Locked"] = true,
-					["Scale"] = 1,
-					["Rows"] = 2,
-					["Icons"] = {
-						{
-							["GUID"] = "TMW:icon:1ThI9XCjZDaF",
-							["ShowTimer"] = true,
-							["FakeHidden"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "return LossOfControl:IsEnabled(\"RotationFrame\") and LossOfControl:GetFrameOrder() <= 3",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Type"] = "TheAction - LossOfControl",
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-								[102] = {
-									["Alpha"] = 1,
-								},
-							},
-						}, -- [1]
-						{
-							["GUID"] = "TMW:icon:1ThI9XCnmSqm",
-							["ShowTimer"] = true,
-							["FakeHidden"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "return LossOfControl:IsEnabled(\"RotationFrame\") and LossOfControl:GetFrameOrder() > 1",
-									["Type"] = "LUA",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Type"] = "TheAction - LossOfControl",
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-								[102] = {
-									["Alpha"] = 1,
-								},
-							},
-						}, -- [2]
-					},
-					["Point"] = {
-						["y"] = -15,
-						["x"] = -29,
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-				}, -- [8]
-			},
 			["WarnInvalids"] = false,
 		},
 		["ivl - war - Cata"] = {
-			["Version"] = 110701,
-			["NumGroups"] = 8,
-			["TextureName"] = "Flat",
 			["CodeSnippets"] = {
 				{
 					["Name"] = "Warrior",
-					["Code"] = "local _G, setmetatable, select, unpack, table, pairs, math    =\n_G, setmetatable, select, unpack, table, pairs, math \n\n\nlocal math_ceil                                = math.ceil\nlocal tinsert                                = table.insert \nlocal wipe                                     = _G.wipe \nlocal strsub                                = _G.strsub       \n\nlocal TMW                                     = _G.TMW \nlocal strlowerCache                          = TMW.strlowerCache\nlocal Action                                = _G.Action\nlocal toNum                                 = Action.toNum\nlocal CONST                                 = Action.Const\nlocal Create                                 = Action.Create\nlocal Listener                                = Action.Listener\nlocal Print                                    = Action.Print\n\nlocal TeamCache                                = Action.TeamCache\nlocal EnemyTeam                                = Action.EnemyTeam\nlocal FriendlyTeam                            = Action.FriendlyTeam\nlocal LoC                                     = Action.LossOfControl\nlocal Player                                = Action.Player \nlocal MultiUnits                            = Action.MultiUnits\nlocal UnitCooldown                            = Action.UnitCooldown\nlocal Unit                                    = Action.Unit \n\nlocal SetToggle                                = Action.SetToggle\nlocal GetToggle                                = Action.GetToggle\nlocal GetPing                                = Action.GetPing\nlocal GetGCD                                = Action.GetGCD\nlocal GetCurrentGCD                            = Action.GetCurrentGCD\nlocal GetLatency                            = Action.GetLatency\nlocal BurstIsON                                = Action.BurstIsON\nlocal AuraIsValid                            = Action.AuraIsValid\nlocal InterruptIsValid                        = Action.InterruptIsValid\nlocal IsUnitEnemy                            = Action.IsUnitEnemy\nlocal DetermineUsableObject                    = Action.DetermineUsableObject\nlocal DetermineCountGCDs                    = Action.DetermineCountGCDs\nlocal IsQueueRunningAuto                    = Action.IsQueueRunningAuto\nlocal CancelAllQueueForMeta                    = Action.CancelAllQueueForMeta\nlocal toStr                                            = Action.toStr\nlocal BossMods = Action.BossMods\n\nlocal ActionDataQ                            = Action.Data.Q\nlocal TeamCacheFriendly                        = TeamCache.Friendly\nlocal TeamCacheFriendlyUNITs                = TeamCacheFriendly.UNITs\nlocal ActiveUnitPlates                        = MultiUnits:GetActiveUnitPlates()\n\nlocal CombatLogGetCurrentEventInfo            = _G.CombatLogGetCurrentEventInfo\nlocal ACTION_CONST_AUTOSHOOT                = CONST.AUTOSHOOT\nlocal ACTION_CONST_STOPCAST                    = CONST.STOPCAST\nlocal ACTION_CONST_AUTOTARGET                = CONST.AUTOTARGET\nlocal ACTION_CONST_CACHE_DEFAULT_TIMER        = CONST.CACHE_DEFAULT_TIMER\n\n--For Toaster\nlocal Toaster                                    = _G.Toaster\nlocal GetSpellTexture                             = _G.TMW.GetSpellTexture\n\nlocal UnitCreatureFamily\n\nlocal player = \"player\"\nlocal target = \"target\"\nlocal      UnitGUID,       UnitIsUnit,      UnitAttackSpeed,      UnitAttackPower =\n_G.UnitGUID, _G.UnitIsUnit, _G.UnitAttackSpeed, _G.UnitAttackPower\n\n\nlocal itemId, enchantId = GetInventoryItemLink(\"player\", GetInventorySlotInfo(\"HandsSlot\")):match(\"item:(%d+):(%d+)\")\nenchantId = enchantId == nil and 1 or enchantId\nitemId = itemId == nil and 1 or itemId\n\nAction[Action.PlayerClass]                     = {\n    -- Racials \n    WillToSurvive       = Create({ Type = \"Spell\", ID = 59752 }),  -- Shadowmeld pixel\n    BloodFury           = Create({ Type = \"Spell\", ID = 20572 }),\n    Berserking          = Create({ Type = \"Spell\", ID = 20554 }),\n    WarStomp            = Create({ Type = \"Spell\", ID = 20549 }),\n    Stoneform           = Create({ Type = \"Spell\", ID = 20594 }),\n    WilloftheForsaken   = Create({ Type = \"Spell\", ID = 7744  }), -- Glove on use\n    EscapeArtist        = Create({ Type = \"Spell\", ID = 20589 }), \n    GiftoftheNaaru      = Create({ Type = \"Spell\", ID = 28880 }), -- HealthPotion\n    Shadowmeld          = Create({ Type = \"Spell\", ID = 58984 }), \n    \n    \n    -- Core API\n    AntiFakeCC          = Create({ Type = \"SpellSingleColor\", ID = 5246, Color = \"GREEN\", Desc = \"[1] CC\", QueueForbidden = true, BlockForbidden = true}), -- IntimidatingShout\n    AntiFakeInterrupt1  = Create({ Type = \"SpellSingleColor\", ID = 6552, Color = \"GREEN\", Desc = \"[2] Interrupt\", QueueForbidden = true}),    -- Pummel\n    AntiFakeInterrupt2  = Create({ Type = \"SpellSingleColor\", ID = 72, Desc = \"[2] Interrupt\", QueueForbidden = true}), -- ShieldBash\n    -- Equipment\n    SwapWeapon          = Create({ Type = \"SwapEquip\", ID = 132996, Desc = \"SwapWeapon\", Equip1 = function() return Player:HasShield() and not Player:HasShield(true) end, Equip2 = function() return Player:HasShield(true) and ((not Player:HasWeaponTwoHand(true) and Player:HasWeaponTwoHand()) or (not Player:HasWeaponOffHand(true) and Player:HasWeaponOffHand())) end    }),\n    -- Spell-equip\n    ShootBow            = Create({ Type = \"Spell\", ID = 2480, QueueForbidden = true, BlockForbidden = true }),\n    ShootCrossbow       = Create({ Type = \"Spell\", ID = 7919, QueueForbidden = true, BlockForbidden = true }),\n    ShootGun            = Create({ Type = \"Spell\", ID = 7918, QueueForbidden = true, BlockForbidden = true }),\n    Throw               = Create({ Type = \"Spell\", ID = 2764, QueueForbidden = true, BlockForbidden = true }),\n    -- Class spells \n    Whirlwind           = Create({ Type = \"Spell\", ID = 1680}),\n    \n    BattleStance        = Create({ Type = \"Spell\", ID = 2457, isStance = 1 }),\n    DefensiveStance     = Create({ Type = \"Spell\", ID = 71,   isStance = 2 }),\n    BerserkerStance     = Create({ Type = \"Spell\", ID = 2458, isStance = 3 }),\n    \n    DemoralizingShout   = Create({ Type = \"Spell\", ID = 1160, useMaxRank = true }),\n    SunderArmor         = Create({ Type = \"Spell\", ID = 7386, useMaxRank = true }),\n    Overpower           = Create({ Type = \"Spell\", ID = 7384, useMaxRank = true }),\n    Slam                = Create({ Type = \"Spell\", ID = 1464, useMaxRank = true }),\n    Execute             = Create({ Type = \"Spell\", ID = 5308, useMaxRank = true }),\n    Rend                = Create({ Type = \"Spell\", ID = 772, useMaxRank = true }),\n    MortalStrike        = Create({ Type = \"Spell\", ID = 12294}),\n    DeathWish           = Create({ Type = \"Spell\", ID = 12292, isTalent = true }),\n    SweepingStrikes     = Create({ Type = \"Spell\", ID = 12328, isTalent = true }),\n    Bloodthirst         = Create({ Type = \"Spell\", ID = 23881, isTalent = true, useMaxRank = true }),\n    Cleave              = Create({ Type = \"Spell\", ID = 845, useMaxRank = true }),\n    ThunderClap         = Create({ Type = \"Spell\", ID = 6343, useMaxRank = true }),\n    Revenge             = Create({ Type = \"Spell\", ID = 6572, useMaxRank = true }),\n    HeroicStrike        = Create({ Type = \"Spell\", ID = 78, useMaxRank = true }),\n    MockingBlow         = Create({ Type = \"Spell\", ID = 694, useMaxRank = true }),\n    ShieldSlam          = Create({ Type = \"Spell\", ID = 23922, useMaxRank = true }), -- 50% chance to dispel magic \n    Rampage             = Create({ Type = \"Spell\", ID = 30033, isTalent = true, useMaxRank = true }),\n    VictoryRush         = Create({ Type = \"Spell\", ID = 34428, useMaxRank = true }),\n    ShatteringThrow     = Create({ Type = \"Spell\", ID = 64382, useMaxRank = true }),\n    Bladestorm          = Create({ Type = \"Spell\", ID = 46924, isTalent = true, useMaxRank = true }),\n    HeroicThrow         = Create({ Type = \"Spell\", ID = 57755, useMaxRank = true }),\n    BerserkerRage       = Create({ Type = \"Spell\", ID = 18499 }),\n    Shockwave           = Create({ Type = \"Spell\", ID = 46968, isTalent = true, useMaxRank = true }),\n    ColossusSmash       = Create({ Type = \"Spell\", ID = 86346, useMaxRank = true }),\n    Devastate           = Create({ Type = \"Spell\", ID = 20243, useMaxRank = true}),\n    \n    -- Talents with ranks\n    ImprovedSlam        = Create({ Type = \"Spell\", ID = 12330, isTalent = true, useMaxRank = true }),\n    ImprovedRevenge     = Create({ Type = \"Spell\", ID = 12799, isTalent = true, useMaxRank = true }),\n    ImprovedBerserkerRage = Create({ Type = \"Spell\", ID = 20501, isTalent = true, useMaxRank = true }),\n    -- Burst     \n    Recklessness        = Create({ Type = \"Spell\", ID = 1719 }),\n    Bloodrage           = Create({ Type = \"Spell\", ID = 2687 }),\n    Retaliation         = Create({ Type = \"Spell\", ID = 20230 }),\n    InnerRage           = Create({ Type = \"Spell\", ID = 1134 }),\n    \n    -- Defense\n    ShieldBlock         = Create({ Type = \"Spell\", ID = 2565 }),\n    ShieldWall          = Create({ Type = \"Spell\", ID = 871 }),\n    EnragedRegeneration = Create({ Type = \"Spell\", ID = 55694, useMaxRank = true }),\n    SpellReflection     = Create({ Type = \"Spell\", ID = 23920 }),\n    LastStand           = Create({ Type = \"Spell\", ID = 12975, isTalent = true }),\n    RallyingCry         = Create({ Type = \"Spell\", ID = 97462 }),\n    \n    HSFel1              = Create({ Type = \"Item\", ID = 36892 }),\n    HSFel2              = Create({ Type = \"Item\", ID = 36893 }),\n    HSFel3              = Create({ Type = \"Item\", ID = 36894 }),\n    Gloves              = Create({ Type = \"Item\", ID = tonumber(itemId) }),\n    GlovesUseableEnchant = Create({ Type = \"Spell\", ID = tonumber(enchantId)}),     \n    Intervene                                = Create({ Type = \"Spell\", ID = 3411,     useMaxRank = true                                                 }),\n    -- Misc\n    Taunt               = Create({ Type = \"Spell\", ID = 355 }),\n    TauntPets           = Create({ Type = \"Spell\", ID = 355,    Desc = \"PvP Taunt Pets\"                                            }),\n    ChallengingShout    = Create({ Type = \"Spell\", ID = 1161 }),\n    -- Buffs \n    BattleShout         = Create({ Type = \"Spell\", ID = 6673, useMaxRank = true  }),   \n    CommandingShout     = Create({ Type = \"Spell\", ID = 469, useMaxRank = true  }),     \n    -- CrownControl\n    Hamstring           = Create({ Type = \"Spell\", ID = 1715,     useMaxRank = true }),\n    PiercingHowl        = Create({ Type = \"Spell\", ID = 12323,    isTalent = true, Desc = \"PvP\"                                    }),\n    Charge              = Create({ Type = \"Spell\", ID = 100,     useMaxRank = true }), -- Can't be used in combat\n    Intercept           = Create({ Type = \"Spell\", ID = 20252,     useMaxRank = true }),\n    IntimidatingShout   = Create({ Type = \"Spell\", ID = 5246                    }),\n    Pummel              = Create({ Type = \"Spell\", ID = 6552,     useMaxRank = true }),\n    ShieldBash          = Create({ Type = \"Spell\", ID = 72,     useMaxRank = true }),\n    Disarm              = Create({ Type = \"Spell\", ID = 676     }),    -- Tech limitions to block \n    ConcussionBlow      = Create({ Type = \"Spell\", ID = 12809,     isTalent = true }), \n    Throwdown           = Create({ Type = \"Spell\", ID = 85388,    isTalent = true}),\n    -- Hidden\n    TacticalMastery     = Create({ Type = \"Spell\", ID = 12295,     isTalent = true, Hidden = true                                     }),    \n    Flurry              = Create({ Type = \"Spell\", ID = 12319,     isTalent = true, useMaxRank = true, Hidden = true                 }),    \n    BlessingofProtection = Create({ Type = \"Spell\", ID = 1022,     Color = \"BLUE\",  Hidden = true                                     }),    \n    PowerWordShield     = Create({ Type = \"Spell\", ID = 17,     Hidden = true     }),    \n    WindfuryTotem       = Create({ Type = \"Spell\", ID = 8512,     Hidden = true     }),    \n    ExposeArmor         = Create({ Type = \"Spell\", ID = 8647,     Hidden = true    }),    \n    Evasion             = Create({ Type = \"Spell\", ID = 5277,     Hidden = true    }),    \n    ImprovedRend        = Create({ Type = \"Spell\", ID = 12286,    Hidden = true    }),\n    WeaponDesync        = Create({ Type = \"Spell\", ID = 20594,    Hidden = true    }),\n    -- Items\n    PotionofSpeed       = Create({ Type = \"Potion\", ID = 40211}),\n    RunicHealingPotion  = Create({ Type = \"Potion\", ID = 33447}),\n}\n\n\nPlayer:RegisterShield()\nPlayer:RegisterWeaponTwoHand()\nPlayer:RegisterWeaponOffHand()\nAction.Data.QueueAutoResetTimer                = 2.5\nlocal A                                     = setmetatable(Action[Action.PlayerClass], { __index = Action })\n\n-- Re-init gloves on equip change\nlocal function initGloves()\n    itemId, enchantId = GetInventoryItemLink(\"player\", GetInventorySlotInfo(\"HandsSlot\")):match(\"item:(%d+):(%d+)\")\n    enchantId = enchantId == nil and 1 or enchantId\n    itemId = itemId == nil and 1 or itemId\n    Action[Action.PlayerClass]['Gloves'] = Create({ Type = \"Item\", ID = tonumber(itemId) })\n    Action[Action.PlayerClass]['GlovesUseableEnchant'] = Create({ Type = \"Spell\", ID = tonumber(enchantId) })\nend\n\nListener:Add(\"ACTION_EVENT_PLAYER_INV\", \"PLAYER_EQUIPMENT_CHANGED\", initGloves)\nListener:Add(\"ACTION_EVENT_WARRIOR\", \"PLAYER_REGEN_DISABLED\", initGloves)\nTMW:RegisterCallback(\"TMW_ACTION_ENTERING\", initGloves)\n\n-- --Register Toaster\n-- Toaster:Register(\"OnniToast\", function(toast, ...)\n--         local title, message, spellID = ...\n--         toast:SetTitle(title or \"nil\")\n--         toast:SetText(message or \"nil\")\n--         if spellID then \n--             if type(spellID) ~= \"number\" then \n--                 error(tostring(spellID) .. \" (spellID) is not a number for OnniToast!\")\n--                 toast:SetIconTexture(\"Interface\\FriendsFrame\\Battlenet-WoWicon\")\n--             else \n--                 toast:SetIconTexture((GetSpellTexture(spellID)))\n--             end \n--         else \n--             toast:SetIconTexture(\"Interface\\FriendsFrame\\Battlenet-WoWicon\")\n--         end \n--         toast:SetUrgencyLevel(\"normal\") \n-- end)\n\nlocal Temp  = {\n    AttackTypes         = {\"TotalImun\", \"DamagePhysImun\"},\n    AuraForInterrupt    = {\"TotalImun\", \"DamagePhysImun\", \"KickImun\"},\n    AuraForDisarm       = {\"TotalImun\", \"DamagePhysImun\", \"CCTotalImun\"},\n    \n    KickImun = {\n        642,   -- Bubble\n        48707, -- Anti-Magic Shell\n        31821, -- AuraMastery\n        96267, -- StrengthOfSpirit (Priest)\n        8178,  -- Kick immunity\n        1022, 87772, 66009, 41450, 23415, -- BoP\n        642,    -- Bubble\n        10278,  -- Hand of Protection\n    },\n    DisarmedSpells  = {\n        51722,  -- Dismantle (rogue)\n        676,    -- Disarm (warrior)\n    },\n    IsSlotTrinketBlocked                    = {\n        [51378] = true, --Medallion of the Horde\n        [42123] = true, -- Medallion of the Alliance\n    },\n    shatterIDs  = {\n        45438,  -- Ice block\n        41450,  -- BoP\n        23415,  -- imp BoP\n        642,    -- Bubble\n        10278,  -- Hand of Protection\n    },\n    slowIDs = {\n        7373, 1715, 7372, 9080, 25212, 26141, 26211, 27584,  -- Hamstring\n        45524,  -- Chains of ice\n        3408,   -- Cripping poison\n        13810,  -- Frost aura F\n        31589,  -- Mage slow\n    },\n    DodgeParryIDs = {\n        5277,   -- Evasion\n    },\n    slowImmunity = {\n        1044,   -- Hand of Freedom\n        46924,  -- Bladestorm\n        53271,  -- Master's Call \n        46924,  -- Bladestorm\n        47585,  -- Dispersion\n        34692, 34471, 38373, -- The beast within\n        45438,  -- Ice block\n        1022, 87772, 66009, 41450, 23415, -- BoP\n        642,    -- Bubble\n        47585,  -- Dispersion\n        19263,  -- Deterrence\n    },\n    MagicImmunity= {\n        31224, -- Cloak of Shadows\n        48707, -- Anti-Magic Shell    \n        642,    -- Bubble\n        45438,  -- Ice block\n        19263,  -- Deterrence\n    }, \n    totemsToDestroy = {\n        \n        --\"Windfury Totem\",\n        --\"Тотем неистовства ветра\",\n        \n        -- \"Earthbind Totem\",\n        -- \"Тотем оков земли\",\n        \n        \"Spirit Link Totem\",\n        \"Тотем духовной связи\",\n        \n        \"Mana Tide Totem\",\n        \"Тотем прилива маны\",\n    },\n    PhysicalImmunity = {\n        45438,  -- Ice block\n        \n        1022,   -- BoP 1\n        87772,  -- BoP 2\n        66009,  -- BoP 3\n        41450,  -- BoP 4\n        23415,  -- imp BoP\n        642,    -- Bubble\n        10278,  -- Hand of Protection\n        \n        19263,  -- Deterrence\n        47585,  -- Dispersion\n    }, \n    TotalImmunity = {\n        642,    -- Bubble\n        47585,  -- Dispersion\n        19263,  -- Deterrence\n    },\n    PhysicalAndTotalImmunity = {\n        45438,  -- Ice block\n        1022, 87772, 66009, 41450, 23415, -- BoP\n        642,    -- Bubble\n        47585,  -- Dispersion\n        19263,  -- Deterrence\n    },\n    MagicAndTotalImmunity = {\n        642,    -- Bubble\n        47585,  -- Dispersion\n        19263,  -- Deterrence\n        31224,  -- Cloak of Shadows\n        48707,  -- Anti-Magic Shell    \n        642,    -- Bubble\n        45438,  -- Ice block\n    },\n    CantSunder = {\n        7386, 8647, 770, 35387,  -- Expose armor \n    },\n    ShouldDisarmSpells = {\n        51713, -- Shadowdance\n        46924, -- Bladestorm\n        51271, -- Pillar of Frost\n        49016, \n    },\n    ReflectSpellsPvP = {\n        [50796]                            = true, -- Chaos Bolt\n        [59170]                            = true, -- Chaos Bolt\n        [59171]                            = true, -- Chaos Bolt\n        [59172]                            = true, -- Chaos Bolt\n        [33786]                            = true, -- Clone\n        [51514]                         = true, -- Hex\n        [118]                           = true, -- Poly\n        [12824]                         = true, -- Poly\n        [12825]                         = true, -- Poly\n        [12826]                         = true, -- Poly\n        [28271]                         = true, -- Poly turtle\n        [28272]                         = true, -- Poly pig\n        [61305]                         = true, -- Poly cat\n        [61721]                         = true, -- Poly rabbit\n        [61780]                         = true, -- Poly turkey\n        [339]                           = true, -- Dru roots\n        [1062]                          = true, -- Dru roots\n        [5195]                          = true, -- Dru roots\n        [5196]                          = true, -- Dru roots\n        [9852]                          = true, -- Dru roots\n        [9853]                          = true, -- Dru roots\n        [26989]                         = true, -- Dru roots\n        [53308]                         = true, -- Dru roots\n        [2912]                          = true, -- Star fire\n        [8949]                          = true, -- Star fire\n        [8950]                          = true, -- Star fire\n        [8951]                          = true, -- Star fire\n        [9875]                          = true, -- Star fire\n        [9876]                          = true, -- Star fire\n        [25298]                         = true, -- Star fire\n        [26986]                         = true, -- Star fire\n        [48464]                         = true, -- Star fire\n        [48465]                         = true, -- Star fire\n        [51505]                         = true, -- Lava burst\n        [60043]                         = true, -- Lava burst\n        [34914]                         = true, -- Vampiric touch\n        [34916]                         = true, -- Vampiric touch\n        [34917]                         = true, -- Vampiric touch\n        [48159]                         = true, -- Vampiric touch\n        [48160]                         = true, -- Vampiric touch\n        [14311]                         = true, -- Freezing trap\n        [60192]                         = true, -- Freezing arrow\n        [1499]                         = true, -- Freezing trap\n        [14310]                         = true, -- Freezing trap\n        [16166]                         = true, -- Elemental mastery\n        \n    },\n    imStunned = {\n        -- Death Knight\n        91800, -- Gnaw (pet stun)\n        \n        -- Druid\n        5211, -- Bash\n        22570, -- Maim\n        16979, -- Feral Charge (Bear, interrupts and immobilizes)\n        \n        -- Hunter\n        19577, -- Intimidation\n        90337, -- Bad manner\n        91797, -- Monstrous Blow\n        93433, -- Burrow Attack\n        56626, -- Sting\n        50519, -- Sonic blast\n        \n        -- Mage\n        44572, -- Deep Freeze\n        12592, -- Improved Polymorph\n        12357, -- Impact (Fireblast proc)\n        \n        -- Paladin\n        853, -- Hammer of Justice\n        \n        -- Priest\n        64044, -- Psychic Horror (with a disarm and horror effect)\n        \n        -- Rogue\n        408, -- Kidney Shot\n        1833, -- Cheap Shot\n        \n        -- Shaman\n        39796, -- Stoneclaw Totem Stun\n        58861, -- Bash (Feral Spirit)\n        \n        -- Warlock\n        30283, -- Shadowfury\n        89766, -- Axe Toss (from Felguard)\n        85114, -- Aftermath (Random stun fom rain)\n        \n        -- Warrior\n        85388, -- Throwdown\n        12809, -- Concussion Blow\n        46968, -- Shockwave\n        \n        \n        -- Tauren racial\n        20549, -- War Stomp\n    },\n    SpellReflectTimer = 0, \n}\n\nlocal arenaIDs = {\n    [1] = \"arena1\",\n    [2] = \"arena2\", \n    [3] = \"arena3\", \n    [4] = \"arena4\", \n    [5] = \"arena5\"\n}\n\nlocal partyIDs  = {\n    [1] = \"party1\",\n    [2] = \"party2\",\n}\n\n-- Initialization\nListener:Add(\"ACTION_EVENT_WARRIOR_SPELL_REFLECT\", \"UNIT_SPELLCAST_SUCCEEDED\", function(...)\n        local source, _, spellID = ...\n        if source == player and A.SpellReflection.ID == spellID then\n            Temp.SpellReflectTimer = (math.random(60, 90) / 100)\n        end\nend)\n\n-- Util functions\nlocal function SpellReflectTimerInit()\n    if Temp.SpellReflectTimer == 0 then\n        Temp.SpellReflectTimer = (math.random(60, 90) / 100)\n    end\nend\nTMW:RegisterCallback(\"TMW_ACTION_IS_INITIALIZED\", SpellReflectTimerInit)\n\n-- Usage of trinkets\nlocal function UseItems(unitID)\n    if A.Trinket1:IsReadyByPassCastGCD(unitID) and A.Trinket1:IsCastable() and A.Trinket1:GetItemCategory() ~= \"DEFF\" and not Temp.IsSlotTrinketBlocked[A.Trinket1.ID] and A.Trinket1:AbsentImun(unitID, Temp.TotalAndMagPhys) then\n        return A.Trinket1\n    end\n    \n    if A.Trinket2:IsReadyByPassCastGCD(unitID) and A.Trinket2:IsCastable() and A.Trinket2:GetItemCategory() ~= \"DEFF\" and not Temp.IsSlotTrinketBlocked[A.Trinket2.ID] and A.Trinket2:AbsentImun(unitID, Temp.TotalAndMagPhys) then\n        return A.Trinket2\n    end\nend\n\nlocal BurstPhase = {}\nlocal btn_BladestormBurst = false\nAction.ForceBurst = function(self, ...)\n    btn_BladestormBurst = not btn_BladestormBurst\n    if not btn_BladestormBurst then\n        A.Toaster:SpawnByTimer(\"OnniToast\", 0, \"STOPPING burst\", \"He dead yet?\", A.Bladestorm.ID)\n        wipe(BurstPhase)\n    else\n        A.Toaster:SpawnByTimer(\"OnniToast\", 0, \"STARTING burst\", \"Let's gooooooo!\", A.Bladestorm.ID)\n    end\n    \n    Print(\"Force  Burst: \" .. toStr[btn_BladestormBurst])\nend\n\n-- Reset Vars\nlocal function ResetVars()\n    if btn_BladestormBurst then\n        A.ForceBurst(\"ExecuteProc\")\n    end\nend\n\nTMW:RegisterCallback(\"TMW_ACTION_ENTERING\",                        ResetVars)\nTMW:RegisterCallback(\"TMW_ACTION_IS_INITIALIZED\",                ResetVars)\nListener:Add(\"ACTION_EVENT_WARRIOR\", \"PLAYER_REGEN_ENABLED\",    ResetVars)\n\nlocal function InMelee(unitID)\n    -- @return boolean \n    return A.Rend:IsInRange(unitID) or (A.Rend:IsBlockedBySpellBook() and Player:GetSwing(4) > 0)\nend \n\nlocal function IsBossFight()\n    -- @return boolean \n    for i = 1, MAX_BOSS_FRAMES do \n        if Unit(\"boss\" .. i):IsExists() then \n            return true \n        end \n    end \nend \n\nlocal function GetStance()\n    -- @return number (1 - BattleStance, 2 - DefensiveStance, 3 - BerserkerStance)\n    return Player:GetStance()\nend \n\nlocal function NextAutoIsSpecial()\n    -- @return boolean \n    -- true if HeroicStrike or Cleave placed in use queue by next swing attack \n    return A.HeroicStrike:IsSpellCurrent() or A.Cleave:IsSpellCurrent()\nend \n\nlocal function isCasterClass(unitID)\n    return Unit(unitID):Class() == \"MAGE\" or Unit(unitID):Class() == \"WARLOCK\" or Unit(unitID):Class() == \"PRIEST\" or Unit(unitID):IsHealer() == true\nend    \n\nlocal function isMeleeClass(unitID)\n    return Unit(unitID):Class() == \"WARRIOR\" or Unit(unitID):Class() == \"ROGUE\" or Unit(unitID):Class() == \"DEATHKNIGHT\"\nend         \n\n\nlocal function GetByRange(count, range, isNotEqual, isCheckCombat)\n    -- @return boolean \n    local c = 0 \n    for unitID in pairs(ActiveUnitPlates) do \n        if (not isNotEqual or not UnitIsUnit(unitID, \"target\")) and (not isCheckCombat or Unit(unitID):CombatTime() > 0) and not Unit(unitID):IsTotem() then \n            if ((not A.Hamstring:IsBlockedBySpellBook() and A.Hamstring:IsInRange(unitID)) or (not A.Rend:IsBlockedBySpellBook() and A.Rend:IsInRange(unitID))) then \n                c = c + 1\n            elseif range then \n                local r = Unit(unitID):GetRange()\n                if r > 0 and r <= range then \n                    c = c + 1\n                end \n            end \n            \n            if c >= count then \n                return true \n            end \n        end \n    end     \nend \n\nlocal function ShouldDisarm(unitID)\n    if  Unit(unitID):IsPlayer() and -- Is player\n    A.Disarm:GetCooldown() == 0 and -- Disarm no CD (cant use ready because stance limitation)\n    Unit(player):Power() > 15 and -- I have rage for disarm (ca)\n    Unit(unitID):HasBuffs(Temp.PhysicalAndTotalImmunity) == 0  and -- Target has no immunities on\n    Unit(unitID):HasDeBuffs(51722) == 0 and -- Target is not already disarmed\n    Unit(unitID):HasDeBuffs(676) == 0 and  -- Target is not already disarmed\n    Unit(unitID):HasBuffs(Temp.ShouldDisarmSpells) > 1 and\n    InMelee(unitID) and not \n    Unit(unitID):InLOS() then\n        return true\n    end\nend\n\nlocal multiRend = GetToggle(2, \"Multirend\")\nlocal function ShouldRend(unitID)\n    if multiRend \n    and Unit(unitID):IsPlayer() \n    and Unit(\"target\"):HasDeBuffs(A.Rend.ID, true) < GetGCD() \n    and Unit(target):HealthPercent() > 70 \n    and InMelee(unitID) \n    and A.Rend:IsReady(unitID) \n    and A.Rend:IsInRange(unitID)then\n        return true\n    end\nend\n\n\nlocal function CanInterrupt(unitID)\n    if A.Pummel:GetCooldown() == 0 and Unit(player):Power() >= 10 and InMelee(unitID) then\n        return true\n    end\nend\n\nlocal unitIDtargets = setmetatable({}, { -- string cache for faster performance\n        __index = function(t, v)\n            t[v] = v .. \"target\"\n            return t[v]\n        end,\n})\n\nlocal function ShouldSpellReflect()\n    local reflectHP                 = GetToggle(2, \"DefensiveReflect\")\n    if Unit(player):HealthPercent() <= reflectHP then\n        if A.Zone ~= \"arena\" then\n            local castLeft, _, spellID\n            for Reflect_UnitID in pairs(ActiveUnitPlates) do\n                castLeft, _, spellID = Unit(Reflect_UnitID):IsCastingRemains()\n                if castLeft > 0 and castLeft <= GetLatency() + Temp.SpellReflectTimer and UnitIsUnit(unitIDtargets[Reflect_UnitID], player) and Temp.ReflectSpellsPvP[spellID] then\n                    return true\n                end\n            end\n        else\n            local castLeft, _, spellID\n            local arenaPlayer\n            for i = 1, 5 do\n                arenaPlayer = arenaIDs[i]\n                castLeft, _, spellID = Unit(arenaPlayer):IsCastingRemains()\n                if castLeft > 0 and castLeft <= GetLatency() + Temp.SpellReflectTimer and UnitIsUnit(unitIDtargets[arenaPlayer], player) and Temp.ReflectSpellsPvP[spellID] then\n                    return true\n                end\n            end\n        end\n    end\n    \nend \n\nlocal function MassSpellReflectInRange(unitID)\n    return A.Intervene:IsInRange(party1)\nend\n\nlocal function GetByRangeWithDebuffAndBuff(range, hardstop, debuffIDs, buffIDs)\n    -- @return number\n    -- @usage A.MultiUnits:GetByRangeInCombat(@number, @number, @number)\n    -- All options are optimal\n    local total = 0\n    \n    for unitID in pairs(ActiveUnitPlates) do \n        if (not range or Unit(unitID):CanInterract(range)) and Unit(unitID):HasBuffs(debuffIDs) == 0 and Unit(unitID):HasDeBuffs(buffIDs) == 0 and Unit(unitID):InLOS() and (isMeleeClass(unitID) or Unit(unitID):Class() == \"PRIEST\") and not Unit(unitID):IsTotem() then \n            total = total + 1\n        end \n        \n        if hardstop and total >= hardstop then \n            break \n        end \n    end \n    \n    return total \nend \n\nlocal function GetGUID(unitID)\n    return (unitID and TeamCacheFriendlyUNITs[unitID]) or UnitGUID(unitID)\nend \n\n-------------------------------------------\n-- Revenge track\n-------------------------------------------\nlocal revengeGUID = {}\nlocal isPushedBack = 0\n\nlocal function RESET_GUID(DestGUID)    \n    wipe(revengeGUID)\n    isPushedBack = 0\nend\n\nlocal IsEventIsDied = {\n    [\"UNIT_DIED\"]                         = true,\n    [\"UNIT_DESTROYED\"]                    = true,\n    [\"UNIT_DISSIPATES\"]                    = true,\n    [\"PARTY_KILL\"]                         = true,\n    [\"SPELL_INSTAKILL\"]                 = true,\n}\n\nlocal function COMBAT_LOG_EVENT_UNFILTERED(...)\n    local _, EVENT, _, SourceGUID, _, _, _, DestGUID, _, _, _, missTypeSwing, spellName, _, missType = CombatLogGetCurrentEventInfo()\n    \n    -- Log Save\n    local lastSix = strsub(EVENT, -6)\n    local pGuid = GetGUID(\"player\")\n    if lastSix == \"MISSED\" then\n        if (missTypeSwing == \"DODGE\" or missTypeSwing == \"BLOCK\" or missTypeSwing == \"PARRY\") and pGuid == DestGUID then\n            revengeGUID[pGuid] = TMW.time + 5\n        end\n        -- Log Remove\n    else\n        if pGuid == SourceGUID and missTypeSwing == A.Revenge.ID then\n            RESET_GUID(DestGUID)\n        end\n        if DestGUID == pGuid\n        and (missTypeSwing == 59159 -- Thunderstorm\n            or missTypeSwing == 61384 -- Typhoon\n        or missTypeSwing == 42945) -- Blast Wave\n        then\n            isPushedBack = TMW.time\n        end\n    end\nend \n\nListener:Add(\"ACTION_EVENT_WARRIOR\", \"PLAYER_REGEN_ENABLED\", RESET_GUID) \nListener:Add(\"ACTION_EVENT_WARRIOR\", \"COMBAT_LOG_EVENT_UNFILTERED\", COMBAT_LOG_EVENT_UNFILTERED) \n\n\nlocal function IsRevengeUP(unitID)\n    -- @return boolean \n    local GUID = UnitGUID(unitID) \n    return GUID and revengeGUID[GUID] and TMW.time < revengeGUID[GUID]\nend \n\nlocal function HasAttachedGlyph(ID)\n    for i = 1, 6 do\n        local enabled, _, _, glyphSpellID = GetGlyphSocketInfo(i);\n        if enabled and glyphSpellID then\n            --print(i .. \" - \" .. glyphSpellID .. \" - \" .. GetGlyphLink(i))\n            if glyphSpellID == ID then\n                return true\n            end\n        end\n    end\n    return false\nend\n\n-- -- Create a frame to handle events\n-- local frame = CreateFrame(\"Frame\")\n\n-- -- Register the event you want to track (UNIT_SPELLCAST_START in this case)\n-- frame:RegisterEvent(\"UNIT_SPELLCAST_START\")\n\n-- -- Set up the event handler function\n-- frame:SetScript(\"OnEvent\", function(self, event, unit, castID, spellID)\n--     -- Check if the event is for the player's target\n--     if unit == \"target\" then\n--         -- Get the target's name\n--         local targetName = UnitName(\"target\") or \"Unknown Target\"\n\n--         -- Print the target's name, cast ID, and spell ID\n--         print(\"Target:\", targetName, \"Cast ID:\", castID, \"Spell ID:\", spellID)\n--     end\n-- end)\n\n\n\nlocal function GetByRange(count, range, isNotEqual, isCheckCombat)\n    -- @return boolean\n    local c = 0\n    for unitID in pairs(ActiveUnitPlates) do\n        if (not isNotEqual or not UnitIsUnit(unitID, \"target\")) and (not isCheckCombat or Unit(unitID):CombatTime() > 0) and not Unit(unitID):IsTotem() then\n            if ((not A.HeroicStrike:IsBlockedBySpellBook() and A.HeroicStrike:IsInRange(unitID)) or (not A.ShieldSlam:IsBlockedBySpellBook() and A.ShieldSlam:IsInRange(unitID))) then\n                c = c + 1\n            elseif range then\n                local r = Unit(unitID):GetRange()\n                if r > 0 and r <= range then\n                    c = c + 1\n                end\n            end\n            \n            if c >= count then\n                return true\n            end\n        end\n    end\nend\n\n-------------------------------------------\n-- GLOBAL API\n-------------------------------------------\n\n\nfunction Action:PowerLimitOK(meta)\n    -- @return boolean \n    local PowerLimit \n    if not self.isStance or (meta and meta == 2) then \n        return true \n    elseif self.isStance == 1 then \n        PowerLimit = GetToggle(2, \"BattleStancePowerLimit\") \n    elseif self.isStance == 2 then \n        PowerLimit = GetToggle(2, \"DefensiveStancePowerLimit\") \n    elseif self.isStance == 3 then \n        PowerLimit = GetToggle(2, \"BerserkerStancePowerLimit\") \n    end \n    \n    return PowerLimit and ((PowerLimit <= 0 and true) or Unit(\"player\"):Power() <= PowerLimit)\nend \n\nPlayer:AddTier(\"Tier8\", { 45431, 45433, 45429, 45430, 45432,   -- iLvl 225\n46151, 46149, 46146, 46148, 46150 }) -- ilvl 232\n\nPlayer:AddTier(\"Tier10\", { 50846, 50847, 50848, 50849, 50850,   -- iLvl 251\n        51215, 51216, 51217, 51218, 51219,    -- ilvl 264 \n51221, 51224, 51220, 51222, 51223 }) -- ilvl 277\n\n-------------------------------------------\n-- [[ WeaponSwingTimer ]] \n-------------------------------------------\n-- local function IsWeaponSwingTimerEnabled(silence)\n--     if not WeaponSwingTimerPlayerFrame then \n--         if not silence then \n--             Print(\"WeaponSwingTimer - \" .. strlowerCache[ADDON_DISABLED])\n--         end \n--         return  \n--     end \n\n--     if not WeaponSwingTimerPlayerFrame.main_right_text then \n--         if not silence then \n--             Print(\"WeaponSwingTimer - \" .. strlowerCache[INVTYPE_WEAPONMAINHAND] .. \" \" .. strlowerCache[STOPWATCH_TITLE] .. \" \" .. strlowerCache[ADDON_DEP_DISABLED])\n--         end \n--         return \n--     end \n\n--     if not WeaponSwingTimerPlayerFrame.off_right_text then \n--         if not silence then \n--             Print(\"WeaponSwingTimer - \" .. strlowerCache[INVTYPE_WEAPONOFFHAND] .. \" \" .. strlowerCache[STOPWATCH_TITLE] .. \" \" .. strlowerCache[ADDON_DEP_DISABLED])            \n--         end \n--         return \n--     end     \n\n--     return true \n-- end \n\n-- local function GetWeaponSwingTimer(slot)\n--     -- @return number provided by WeaponSwingTimer addon \n--     -- @usage 1 for main hand, 2 for off hand \n--     if slot == 1 then \n--         local text = WeaponSwingTimerPlayerFrame.main_right_text:GetText() \n--         if not text or text == \"\" then \n--             return 0 \n--         end \n--         return toNum[text] \n--     end \n\n--     if slot == 2 then \n--         local text = WeaponSwingTimerPlayerFrame.off_right_text:GetText()\n--         if not text or text == \"\" then \n--             return 0 \n--         end \n--         return toNum[text] \n--     end \n-- end \n\nlocal function HeroicStrikeAdjustedPower()\n    -- @return number \n    return (Player:HasWeaponOffHand(true) and GetToggle(2, \"HeroicStrike-Trick\") and GetToggle(2, \"HeroicStrike-TrickRage\") and IsWeaponSwingTimerEnabled(true) and A.HeroicStrike:GetSpellPowerCostCache()) or 0\nend \n\n-- -- [[ Initialization ]]\n-- local function WeaponSwingTimerInit()\n--     -- It will enable toggle for using HeroicStrike-Trick if WeaponSwingTimer addon also was found enabled ONCE, otherwise will do nothing \n--     if not IsWeaponSwingTimerEnabled(true) then \n--         -- Disable\n--         SetToggle({2, \"HeroicStrike-Trick\"}, false)\n--         SetToggle({2, \"HeroicStrike-TrickRage\"}, false)\n--     else \n--         -- Enable ONCE\n--         if TMW.db.profile.ActionDB[2].WeaponSwingTimerInit == nil then \n--             TMW.db.profile.ActionDB[2].WeaponSwingTimerInit = true \n--             SetToggle({2, \"HeroicStrike-Trick\"}, true)\n--             SetToggle({2, \"HeroicStrike-TrickRage\"}, false)\n--         end \n--     end \n--     TMW:UnregisterCallback(\"TMW_ACTION_IS_INITIALIZED\", WeaponSwingTimerInit)\n-- end \n-- TMW:RegisterCallback(\"TMW_ACTION_IS_INITIALIZED\", WeaponSwingTimerInit)\n\n-- [1] CC AntiFake Rotation\nA[1] = function(icon)    \n    if A.IntimidatingShout:GetCooldown() == 0 then\n        return A.AntiFakeCC:Show(icon)\n    end\nend \n\n-- [2] Kick AntiFake Rotation\nA[2] = function(icon)\n    local canPrePull = GetToggle(1, \"BossMods\") and BossMods:HasAnyAddon() and not inCombat and Unit(target):IsBoss() --and IsInRaid()\n    local unitID\n    if IsUnitEnemy(\"mouseover\") then \n        unitID = \"mouseover\"\n    elseif IsUnitEnemy(\"target\") then \n        unitID = \"target\"\n    end \n    \n    if unitID then         \n        local castLeft, _, _, _, notKickAble = Unit(unitID):IsCastingRemains()\n        \n        if castLeft > 0 then    \n            if not notKickAble and A.Pummel:GetCooldown() == 0 and Unit(\"player\"):Power() >= 10 then   \n                return A.AntiFakeInterrupt1:Show(icon)                                      \n            end\n        end       \n    end\n    \n    if  --Unit(player):HasBuffs(53908) == 0\n    A.PotionofSpeed:IsReadyByPassCastGCD(player, true) \n    and BossMods:GetPullTimer() <= 1.5\n    then\n        return A.PotionofSpeed:Show(icon)\n    end\nend\n\n-- [3] Rotation \n-- -- TODO / REMINDERS / Issues\n-- -- Issue; Overpower usage low compared to other warriors\n-- -- -- Need to record games to see if they actually fall off\n-- -- Issue; Delay disarm more, looks very unhuman\n-- -- --  needs to be in client\n-- -- Issue; Not properly multirending\n-- -- --  Added logging\n-- -- Improvement; Don't disarm bladestorm if retal is up\n-- -- -- Don't rend if proc is about to expire. Don't hamstring is proc is about to expire\n\nA[3] = function(icon)   \n    -- Toggles\n    local BattleStancePvP                   = GetToggle(2, \"BattlestanceValue\")\n    local DefensiveStancePvP                = GetToggle(2, \"DefensivestanceValue\")\n    local AoEenabled                        = GetToggle(2, \"AoE\")\n    local SunderPvp                         = GetToggle(2, \"SunderPvp\")\n    local EnragedRegenerationSlider         = GetToggle(2, \"EnragedRegeneration\")\n    local Totemstomp                        = GetToggle(2, \"TotemStomp\")\n    local DumpRageValuePvE                  = GetToggle(2, \"DumpRageValuePvE\")\n    local DumpRageValuePvP                  = GetToggle(2, \"DumpRageValuePvP\")\n    local ZugRageValue                      = GetToggle(2, \"ZugSliderValue\")\n    local HealthStoneSlider                 = GetToggle(2, \"Healthstone\")\n    local PushbackCharge                    = GetToggle(2, \"PushbackCharge\")\n    local ReckBurstEnabled                  = GetToggle(2, \"ReckBurstEnabled\")\n    local ReckMinHealthSlider               = GetToggle(2, \"ReckMinHealthSlider\")\n    local GloveSnipeHealth                  = GetToggle(2, \"GloveSnipeHealth\")\n    local AutoKick                          = GetToggle(2, \"AutoKick\")\n    local UseShieldWall                     = GetToggle(2, \"UseShieldWall\")\n    local RallyingCrySlider                 = GetToggle(2, \"RallyingCry\")\n    \n    local activeEnemies                     = MultiUnits:GetByRangeInCombat(10)\n    local SpecTree                          = GetPrimaryTalentTree()\n    \n    -- Specs\n    local armsSpec                          = SpecTree == 1\n    local furySpec                          = SpecTree == 2\n    local protSpec                          = SpecTree == 3\n    \n    \n    -- General vars\n    local player                            = \"player\"\n    local target                            = \"target\"\n    local isTarget, isTargetInMelee\n    local combatTime                        = Unit(\"player\"):CombatTime()\n    \n    -- Targets\n    local IceTomb = \"Ледяной склеп\" -- Ледяной склеп Великан клана Темных Рун\n    \n    local inCombat                          = combatTime > 0\n    local multipleTargets                   = GetByRange(2, 8)\n    local myRage                            = Unit(player):Power()\n    local myHealth                          = Unit(player):HealthPercent()\n    local improvedSlamRank                  = A.ImprovedSlam:GetTalentRank()\n    local improvedRevengeRank               = A.ImprovedRevenge:GetTalentRank()\n    local improvedBerserkerRage             = A.ImprovedBerserkerRage:GetTalentRank()\n    local notMoving                         = Player:IsStayingTime() > 0.2\n    local targetLowHealth                   = Unit(target):HealthPercent() < 30\n    local _, _, _, _, _, npc_id             = Unit(target):InfoGUID()\n    local isDummy                           = npc_id == 31146 or npc_id == 31144 or npc_id == 32666 or npc_id == 32667\n    local inStance                          = GetStance()\n    local canShatter                        = Unit(target):HasBuffs(Temp.shatterIDs)\n    local TimeRemainingSlowed               = Unit(target):HasDeBuffs(Temp.slowIDs)\n    local isDodgingOrParrying               = Unit(target):HasBuffs(Temp.DodgeParryIDs)\n    local slowImmune                        = Unit(target):HasBuffs(Temp.slowImmunity)\n    local CanBeDamaged                      = (Unit(target):HasBuffs(Temp.PhysicalAndTotalImmunity) == 0) \n    and not (Unit(target):Name() == IceTomb \n        and      Unit(target):HealthPercent() < 30) --and not (isDummy and Unit(target):HealthPercent() < 100)\n    and      Unit(target):HasBuffs(28995) == 0\n    local CantSunder                        = Unit(target):HasDeBuffs(Temp.CantSunder) > 0\n    local Cycloned                          = Unit(target):HasBuffs(33786)\n    local TasteForBloodRemaining            = Unit(player):HasBuffs(56638)\n    local Bloodsurge                        = Unit(player):HasBuffs({46913,46914,46915,46916})\n    local _, instanceType                   = IsInInstance()\n    local clothWearer                       = Unit(target):Class() == \"MAGE\" or Unit(target):Class() == \"PRIEST\" or Unit(target):Class() == \"WARLOCK\"\n    local isInRaidOrDungeon                 = instanceType == \"raid\" or instanceType == \"party\"\n    local canPrePull                        = GetToggle(1, \"BossMods\") and BossMods:HasAnyAddon() and not inCombat and Unit(target):IsBoss() --and IsInRaid()\n    local noSpellUpThatRequiresShield       = Unit(player):HasBuffs(A.SpellReflection.ID) == 0 and Unit(player):HasBuffs(A.ShieldBlock.ID) == 0 and Unit(player):HasBuffs(A.ShieldWall.ID) == 0\n    -- local canUseRendInFury                  = combatTime > 0\n    local canOverpowerOnCast                = A.Overpower:IsReady() and Unit(target):IsCasting()\n    \n    -- Timeleft\n    local premiumExpires                    = date(\"999999\")\n    local today                             = date(\"%y%m%d\")\n    local enablePremiumFeature              = premiumExpires > today\n    \n    \n    --local shouldDesync = (GetWeaponSwingTimer(1) == GetWeaponSwingTimer(2)) and inCombat and furySpec and GetWeaponSwingTimer(2) < 0.6 and GetWeaponSwingTimer(2) > 0.4\n    \n    \n    if IsUnitEnemy(\"target\") then\n        isTarget            = \"target\"  \n        isTargetInMelee     = InMelee(isTarget)\n    end  \n    \n    \n    -- ############################# --\n    --          OFF GCD              --\n    -- ############################# --\n    \n    -- Rocket finisher\n    if A.Gloves:IsReadyByPassCastGCD(player) and\n    A.GlovesUseableEnchant.ID == 4181 \n    and Unit(target):HealthPercent() < GloveSnipeHealth \n    and Unit(target):HasBuffs(Temp.MagicImmunity) == 0 \n    and Cycloned == 0 \n    and Unit(target):IsEnemy() \n    and Unit(target):IsPlayer() \n    and Unit(target):HasBuffs(A.SpellReflection.ID) == 0 \n    then\n        Print(\"Using rocket gloves - please use WilloftheForsaken pixel for this.\")\n        return A.WilloftheForsaken:Show(icon)\n    end  \n    \n    -- Pushback timer reset\n    if (TMW.time - isPushedBack) > 2 \n    or Unit(player):GetSpellLastCast(A.Intercept.ID) < 0.5 \n    then\n        isPushedBack = 0\n    end\n    -- Charge after Pushback\n    if PushbackCharge and A.Charge:IsReadyByPassCastGCD(player) and isPushedBack > 0 and Unit(target):GetRange() >= 8 \n    then\n        return A.Charge:Show(icon)\n    end\n    \n    local useKick, useCC, useRacial, notInterruptable, castRemainsTime = A.InterruptIsValid(\"target\", nil, nil, true)\n    if useKick \n    and A.Pummel:IsReady(target) \n    and not notInterruptable \n    and castRemainsTime > GetLatency() \n    and AutoKick \n    then\n        return A.Pummel:Show(icon)\n    end\n    \n    -- [✔️] Health Potion\n    if HealthStoneSlider > myHealth \n    and A.RunicHealingPotion:IsReadyByPassCastGCD(player, true) \n    --and Unit(\"player\"):HasBuffs(53787) == 0\n    and TMW.CNDT.Env.CooldownDuration(GetItemSpell(A.RunicHealingPotion.ID)) == 0\n    then\n        return A.EscapeArtist:Show(icon)\n    end\n    \n    -- ############################# --\n    --          DEFENSIVES           --\n    -- ############################# --\n    \n    -- [✔️] Healthstone\n    if HealthStoneSlider > myHealth and (A.HSFel1:IsReady(player, true) or A.HSFel2:IsReady(player, true) or A.HSFel3:IsReady(player, true)) then\n        return A.EscapeArtist:Show(icon)\n    end\n    \n    if     A.RallyingCry:IsReady() and (\n        Unit(player):HealthPercent() <= RallyingCrySlider\n        or Unit(\"party1\"):HealthPercent() <= RallyingCrySlider \n        or Unit(\"party2\"):HealthPercent() <= RallyingCrySlider)\n    then\n        return A.RallyingCry:Show(icon)\n    end\n    \n    -- [✔️] Enraged Regenration\n    if EnragedRegenerationSlider >= 0 and A.EnragedRegeneration:IsReady(player) and Unit(target):HealthPercent() > ZugRageValue and\n    (\n        (\n            EnragedRegenerationSlider == 100 and -- Slider is on 'Auto'\n            (\n                (\n                    not A.IsInPvP and\n                    Unit(player):HealthPercent() < 25 and\n                    Unit(player):TimeToDieX(5) < 6\n                ) or\n                (\n                    A.IsInPvP and Unit(player):HealthPercent() < 25 and\n                    (\n                        Unit(player):UseDeff() or\n                        (\n                            Unit(player, 5):HasFlags() and\n                            Unit(player):GetRealTimeDMG() > 0 and\n                            Unit(player):IsFocused(nil, true)\n                        )\n                    )\n                )\n            ) and\n            Unit(player):HasBuffs(\"DeffBuffs\") == 0\n        ) or\n        (    -- Custom\n            EnragedRegenerationSlider < 100 and\n            Unit(player):HealthPercent() <= EnragedRegenerationSlider\n        )\n    )\n    then\n        return A.EnragedRegeneration:Show(icon)\n    end\n    \n    -- [✔️] Spell Reflection\n    if A.SpellReflection:GetCooldown() < 1 \n    and ShouldSpellReflect() \n    and Unit(player):HasBuffs(A.Bladestorm.ID) == 0 \n    and myRage < 15\n    then \n        return A.SpellReflection:Show(icon)\n        --Print(\"trying to reflect\")\n    end\n    \n    -- [✔️] Disarm\n    if A.Disarm:GetCooldown() < 1 and ShouldDisarm(\"target\") and enablePremiumFeature then\n        Print(\"Trying to disarm target\")\n        return A.ChallengingShout:Show(icon)\n    end\n    \n    -- Shield Wall\n    if UseShieldWall ~= -1\n    and A.ShieldWall:GetCooldown() < 1\n    and inCombat\n    then\n        if UseShieldWall == 100\n        then\n            if Unit(player):GetRealTimeDMG() >= Unit(player):HealthMax() * 0.3\n            or Unit(player):TimeToDieX(15) < 3\n            or Unit(player):HealthPercent() <= 20\n            then\n                return A.Stoneform:Show(icon)\n            end\n        elseif Unit(player):HealthPercent() <= UseShieldWall\n        then\n            return A.Stoneform:Show(icon)\n        end\n    end\n    \n    -- [✔️] 1hander defense rotation\n    if  A.Player:HasWeaponTwoHand(true) ~= nil \n    and myHealth < DefensiveStancePvP \n    and not A.SwapWeapon:IsBlocked() \n    and not isInRaidOrDungeon \n    and not A.SwapWeapon:IsSuspended(0.5, 1) \n    and not protSpec\n    then\n        Player:RegisterWeaponTwoHand()\n        return A.SwapWeapon:Show(icon)\n    end\n    \n    -- [✔️] Back 2 2hander\n    if  A.Player:HasWeaponTwoHand(true) == nil\n    and not A.SwapWeapon:IsBlocked()\n    and not Player:IsSwapLocked()\n    and not furySpec\n    and not protSpec\n    and myHealth > BattleStancePvP\n    and not Player:IsCasting()\n    and not A.SwapWeapon:IsSuspended(0.5, 1)\n    and (\n        noSpellUpThatRequiresShield\n        and ShouldSpellReflect() ~= true\n    )\n    and (\n        --A.ShieldSlam:GetCooldown() > 0\n        not (Unit(target):HasBuffs(10278) >= 1 \n            or Unit(target):HasBuffs(1044) >= 2) -- BoP or Freedom\n    ) \n    then\n        Player:RegisterWeaponTwoHand()\n        return A.SwapWeapon:Show(icon)\n    end\n    \n    -- ############################# --\n    --      REMOVE IMMUNITY          --\n    -- ############################# --\n    \n    \n    --BR\n    if      A.BattleShout:IsReady(player)\n    and canShatter > 0 \n    and A.ShatteringThrow:GetCooldown() == 0 \n    and myRage < 25 \n    then\n        return A.BattleShout:Show(icon)\n    end\n    \n    -- [✔️] Shatter\n    if canShatter > 0 \n    and A.ShatteringThrow:GetCooldown() == 0 \n    and myRage >= 25 \n    then\n        return A.ShatteringThrow:Show(icon)\n    end\n    \n    -- ############################# --\n    --      FINISHER SCENARIOS       --\n    -- ############################# --\n    \n    if Unit(target):HealthPercent() < ZugRageValue and Unit(target):HasBuffs(Temp.PhysicalImmunity) == 0 and Cycloned == 0 and Unit(target):IsEnemy() and Unit(target):IsPlayer() then\n        \n        -- MortalStrike if MS almost dropping\n        if A.MortalStrike:IsReady(player) and Unit(target):HasDeBuffs(A.MortalStrike.ID) < 2 then\n            return A.MortalStrike:Show(icon) \n        end\n        \n        -- Overpower\n        if A.Overpower:IsReady(player) then\n            return A.Overpower:Show(icon) \n        end\n        \n        -- Execute\n        if A.Execute:IsReady(player) then\n            return A.Execute:Show(icon) \n        end\n        \n        -- MortalStrike\n        if A.MortalStrike:IsReady(player) then\n            return A.MortalStrike:Show(icon) \n        end\n        \n        -- Kill with heroic throws\n        if A.HeroicThrow:IsReady(player) \n        then\n            return A.HeroicThrow:Show(icon)\n        end \n    end\n    \n    \n    -- ############################# --\n    --      PRIO IN COMBAT PVP       --\n    -- ############################# --\n    \n    \n    if (((  Unit(target):IsEnemy() \n                and Unit(target):IsPlayer()))) \n    and Cycloned == 0 \n    and (TasteForBloodRemaining > 5\n    or TasteForBloodRemaining == 0)\n    then\n        -- -- Piercing howl - Arena units that are neaby & not slowed\n        -- if A.PiercingHowl:IsReady(player) and GetByRangeWithDebuffAndBuff(10, 5, Temp.slowIDs, Temp.slowImmunity) > 0 and (A.Charge:GetSpellTimeSinceLastCast() > 2 or A.Intercept:GetSpellTimeSinceLastCast() > 2) then \n        --     return A.PiercingHowl:Show(icon)\n        -- end\n        \n        -- Targeted slow\n        if TimeRemainingSlowed < 2 \n        and armsSpec\n        and Unit(target):GetMaxSpeed() >= 100\n        and slowImmune == 0 \n        and not Unit(target):IsPet() then\n            -- Hamstring\n            if      inStance ~= 2 \n            and myRage > 7 \n            and (Unit(player):HasBuffs(Temp.PhysicalAndTotalImmunity) == 0 \n                or Unit(target):HasBuffs(5277) > 0 and not A.Overpower:IsReadyByPassCastGCD())  -- Evasion\n            and isTargetInMelee\n            and not Unit(target):HasDeBuffs(Temp.imStunned)\n            then\n                return A.Hamstring:Show(icon)\n            end\n            \n            -- -- Piercing howl\n            -- if A.PiercingHowl:IsReady(player) and (isTarget and Unit(isTarget):GetRange() < 10) and (A.Charge:GetSpellTimeSinceLastCast() > 2 or A.Intercept:GetSpellTimeSinceLastCast() > 2) and not Unit(target):InLOS() then \n            --     return A.PiercingHowl:Show(icon)\n            -- end\n        end\n        \n        -- Reckburst\n        if ReckBurstEnabled and -- UI toggle: enabled\n        isTargetInMelee and -- Target in melee range\n        A.Recklessness:GetCooldown() == 0 and -- Recklessness off CD\n        Unit(player):HasBuffs(52437) > 3 and -- Execute proc > 3 seconds\n        myHealth > ReckMinHealthSlider and -- UI: Our health higher than slider\n        Unit(player):CombatTime() > 15 and -- I'm in combat for > 15 seconds\n        CanBeDamaged and -- No immunities\n        Unit(player):HasDeBuffs(Temp.DisarmedSpells) == 0 -- Not disarmed\n        then return A.Recklessness:Show(icon)\n        end\n        \n        if inStance == 3 and Unit(player):HealthPercent() > BattleStancePvP then\n            \n            -- Battle stance\n            if A.BattleStance:IsReadyByPassCastGCD(player) then\n                return A.BattleStance:Show(icon)\n            end\n            -- BattleShout\n            if A.BattleShout:IsReady(player)\n            and myRage < 20 then\n                return A.BattleShout:Show(icon)\n            end\n            -- Execute\n            if A.Execute:IsReady(player) then\n                return A.Execute:Show(icon) \n            end\n            -- Mortal Strike\n            if A.MortalStrike:IsReady(player) then\n                return A.MortalStrike:Show(icon) \n            end\n        end\n    end\n    \n    -- ############################# --\n    --       BURST BUTTON            --\n    -- ############################# --\n    if btn_BladestormBurst \n    and CanBeDamaged \n    and isTargetInMelee \n    and enablePremiumFeature \n    and Cycloned == 0 \n    then\n        \n        if TimeRemainingSlowed > 1 or not Unit(target):IsPlayer() then\n            -- Zerker stance to Recklessness if not on CD\n            if A.Recklessness:GetCooldown() == 0 then\n                if A.BerserkerStance:IsReadyByPassCastGCD(player) and inStance ~= 3 then\n                    return A.BerserkerStance:Show(icon)\n                end\n                if inStance == 3 then\n                    return A.Recklessness:Show(icon)\n                end\n            end\n        end\n        \n        -- Trinkets\n        local Item = UseItems(player)\n        if Item and (TimeRemainingSlowed > 1  or not Unit(target):IsPlayer()) then\n            return Item:Show(icon)\n        end\n        \n        -- Offensive racials\n        if A.Berserking:IsReady(player) then\n            return A.Berserking:Show(icon)\n        end\n        \n        if A.BloodFury:IsReady(player) then\n            return A.BloodFury:Show(icon)\n        end\n        \n        -- Rage dumps before going battle\n        if  myRage > 55 \n        and inStance == 3 \n        and A.MortalStrike:IsReady(player) then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        -- Battle stance\n        if A.BattleStance:IsReadyByPassCastGCD(player) \n        and inStance ~= 1 \n        and armsSpec\n        then\n            return A.BattleStance:Show(icon)\n        end     \n        \n        -- BattleShout for rage\n        if     A.BattleShout:IsReady(player) \n        and myRage < 20\n        then\n            return A.BattleShout:Show(icon)\n        end\n        \n        \n        -- MS\n        if A.MortalStrike:IsReady(player) \n        and (Player:GetSwing(4) \n            < (GetPing() + GetCurrentGCD() + 0.5)) \n        then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        -- Bladestorm\n        if      A.Bladestorm:IsReady(player) \n        and Unit(target):HasDeBuffs(A.MortalStrike.ID) > 6 \n        then\n            return A.Bladestorm:Show(icon)\n        end\n        \n        -- Normal rotation\n        if A.MortalStrike:GetCooldown() > 0 \n        and A.Bladestorm:GetCooldown() > 0 \n        then\n            A.ForceBurst(\"ExecuteProc\")\n        end\n    end\n    \n    -- Kill totems\n    if Unit(target):IsTotem() \n    and armsSpec then\n        \n        if  isTargetInMelee \n        and A.Hamstring:IsReady(player) \n        and inStance ~= 2\n        then return A.Hamstring:Show(icon)\n        end\n        \n        if A.HeroicThrow:IsReady(player) \n        and not Unit(target):InLOS() then\n            \n            for _,totemname in pairs(Temp.totemsToDestroy) do\n                if Unit(target):Name() == totemname then\n                    return A.HeroicThrow:Show(icon)\n                end\n            end\n        end\n    end\n    \n    -- Target totems\n    if not Unit(target):IsTotem() and not targetLowHealth and A.HeroicThrow:GetCooldown() == 0 and Totemstomp and enablePremiumFeature then\n        if ActiveUnitPlates then  \n            for nameplate in pairs(ActiveUnitPlates) do             \n                if Unit(nameplate):InLOS() then\n                    for _,totemname in pairs(Temp.totemsToDestroy) do\n                        if Unit(nameplate):Name() == totemname then\n                            return Action:Show(icon, ACTION_CONST_AUTOTARGET)\n                        end\n                    end\n                end         \n            end \n        end\n    end\n    \n    --Heroic throw with charge in PVE\n    if A.HeroicThrow:IsReadyByPassCastGCD(player)\n    and Unit(player):GetSpellLastCast(A.Intercept.ID) < 1\n    and furySpec\n    and combatTime < 3\n    and CanBeDamaged\n    and not Unit(target):IsPlayer()\n    and not Unit(target):IsPet()\n    and Unit(target):IsBoss()\n    then\n        return A.HeroicThrow:Show(icon)\n    end\n    \n    local maybeWantToManualDef = A.DefensiveStance:IsSpellLastGCD() and (A.Intervene:GetCooldown() < 3 or A.ShieldBlock:GetCooldown() < 3 or A.ShieldWall:GetCooldown() < 3 and A.DisarmGetCooldown() < 3)\n    -- ############################# --\n    -- [❓] STANCES\n    -- ############################# --\n    if not furySpec and not protSpec and (inStance ~= 3 or (inStance == 3 and (A.Intercept:GetCooldown() > 3 or Unit(target):GetRange() < 8)) or A.Pummel:GetSpellTimeSinceLastCast() < 3) then\n        \n        if A.DefensiveStance:IsReadyByPassCastGCD(player) \n        and inStance ~= 2 \n        and Unit(player):HealthPercent() < DefensiveStancePvP \n        and not btn_BladestormBurst --and not isInRaidOrDungeon \n        then\n            return A.DefensiveStance:Show(icon)\n        end\n        \n        if A.BattleStance:IsReadyByPassCastGCD(player) \n        and inStance ~= 1  \n        and (Unit(player):HealthPercent() > BattleStancePvP \n            and not btn_BladestormBurst \n            and not ShouldDisarm(target) \n            and Unit(player):HasBuffs(A.ShieldWall.ID) == 0 \n            and not maybeWantToManualDef \n            and Unit(player):HasBuffs(A.ShieldBlock.ID) == 0 \n            and not A.Revenge:IsReady(player) \n            or A.Pummel:GetSpellTimeSinceLastCast() < 3) \n        then\n            return A.BattleStance:Show(icon)\n        end\n        \n    elseif A.BerserkerStance:IsReadyByPassCastGCD(player)\n    and furySpec\n    and inStance ~= 3\n    and inCombat\n    and A.BattleStance:GetSpellTimeSinceLastCast() > 1.6\n    and Unit(target):HasDeBuffs(A.Rend.ID, true) > 0\n    and Unit(player):HasBuffs(871) == 0\n    then\n        return A.BerserkerStance:Show(icon)\n    end\n    \n    if A.BerserkerStance:IsReadyByPassCastGCD(player)\n    and furySpec\n    and inStance ~= 3\n    and inCombat\n    and (A.Rend:GetSpellTimeSinceLastCast() < 1.6 or A.Overpower:GetSpellTimeSinceLastCast() < 1.6)\n    and Unit(target):HasDeBuffs(A.Rend.ID, true) > 0\n    then\n        return A.BerserkerStance:Show(icon)\n    end\n    \n    \n    if A.WillToSurvive:IsReadyByPassCastGCD(player) \n    and\n    (Unit(\"player\"):HasDeBuffs(59039) > 0 or Unit(\"player\"):HasDeBuffs(34716) > 0)\n    then\n        return A.WillToSurvive:Show(icon)\n    end\n    \n    -- Def Stance (Prot spec)\n    if inStance ~= 2 \n    and A.DefensiveStance:IsReadyByPassCastGCD(player) \n    and protSpec\n    then\n        return A.DefensiveStance:Show(icon)\n    end\n    \n    -- ############################# --\n    --       Out of combat           --\n    -- ############################# --\n    \n    -- Stopattack\n    if Unit(target):Name() == IceTomb \n    and Unit(target):HealthPercent() < 30\n    then\n        Action.SetToggle({1, \"AutoAttack\"}, false)\n        return A.MockingBlow:Show(icon)\n    else Action.SetToggle({1, \"AutoAttack\"}, true)\n    end\n    \n    -- [✔️] Shouts\n    if A.BattleShout:IsReady(player) \n    and GetToggle(2, \"BattleShout\") \n    and (Unit(player):HasBuffs(A.BattleShout.ID) < 5) \n    and Unit(player):HasBuffs(48932) == 0 \n    and Unit(player):HasBuffs(27141) == 0 \n    and Unit(player):HasBuffs(3680) == 0 \n    and Unit(target):HealthPercent() > 20\n    then\n        return A.BattleShout:Show(icon)\n    end\n    \n    if A.CommandingShout:IsReady(player) \n    and not GetToggle(2, \"BattleShout\") \n    and (Unit(player):HasBuffs(A.CommandingShout.ID) < 10) \n    -- or (Unit(player):HealthPercent() < EnragedRegenerationSlider)\n    then\n        return A.CommandingShout:Show(icon)\n    end\n    \n    -- BattleShout\n    if A.BattleShout:IsReady(player)\n    and BossMods:GetPullTimer() ~= 0\n    and BossMods:GetPullTimer() <= 10\n    and not protSpec\n    then\n        return A.BattleShout:Show(icon)\n    end\n    \n    -- Reck+Potion PrePull\n    if  canPrePull \n    and BossMods:GetPullTimer() ~= 0 \n    and BossMods:GetPullTimer() <= 3.1 \n    and (A.Recklessness:GetCooldown() == 0 or A.Recklessness:IsSpellLastGCD()) \n    then\n        \n        -- Berserker Stance\n        if  inStance ~= 3 \n        and A.BerserkerStance:IsReadyByPassCastGCD(player) \n        and A.Recklessness:GetCooldown() == 0\n        then\n            return A.BerserkerStance:Show(icon)\n        end\n        \n        \n        -- Recklessness\n        if  inStance == 3 \n        and A.Recklessness:IsReadyByPassCastGCD(player) \n        then\n            return A.Recklessness:Show(icon)\n        end\n        \n        \n        \n        -- BattleShout\n        if  A.BattleShout:IsReady(player)\n        and not protSpec\n        then\n            return A.BattleShout:Show(icon)\n        end\n        \n        \n        -- Battle Stance (Arms spec)\n        if inStance ~= 2 \n        and A.BattleStance:IsReadyByPassCastGCD(player) \n        and armsSpec\n        then\n            return A.BattleStance:Show(icon)\n        end\n        \n        -- DeathWish\n        if inStance == 3 \n        and A.DeathWish:IsReadyByPassCastGCD(player)\n        then\n            return A.DeathWish:Show(icon)\n        end\n        \n        --  Potion of Speed\n        if  Unit(player):HasBuffs(53908) == 0\n        and A.PotionofSpeed:IsReadyByPassCastGCD(player, true) \n        then\n            return A.PotionofSpeed:Show(icon)\n        end\n    end\n    \n    -- ############################# --\n    --          ST PvE ARMS          --\n    -- ############################# --\n    if CanBeDamaged and isTargetInMelee and not multipleTargets and not Unit(target):IsPlayer() and armsSpec and not Unit(target):IsPet() then\n        \n        -- MS\n        if A.MortalStrike:IsReady(player) \n        then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        -- HS > 70 rage\n        if A.HeroicStrike:IsReady(player) \n        and myRage > DumpRageValuePvE \n        and not A.HeroicStrike:IsSpellCurrent() \n        and (Unit(target):HasDeBuffs(86346) >= 1 or myRage == 100)\n        then\n            return A.HeroicStrike:Show(icon)\n        end\n        \n        -- Sunder Armor\n        -- Reapply sunder if sunders are enabled and they will expire in 2 seconds\n        if A.SunderArmor:IsReady(player)\n        and GetToggle(2, \"SunderCount\")\n        and GetToggle(2, \"SunderCount\") > 0 \n        and Unit(\"target\"):HasDeBuffs(7386) < 3\n        and not CantSunder \n        and Unit(\"target\"):IsBoss() \n        and not HasAttachedGlyph(89003) -- ColossusSmash applies sunder\n        then\n            return A.SunderArmor:Show(icon)\n        end\n        \n        -- Rend\n        if A.Rend:IsReady(player) and Unit(\"target\"):HasDeBuffs(A.Rend.ID, true) < GetGCD() then\n            return A.Rend:Show(icon) \n        end\n        \n        --ColossusSmash\n        if A.ColossusSmash:IsReady(player) and Unit(target):HasDeBuffs(86346) <= GetGCD() then\n            return A.WarStomp:Show(icon)\n        end\n        \n        -- Execute\n        if A.Execute:IsReady(player) then\n            return A.Execute:Show(icon) \n        end\n        \n        -- Overpower\n        if A.Overpower:IsReady(player) then\n            return A.Overpower:Show(icon) \n        end\n        \n        -- MS\n        if A.MortalStrike:IsReady(player) then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        -- Sunder (can be modified in UI)\n        if A.SunderArmor:IsReady(player) and GetToggle(2, \"SunderCount\") and Unit(\"target\"):HasDeBuffsStacks(11597) < GetToggle(2, \"SunderCount\") and not CantSunder and Unit(\"target\"):IsBoss() then\n            return A.SunderArmor:Show(icon)\n        end\n        \n        -- -- Bladestorm\n        -- if AoEenabled and BurstIsON(target) and A.Bladestorm:IsReady(player) then\n        --     return A.Bladestorm:Show(icon)\n        -- end\n        \n        if A.ThunderClap:IsReady(player) then\n            return A.ThunderClap:Show(icon)\n        end\n        \n        -- -- Revenge\n        -- if A.Revenge:IsReady(player) and myRage >= 5 then\n        --     return A.ConcussionBlow:Show(icon) \n        -- end \n        \n        -- [✔️] Victory rush\n        if A.VictoryRush:IsReady(player) then\n            return A.VictoryRush:Show(icon)\n        end\n        \n        -- Slam (improved & standing still)\n        if A.Slam:IsReady(player) and improvedSlamRank == 2 and notMoving and myRage > 15  then\n            return A.Slam:Show(icon)\n        end\n        \n        -- BShout\n        if A.BattleShout:IsReady(player) and myRage < 60 then\n            return A.BattleShout:Show(icon)\n        end\n    end\n    \n    -- ############################# --\n    --          AoE PvE ARMS         --\n    -- ############################# --\n    if      CanBeDamaged\n    and isTargetInMelee\n    and multipleTargets\n    and armsSpec\n    and not Unit(target):IsPlayer() \n    and not Unit(target):IsPet() \n    then\n        \n        -- Cleave > 70 rage\n        if AoEenabled \n        and A.Cleave:IsReady(player) \n        and (myRage > 45 or \n            (myRage > 30 and A.Bladestorm:GetCooldown() > 2))\n        then\n            return A.Cleave:Show(icon)\n        end \n        \n        -- BR\n        if A.BattleShout:IsReady(player) and myRage < 60 then\n            return A.BattleShout:Show(icon)\n        end\n        \n        -- Bladestorm\n        if A.Bladestorm:IsReady(player)\n        and AoEenabled\n        and BurstIsON(target)\n        then\n            return A.Bladestorm:Show(icon)\n        end\n        \n        -- Revenge\n        if A.Revenge:IsReady(player) \n        and inStance == 2\n        then\n            return A.Revenge:Show(icon) \n        end \n        \n        -- SS\n        if AoEenabled and A.SweepingStrikes:IsReady(player) then\n            return A.SweepingStrikes:Show(icon) \n        end\n        \n        -- TC\n        if AoEenabled and A.ThunderClap:IsReady(player) then\n            return A.ThunderClap:Show(icon) \n        end\n        \n        --ColossusSmash\n        if A.ColossusSmash:IsReady(player) and Unit(target):HasDeBuffs(86346) <= GetGCD() then\n            return A.WarStomp:Show(icon)\n        end\n        \n        -- Overpower\n        if A.Overpower:IsReady(player) then\n            return A.Overpower:Show(icon) \n        end\n        \n        -- BS\n        if BurstIsON(target) and AoEenabled and A.Bladestorm:IsReady(player)  then\n            return A.Bladestorm:Show(icon)\n        end\n        \n        -- Cleave as dump (TODO: check glyph of cleaving) \n        if AoEenabled and A.Cleave:IsReady(player) and not NextAutoIsSpecial then\n            return A.Cleave:Show(icon)\n        end\n        \n        -- Rend\n        if A.Rend:IsReady(player) and Unit(\"target\"):HasDeBuffs(A.Rend.ID, true) < GetGCD() then\n            return A.Rend:Show(icon) \n        end\n        \n        -- Execute\n        if A.Execute:IsReady(player) then\n            return A.Execute:Show(icon) \n        end\n        \n        -- Slam (improved & standing still)\n        if A.Slam:IsReady(player) and improvedSlamRank == 2 and notMoving and myRage > 15 then\n            return A.Slam:Show(icon)\n        end\n        \n        -- MS\n        if A.MortalStrike:IsReady(player) then\n            return A.MortalStrike:Show(icon)\n        end\n    end\n    --hui\n    \n    -- ############################# --\n    --          ST PvE PROT          --\n    -- ############################# --\n    if CanBeDamaged\n    and isTargetInMelee\n    and protSpec\n    and (activeEnemies == 1 or not multipleTargets or not AoEenabled)\n    then\n        --print(\"solo\")\n        -- HS \n        if A.HeroicStrike:IsReady(player)\n        and myRage > DumpRageValuePvE\n        then\n            return A.HeroicStrike:Show(icon)\n        end\n        \n        --VictoryRush\n        if A.VictoryRush:IsReady(player)\n        and Unit(player):HasBuffs(32216) > GetGCD()\n        and Unit(player):HealthPercent() < 80\n        then\n            return A.VictoryRush:Show(icon)\n        end\n        \n        if CanInterrupt(target)\n        and Unit(target):IsCastingRemains() > 0\n        and Unit(target):IsPlayer()\n        and Unit(target):HealthPercent() < 40\n        and Unit(target):HasBuffs(Temp.KickImun) == 0\n        or (\n            Unit(target):IsCastingRemains(697) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Voidwalker\n            or Unit(target):IsCastingRemains(691) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Felhunter\n            or Unit(target):IsCastingRemains(713) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Incubus\n            or Unit(target):IsCastingRemains(712) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Succubus\n            or Unit(target):IsCastingRemains(688) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Imp\n        ) \n        then \n            return A.Pummel:Show(icon)\n        end\n        \n        -- BR\n        if  A.BattleShout:IsReady(player) and myRage < 50\n        and not Player:HasTier(\"Tier10\", 4)\n        then\n            return A.BattleShout:Show(icon)\n        end\n        \n        -- -- Shockwave\n        -- if  A.Shockwave:IsReady(player) \n        --     and not Unit(target):IsPlayer()\n        --     and Unit(target):IsCasting(66134)\n        --     and AoEenabled\n        --  then\n        --     return A.Shockwave:Show(icon)\n        -- end\n        \n        -- Enrage regen prio\n        if  A.EnragedRegeneration:IsReady(player) and myRage >= 15\n        and Unit(player):HasBuffs(47437) > 0 -- LastStand\n        and (\n            Unit(player):HasBuffs(57516) > 0 -- Enraged\n            or Unit(player):HasBuffs(18499) > 0 -- BerserkerRage\n        ) \n        then\n            return A.EnragedRegeneration:Show(icon)\n        end\n        \n        -- SS PvE\n        if A.ShieldSlam:IsReady(player)\n        then\n            return A.ShieldSlam:Show(icon)\n        end\n        \n        -- Rend\n        if A.Rend:IsReady(player)\n        and Unit(\"target\"):HasDeBuffs(A.Rend.ID, true) == 0\n        then\n            return A.Rend:Show(icon)\n        end\n        \n        -- Thunderclap\n        if A.ThunderClap:IsReady(player)\n        and Unit(\"target\"):HasDeBuffs(A.Rend.ID, true) <= 5 \n        and (Unit(\"target\"):HasDeBuffs(6343) <= 5    -- Clap (War)\n            or Unit(\"target\"):HasDeBuffs(53696) <= 5 -- Judgements of the Just (pala)\n            or Unit(\"target\"):HasDeBuffs(48484) <= 5 -- Infected Wounds (bear)\n            or Unit(\"target\"):HasDeBuffs(8042) <= 5) -- Earth shock (Sham)\n        then\n            return A.ThunderClap:Show(icon)\n        end\n        \n        -- Revenge\n        if  A.Revenge:IsReady(player) \n        then\n            return A.Revenge:Show(icon)\n        end\n        \n        \n        \n        -- Devastate - for 3 stacks of sunder\n        if A.Devastate:IsReady(player) \n        and Unit(target):HasDeBuffsStacks(7386) < 3\n        --and Unit(target):IsBoss()\n        then\n            return A.Devastate:Show(icon)\n        end\n        \n        -- -- Shockwave\n        -- if  A.Shockwave:IsReady(player)  \n        --     and not Unit(target):IsPet()\n        --     then\n        --         return A.Shockwave:Show(icon)\n        -- end\n        \n        -- Demoralizing Shout\n        if  A.DemoralizingShout:IsReady(player)\n        and Unit(target):HasDeBuffs(81130)==0 -- Scarlet fver (DK)\n        and Unit(target):HasDeBuffs(1160)==0  -- Demo (war)\n        and Unit(target):HasDeBuffs(702)==0   -- Curse of weakness (lock)\n        and Unit(target):HasDeBuffs(99)==0    -- Demo (druid)\n        and Unit(target):HasDeBuffs(26017)==0 -- Vindication (pala)\n        and Unit(target):HealthMax() > 110000\n        then\n            return A.DemoralizingShout:Show(icon)\n        end\n        \n        -- Devastate\n        if  A.Devastate:IsReady(player) then\n            return A.Devastate:Show(icon)\n        end\n    end\n    \n    -- ############################# --\n    --          AoE PvE PROT         --\n    -- ############################# --\n    if CanBeDamaged\n    and isTargetInMelee\n    and protSpec\n    and not Unit(target):IsPet()\n    and (activeEnemies >= 2 or multipleTargets)\n    and AoEenabled\n    then\n        \n        -- Cleave\n        if A.Cleave:IsReady(player) \n        and myRage > DumpRageValuePvE\n        then\n            return A.Cleave:Show(icon)\n        end\n        \n        if A.VictoryRush:IsReady(player)\n        and Unit(player):HasBuffs(32216) > GetGCD()\n        and Unit(player):HealthPercent() < 80\n        then\n            return A.VictoryRush:Show(icon)\n        end\n        \n        -- Rend\n        if A.Rend:IsReady(player)\n        and Unit(\"target\"):HasDeBuffs(A.Rend.ID, true) == 0\n        then\n            return A.Rend:Show(icon)\n        end\n        \n        -- Thunderclap\n        if A.ThunderClap:IsReady(player)\n        then\n            return A.ThunderClap:Show(icon)\n        end\n        \n        -- Revenge\n        if A.Revenge:IsReady(player) \n        then\n            return A.Revenge:Show(icon)\n        end\n        \n        -- -- Shockwave\n        -- if A.Shockwave:IsReady(player) \n        --     then\n        --         return A.Shockwave:Show(icon)\n        -- end\n        \n        -- SS\n        if A.ShieldSlam:IsReady(player) \n        then\n            return A.ShieldSlam:Show(icon)\n        end\n        \n        -- Demoralizing Shout\n        if A.DemoralizingShout:IsReady(player)\n        and Unit(target):HasDeBuffs(47437)==0 -- Demo war\n        and Unit(target):HasDeBuffs(1160)==0 -- Demo war\n        and Unit(target):HasDeBuffs(26017)==0 -- Vindication pala Rank 2\n        and Unit(target):HasDeBuffs(26016)==0 -- Vindication pala Rank 1\n        and Unit(target):HasDeBuffs(48560)==0 -- Demo druid    \n        then\n            return A.DemoralizingShout:Show(icon)\n        end\n        \n        \n        \n        -- Devastate\n        if A.Devastate:IsReady(player) \n        then\n            return A.Devastate:Show(icon)\n        end\n    end\n    \n    -- ############################# --\n    --          PvP Base             --\n    -- ############################# --\n    \n    if   armsSpec\n    and CanBeDamaged \n    and Cycloned == 0 \n    and isTargetInMelee \n    and not btn_BladestormBurst \n    and IsUnitEnemy(target) \n    and (Unit(target):IsPlayer() or Unit(target):IsPet()) then\n        \n        \n        -- Save rage for MS\n        local saveForMS = myRage < 20 and A.MortalStrike:GetCooldown() < 3\n        \n        if A.InnerRage:IsReadyByPassCastGCD()\n        and myRage >= 90\n        then return A.InnerRage:Show(icon)\n        end\n        \n        \n        -- Hamstring mages and mounted\n        if      A.Hamstring:IsReady(player)\n        and Unit(target):Class() == \"MAGE\"\n        and Unit(target):HasDeBuffs(1715) <= 3\n        and not Unit(target):IsTotem()\n        then\n            return A.Hamstring:Show(icon)\n        end\n        \n        -- [✔️] Victory rush\n        if A.VictoryRush:IsReady(player) \n        and not saveForMS \n        and Unit(player):HealthPercent() < 70\n        then\n            return A.VictoryRush:Show(icon)\n        end\n        \n        -- [✔️] Overpower spam when evasion is up\n        if A.Overpower:IsReady(player) \n        and (Unit(target):HasBuffs(5277) > 0)\n        then\n            return A.Overpower:Show(icon)\n        end\n        \n        -- [✔️] Pummel when low health or trying to resum pet\n        if CanInterrupt(unitID)\n        and Unit(target):IsCastingRemains() > 0\n        and Unit(target):IsPlayer()\n        and Unit(target):HealthPercent() < 40\n        and Unit(target):HasBuffs(Temp.KickImun) == 0\n        \n        or (\n            Unit(target):IsCastingRemains(697) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Voidwalker\n            or Unit(target):IsCastingRemains(691) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Felhunter\n            or Unit(target):IsCastingRemains(713) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Incubus\n            or Unit(target):IsCastingRemains(712) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Succubus\n            or Unit(target):IsCastingRemains(688) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Imp\n        ) \n        then \n            return A.Pummel:Show(icon)\n        end\n        \n        -- [✔️] Prio rend rogues\n        if  not targetLowHealth\n        and A.Rend:IsReady(player) \n        and Unit(target):HasDeBuffs(A.Rend.ID) == 0 \n        and Unit(target):Class() == \"ROGUE\" \n        and not Unit(target):IsTotem()\n        then\n            return A.Rend:Show(icon)\n        end\n        \n        -- [✔️] HS > DumpRageValue\n        if A.HeroicStrike:IsReady(player) \n        and (myRage > DumpRageValuePvP or Unit(player):HasBuffs(85730) > 0)\n        and (not saveForMS or Unit(player):HasBuffs(85730) > 2)\n        and (Unit(target):HasDeBuffs(86346) >= 1 or myRage == 100)\n        then\n            return A.HeroicStrike:Show(icon)\n        end\n        \n        -- [✔️] MS when 3 stax of Slaughter\n        if A.MortalStrike:IsReady(player)\n        and Unit(player):HasDeBuffsStacks(84586) == 3\n        then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        --ColossusSmash\n        if      A.ColossusSmash:IsReady(player) \n        and Unit(target):HasDeBuffs(86346) <= GetGCD() -- ColossusSmash debuff\n        and A.MortalStrike:IsReady(player)\n        \n        then\n            return A.WarStomp:Show(icon)\n        end\n        \n        -- [✔️] Keep MS alive\n        if Unit(target):HasDeBuffs(A.MortalStrike.ID) <= 3 \n        and not Unit(target):HasDeBuffs(A.MortalStrike.ID) == 0\n        and A.MortalStrike:IsReady(player)\n        then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        --ColossusSmash\n        if      A.ColossusSmash:IsReady(player) \n        and Unit(target):HasDeBuffs(86346) <= GetGCD() -- ColossusSmash debuff\n        then\n            return A.WarStomp:Show(icon)\n        end\n        \n        \n        -- [✔️] Prevent loss of overpower proc\n        if A.Overpower:IsReady(player) \n        --and TasteForBloodRemaining < 5 \n        then\n            return A.Overpower:Show(icon) \n        end\n        \n        -- TODO; Check if we need to spend overpower from dodges asap (TFB will not be up) or maybe thats covered by above? What does following return when nothing?\n        --Print(\"TasteForBloodRemaining < 5 DOES THIS MEAN TRUE IF NOTHING?\", TasteForBloodRemaining < 5)\n        \n        -- -- [✔️] Overpower on cast or if they are full health to create pressure\n        -- if A.Overpower:IsReady(player) and (Unit(target):IsCasting() or Unit(target):HealthPercent() > 80) then\n        --     return A.Overpower:Show(icon) \n        -- end\n        \n        -- [✔️] Revenge\n        if A.Revenge:IsReady(player) \n        and inStance == 2\n        then\n            return A.Revenge:Show(icon)\n        end \n        \n        -- -- [✔️] Revenge\n        -- if IsRevengeUP(player) then\n        --     return A.ConcussionBlow:Show(icon) \n        -- end\n        \n        -- [✔️] Sweeping (off GCD)\n        if  AoEenabled\n        and A.SweepingStrikes:IsReadyByPassCastGCD(player) \n        and myRage > 70\n        and (activeEnemies >= 2 or multipleTargets)\n        and HasAttachedGlyph(58384) -- SweepingStrikes Glyph\n        then\n            return A.SweepingStrikes:Show(icon) \n        end\n        \n        -- [✔️] Keep sunders alive when you have more than 2\n        if A.SunderArmor:IsReady(player)\n        and SunderPvp\n        and not targetLowHealth\n        and Unit(target):HasDeBuffsStacks(7386) > 2\n        and not CantSunder\n        and not saveForMS\n        then\n            return A.SunderArmor:Show(icon)\n        end\n        \n        -- [✔️] Keep Rend alive\n        if  not targetLowHealth\n        and A.Rend:IsReady(player)\n        and Unit(target):HasDeBuffs(A.Rend.ID) <= GetGCD() then\n            return A.Rend:Show(icon)\n        end\n        \n        -- [✔️] Overpower\n        if A.Overpower:IsReady(player) and not isCasterClass(target) then\n            return A.Overpower:Show(icon) \n        end\n        \n        -- [✔️] MS\n        if A.MortalStrike:IsReady(player) then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        \n        -- [✔️] Execute\n        if A.Execute:IsReady(player) and not saveForMS then\n            return A.Execute:Show(icon) \n        end\n        \n        --ColossusSmash\n        if      A.ColossusSmash:IsReady(player) \n        and Unit(target):HasDeBuffs(86346) <= GetGCD() -- ColossusSmash debuff\n        then\n            return A.WarStomp:Show(icon)\n        end\n        \n        -- [✔️] Victory rush\n        if A.VictoryRush:IsReady(player) and not saveForMS then\n            return A.VictoryRush:Show(icon)\n        end\n        \n        -- Demo shout if melee && not almost killing\n        if not targetLowHealth\n        and A.DemoralizingShout:IsReady(player) \n        and isMeleeClass(target) \n        and Unit(target):HasDeBuffs(A.DemoralizingShout.ID) < GetGCD() \n        and not saveForMS \n        then\n            return A.DemoralizingShout:Show(icon) \n        end\n        \n        -- [✔️] TC if not save for ms \n        if AoEenabled \n        and A.ThunderClap:IsReady(player)\n        and not saveForMS \n        then\n            return A.ThunderClap:Show(icon)\n        end\n        \n        \n        -- [✔️] Sunder\n        if A.SunderArmor:IsReady(player) \n        and SunderPvp \n        and not targetLowHealth \n        and myRage > 50 \n        and Unit(target):HasDeBuffsStacks(7386) < 3 \n        and not CantSunder \n        and not saveForMS \n        and not clothWearer then\n            return A.SunderArmor:Show(icon)\n        end\n        \n        \n        \n        \n    end\nend\n\n-- [5] Trinket Rotation \nA[5] = function(icon)\n    \n    -- BerserkerRage \n    -- Note: Loss of Control \n    --if GetStance() == 3 and LoC:IsValid(Temp.BerserkerRageLoC) and A.BerserkerRage:IsReadyP(\"player\") then \n    --return A.BerserkerRage:Show(icon)\n    --end \nend \n\n-- Pasive Rotation \nlocal function ArenaRotation(icon, unitID) \n    if A.IsInPvP and (A.Zone == \"pvp\" or A.Zone == \"arena\") then\n        \n        local useKickPvP, useCCPvP, useRacialPvP, notInterruptablePvP, castRemainsTimePvP = A.InterruptIsValid(unitID, \"PvPInterrupts\", nil, nil)\n        \n        -- Pummel based on interrupts list\n        if useKickPvP \n        and CanInterrupt(unitID) \n        and not notInterruptablePvP \n        and (castRemainsTimePvP > GetLatency()) \n        then\n            return A.Pummel:Show(icon)\n        end\n        \n        -- Disarm\n        if ShouldDisarm(unitID) then\n            return A.ChallengingShout:Show(icon)\n        end\n        \n        -- Rend\n        if not Action.IsQueueRunning() \n        and ShouldRend(unitID) \n        then\n            Print(\"Trying to multirend\")\n            return A.Rend:Show(icon)\n        end\n        \n    end\nend \n\nA[6] = function(icon)\n    if ArenaRotation(icon, \"arena1\") then \n        return true \n    end \nend \n\nA[7] = function(icon)\n    if ArenaRotation(icon, \"arena2\") then \n        return true \n    end \nend \n\nA[8] = function(icon)\n    if ArenaRotation(icon, \"arena3\") then \n        return true \n    end \n    \n    \n    if IsUnitEnemy(\"focus\") then \n        local castLeft, _, _, _, notKickAble = Unit(\"focus\"):IsCastingRemains()\n        --Print(castLeft)\n        \n        if castLeft > 0 then    \n            if A.Pummel:GetCooldown() == 0 and Unit(\"player\"):Power() >= 10 then   \n                return A.AntiFakeInterrupt1:Show(icon)                                      \n            end\n        end       \n    end      \nend \n\nA[9] = function(icon)\n    if ArenaRotation(icon, \"arena4\") then \n        return true \n    end \nend \n\nA[10] = function(icon)\n    if ArenaRotation(icon, \"arena5\") then \n        return true \n    end \nend \n\n-- Nil (nothing for profile here, just wipe to nil)\nA[4] = nil \n\n-------------------------------------------\n-- UI: QUEUE BASE\n-------------------------------------------\nlocal GameLocale = GetLocale()    \nlocal Localization = {\n    [GameLocale] = {},\n    enUS          = {\n        QERROR1 = \"Already queued: \",\n        QERROR2 = \"Not available: \",\n        SHIELD_ERROR = \"No shields found on the character!\",\n        POWER_ERROR = \"You don't have enough rage: \",\n        TACTICAL_ERROR = \"You lack talent\" .. A.TacticalMastery:Info() .. \" points: \",\n        DISARMED = \"You're disarmed!\",\n    },\n    ruRU         = {\n        QERROR1 = \"Уже находится в очереди: \",\n        QERROR2 = \"Недоступно: \",\n        SHIELD_ERROR = \"Щиты не найдены у персонажа!\",\n        POWER_ERROR = \"Вам не хватает ярости: \",\n        TACTICAL_ERROR = \"Вам не хватает в таланте \" .. A.TacticalMastery:Info() .. \" очков: \",\n        DISARMED = \"Вы обезоружены!\",\n    },\n}\nlocal L = setmetatable(Localization[GameLocale], { __index = Localization.enUS })",
+					["Code"] = "local _G, setmetatable, select, unpack, table, pairs, math    =\n_G, setmetatable, select, unpack, table, pairs, math \n\n\nlocal math_ceil                                = math.ceil\nlocal tinsert                                = table.insert \nlocal wipe                                     = _G.wipe \nlocal strsub                                = _G.strsub       \n\nlocal TMW                                     = _G.TMW \nlocal strlowerCache                          = TMW.strlowerCache\nlocal Action                                = _G.Action\nlocal toNum                                 = Action.toNum\nlocal CONST                                 = Action.Const\nlocal Create                                 = Action.Create\nlocal Listener                                = Action.Listener\nlocal Print                                    = Action.Print\n\nlocal TeamCache                                = Action.TeamCache\nlocal EnemyTeam                                = Action.EnemyTeam\nlocal FriendlyTeam                            = Action.FriendlyTeam\nlocal LoC                                     = Action.LossOfControl\nlocal Player                                = Action.Player \nlocal MultiUnits                            = Action.MultiUnits\nlocal UnitCooldown                            = Action.UnitCooldown\nlocal Unit                                    = Action.Unit \n\nlocal SetToggle                                = Action.SetToggle\nlocal GetToggle                                = Action.GetToggle\nlocal GetPing                                = Action.GetPing\nlocal GetGCD                                = Action.GetGCD\nlocal GetCurrentGCD                            = Action.GetCurrentGCD\nlocal GetLatency                            = Action.GetLatency\nlocal BurstIsON                                = Action.BurstIsON\nlocal AuraIsValid                            = Action.AuraIsValid\nlocal InterruptIsValid                        = Action.InterruptIsValid\nlocal IsUnitEnemy                            = Action.IsUnitEnemy\nlocal DetermineUsableObject                    = Action.DetermineUsableObject\nlocal DetermineCountGCDs                    = Action.DetermineCountGCDs\nlocal IsQueueRunningAuto                    = Action.IsQueueRunningAuto\nlocal CancelAllQueueForMeta                    = Action.CancelAllQueueForMeta\nlocal toStr                                            = Action.toStr\nlocal BossMods = Action.BossMods\n\nlocal ActionDataQ                            = Action.Data.Q\nlocal TeamCacheFriendly                        = TeamCache.Friendly\nlocal TeamCacheFriendlyUNITs                = TeamCacheFriendly.UNITs\nlocal ActiveUnitPlates                        = MultiUnits:GetActiveUnitPlates()\n\nlocal CombatLogGetCurrentEventInfo            = _G.CombatLogGetCurrentEventInfo\nlocal ACTION_CONST_AUTOSHOOT                = CONST.AUTOSHOOT\nlocal ACTION_CONST_STOPCAST                    = CONST.STOPCAST\nlocal ACTION_CONST_AUTOTARGET                = CONST.AUTOTARGET\nlocal ACTION_CONST_CACHE_DEFAULT_TIMER        = CONST.CACHE_DEFAULT_TIMER\n\n--For Toaster\nlocal Toaster                                    = _G.Toaster\nlocal GetSpellTexture                             = _G.TMW.GetSpellTexture\n\nlocal UnitCreatureFamily\n\nlocal player = \"player\"\nlocal target = \"target\"\nlocal      UnitGUID,       UnitIsUnit,      UnitAttackSpeed,      UnitAttackPower =\n_G.UnitGUID, _G.UnitIsUnit, _G.UnitAttackSpeed, _G.UnitAttackPower\n\n\nlocal itemId, enchantId = GetInventoryItemLink(\"player\", GetInventorySlotInfo(\"HandsSlot\")):match(\"item:(%d+):(%d+)\")\nenchantId = enchantId == nil and 1 or enchantId\nitemId = itemId == nil and 1 or itemId\n\nAction[Action.PlayerClass]                     = {\n    -- Racials \n    WillToSurvive       = Create({ Type = \"Spell\", ID = 59752 }),  -- Shadowmeld pixel\n    BloodFury           = Create({ Type = \"Spell\", ID = 20572 }),\n    Berserking          = Create({ Type = \"Spell\", ID = 20554 }),\n    WarStomp            = Create({ Type = \"Spell\", ID = 20549 }),\n    Stoneform           = Create({ Type = \"Spell\", ID = 20594 }),\n    WilloftheForsaken   = Create({ Type = \"Spell\", ID = 7744  }), -- Glove on use\n    EscapeArtist        = Create({ Type = \"Spell\", ID = 20589 }), \n    GiftoftheNaaru      = Create({ Type = \"Spell\", ID = 28880 }), -- HealthPotion\n    Shadowmeld          = Create({ Type = \"Spell\", ID = 58984 }), \n    \n    \n    -- Core API\n    AntiFakeCC          = Create({ Type = \"SpellSingleColor\", ID = 5246, Color = \"GREEN\", Desc = \"[1] CC\", QueueForbidden = true, BlockForbidden = true}), -- IntimidatingShout\n    AntiFakeInterrupt1  = Create({ Type = \"SpellSingleColor\", ID = 6552, Color = \"GREEN\", Desc = \"[2] Interrupt\", QueueForbidden = true}),    -- Pummel\n    AntiFakeInterrupt2  = Create({ Type = \"SpellSingleColor\", ID = 72, Desc = \"[2] Interrupt\", QueueForbidden = true}), -- ShieldBash\n    -- Equipment\n    SwapWeapon          = Create({ Type = \"SwapEquip\", ID = 132996, Desc = \"SwapWeapon\", Equip1 = function() return Player:HasShield() and not Player:HasShield(true) end, Equip2 = function() return Player:HasShield(true) and ((not Player:HasWeaponTwoHand(true) and Player:HasWeaponTwoHand()) or (not Player:HasWeaponOffHand(true) and Player:HasWeaponOffHand())) end    }),\n    -- Spell-equip\n    ShootBow            = Create({ Type = \"Spell\", ID = 2480, QueueForbidden = true, BlockForbidden = true }),\n    ShootCrossbow       = Create({ Type = \"Spell\", ID = 7919, QueueForbidden = true, BlockForbidden = true }),\n    ShootGun            = Create({ Type = \"Spell\", ID = 7918, QueueForbidden = true, BlockForbidden = true }),\n    Throw               = Create({ Type = \"Spell\", ID = 2764, QueueForbidden = true, BlockForbidden = true }),\n    -- Class spells \n    Whirlwind           = Create({ Type = \"Spell\", ID = 1680}),\n    \n    BattleStance        = Create({ Type = \"Spell\", ID = 2457, isStance = 1 }),\n    DefensiveStance     = Create({ Type = \"Spell\", ID = 71,   isStance = 2 }),\n    BerserkerStance     = Create({ Type = \"Spell\", ID = 2458, isStance = 3 }),\n    \n    DemoralizingShout   = Create({ Type = \"Spell\", ID = 1160, useMaxRank = true }),\n    SunderArmor         = Create({ Type = \"Spell\", ID = 7386, useMaxRank = true }),\n    Overpower           = Create({ Type = \"Spell\", ID = 7384, useMaxRank = true }),\n    Slam                = Create({ Type = \"Spell\", ID = 1464, useMaxRank = true }),\n    Execute             = Create({ Type = \"Spell\", ID = 5308, useMaxRank = true }),\n    Rend                = Create({ Type = \"Spell\", ID = 772, useMaxRank = true }),\n    MortalStrike        = Create({ Type = \"Spell\", ID = 12294}),\n    DeathWish           = Create({ Type = \"Spell\", ID = 12292, isTalent = true }),\n    SweepingStrikes     = Create({ Type = \"Spell\", ID = 12328, isTalent = true }),\n    Bloodthirst         = Create({ Type = \"Spell\", ID = 23881, isTalent = true, useMaxRank = true }),\n    Cleave              = Create({ Type = \"Spell\", ID = 845, useMaxRank = true }),\n    ThunderClap         = Create({ Type = \"Spell\", ID = 6343, useMaxRank = true }),\n    Revenge             = Create({ Type = \"Spell\", ID = 6572, useMaxRank = true }),\n    HeroicStrike        = Create({ Type = \"Spell\", ID = 78, useMaxRank = true }),\n    MockingBlow         = Create({ Type = \"Spell\", ID = 694, useMaxRank = true }),\n    ShieldSlam          = Create({ Type = \"Spell\", ID = 23922, useMaxRank = true }), -- 50% chance to dispel magic \n    Rampage             = Create({ Type = \"Spell\", ID = 30033, isTalent = true, useMaxRank = true }),\n    VictoryRush         = Create({ Type = \"Spell\", ID = 34428, useMaxRank = true }),\n    ShatteringThrow     = Create({ Type = \"Spell\", ID = 64382, useMaxRank = true }),\n    Bladestorm          = Create({ Type = \"Spell\", ID = 46924, isTalent = true, useMaxRank = true }),\n    HeroicThrow         = Create({ Type = \"Spell\", ID = 57755, useMaxRank = true }),\n    BerserkerRage       = Create({ Type = \"Spell\", ID = 18499 }),\n    Shockwave           = Create({ Type = \"Spell\", ID = 46968, isTalent = true, useMaxRank = true }),\n    ColossusSmash       = Create({ Type = \"Spell\", ID = 86346, useMaxRank = true }),\n    Devastate           = Create({ Type = \"Spell\", ID = 20243, useMaxRank = true}),\n    \n    -- Talents with ranks\n    ImprovedSlam        = Create({ Type = \"Spell\", ID = 12330, isTalent = true, useMaxRank = true }),\n    ImprovedRevenge     = Create({ Type = \"Spell\", ID = 12799, isTalent = true, useMaxRank = true }),\n    ImprovedBerserkerRage = Create({ Type = \"Spell\", ID = 20501, isTalent = true, useMaxRank = true }),\n    -- Burst     \n    Recklessness        = Create({ Type = \"Spell\", ID = 1719 }),\n    Bloodrage           = Create({ Type = \"Spell\", ID = 2687 }),\n    Retaliation         = Create({ Type = \"Spell\", ID = 20230 }),\n    InnerRage           = Create({ Type = \"Spell\", ID = 1134 }),\n    \n    -- Defense\n    ShieldBlock         = Create({ Type = \"Spell\", ID = 2565 }),\n    ShieldWall          = Create({ Type = \"Spell\", ID = 871 }),\n    EnragedRegeneration = Create({ Type = \"Spell\", ID = 55694, useMaxRank = true }),\n    SpellReflection     = Create({ Type = \"Spell\", ID = 23920 }),\n    LastStand           = Create({ Type = \"Spell\", ID = 12975, isTalent = true }),\n    RallyingCry         = Create({ Type = \"Spell\", ID = 97462 }),\n    \n    HSFel1              = Create({ Type = \"Item\", ID = 36892 }),\n    HSFel2              = Create({ Type = \"Item\", ID = 36893 }),\n    HSFel3              = Create({ Type = \"Item\", ID = 36894 }),\n    Gloves              = Create({ Type = \"Item\", ID = tonumber(itemId) }),\n    GlovesUseableEnchant = Create({ Type = \"Spell\", ID = tonumber(enchantId)}),     \n    Intervene                                = Create({ Type = \"Spell\", ID = 3411,     useMaxRank = true                                                 }),\n    -- Misc\n    Taunt               = Create({ Type = \"Spell\", ID = 355 }),\n    TauntPets           = Create({ Type = \"Spell\", ID = 355,    Desc = \"PvP Taunt Pets\"                                            }),\n    ChallengingShout    = Create({ Type = \"Spell\", ID = 1161 }),\n    -- Buffs \n    BattleShout         = Create({ Type = \"Spell\", ID = 6673, useMaxRank = true  }),   \n    CommandingShout     = Create({ Type = \"Spell\", ID = 469, useMaxRank = true  }),     \n    -- CrownControl\n    Hamstring           = Create({ Type = \"Spell\", ID = 1715,     useMaxRank = true }),\n    PiercingHowl        = Create({ Type = \"Spell\", ID = 12323,    isTalent = true, Desc = \"PvP\"                                    }),\n    Charge              = Create({ Type = \"Spell\", ID = 100,     useMaxRank = true }), -- Can't be used in combat\n    Intercept           = Create({ Type = \"Spell\", ID = 20252,     useMaxRank = true }),\n    IntimidatingShout   = Create({ Type = \"Spell\", ID = 5246                    }),\n    Pummel              = Create({ Type = \"Spell\", ID = 6552,     useMaxRank = true }),\n    ShieldBash          = Create({ Type = \"Spell\", ID = 72,     useMaxRank = true }),\n    Disarm              = Create({ Type = \"Spell\", ID = 676     }),    -- Tech limitions to block \n    ConcussionBlow      = Create({ Type = \"Spell\", ID = 12809,     isTalent = true }), \n    Throwdown           = Create({ Type = \"Spell\", ID = 85388,    isTalent = true}),\n    -- Hidden\n    TacticalMastery     = Create({ Type = \"Spell\", ID = 12295,     isTalent = true, Hidden = true                                     }),    \n    Flurry              = Create({ Type = \"Spell\", ID = 12319,     isTalent = true, useMaxRank = true, Hidden = true                 }),    \n    BlessingofProtection = Create({ Type = \"Spell\", ID = 1022,     Color = \"BLUE\",  Hidden = true                                     }),    \n    PowerWordShield     = Create({ Type = \"Spell\", ID = 17,     Hidden = true     }),    \n    WindfuryTotem       = Create({ Type = \"Spell\", ID = 8512,     Hidden = true     }),    \n    ExposeArmor         = Create({ Type = \"Spell\", ID = 8647,     Hidden = true    }),    \n    Evasion             = Create({ Type = \"Spell\", ID = 5277,     Hidden = true    }),    \n    ImprovedRend        = Create({ Type = \"Spell\", ID = 12286,    Hidden = true    }),\n    WeaponDesync        = Create({ Type = \"Spell\", ID = 20594,    Hidden = true    }),\n    -- Items\n    PotionofSpeed       = Create({ Type = \"Potion\", ID = 40211}),\n    RunicHealingPotion  = Create({ Type = \"Potion\", ID = 33447}),\n}\n\n\nPlayer:RegisterShield()\nPlayer:RegisterWeaponTwoHand()\nPlayer:RegisterWeaponOffHand()\nAction.Data.QueueAutoResetTimer                = 2.5\nlocal A                                     = setmetatable(Action[Action.PlayerClass], { __index = Action })\n\n-- Re-init gloves on equip change\nlocal function initGloves()\n    itemId, enchantId = GetInventoryItemLink(\"player\", GetInventorySlotInfo(\"HandsSlot\")):match(\"item:(%d+):(%d+)\")\n    enchantId = enchantId == nil and 1 or enchantId\n    itemId = itemId == nil and 1 or itemId\n    Action[Action.PlayerClass]['Gloves'] = Create({ Type = \"Item\", ID = tonumber(itemId) })\n    Action[Action.PlayerClass]['GlovesUseableEnchant'] = Create({ Type = \"Spell\", ID = tonumber(enchantId) })\nend\n\nListener:Add(\"ACTION_EVENT_PLAYER_INV\", \"PLAYER_EQUIPMENT_CHANGED\", initGloves)\nListener:Add(\"ACTION_EVENT_WARRIOR\", \"PLAYER_REGEN_DISABLED\", initGloves)\nTMW:RegisterCallback(\"TMW_ACTION_ENTERING\", initGloves)\n\n-- --Register Toaster\n-- Toaster:Register(\"OnniToast\", function(toast, ...)\n--         local title, message, spellID = ...\n--         toast:SetTitle(title or \"nil\")\n--         toast:SetText(message or \"nil\")\n--         if spellID then \n--             if type(spellID) ~= \"number\" then \n--                 error(tostring(spellID) .. \" (spellID) is not a number for OnniToast!\")\n--                 toast:SetIconTexture(\"Interface\\FriendsFrame\\Battlenet-WoWicon\")\n--             else \n--                 toast:SetIconTexture((GetSpellTexture(spellID)))\n--             end \n--         else \n--             toast:SetIconTexture(\"Interface\\FriendsFrame\\Battlenet-WoWicon\")\n--         end \n--         toast:SetUrgencyLevel(\"normal\") \n-- end)\n\nlocal Temp  = {\n    AttackTypes         = {\"TotalImun\", \"DamagePhysImun\"},\n    AuraForInterrupt    = {\"TotalImun\", \"DamagePhysImun\", \"KickImun\"},\n    AuraForDisarm       = {\"TotalImun\", \"DamagePhysImun\", \"CCTotalImun\"},\n    \n    KickImun = {\n        642,   -- Bubble\n        48707, -- Anti-Magic Shell\n        31821, -- AuraMastery\n        96267, -- StrengthOfSpirit (Priest)\n        8178,  -- Kick immunity\n        1022, 87772, 66009, 41450, 23415, -- BoP\n        642,    -- Bubble\n        10278,  -- Hand of Protection\n    },\n    DisarmedSpells  = {\n        51722,  -- Dismantle (rogue)\n        676,    -- Disarm (warrior)\n    },\n    IsSlotTrinketBlocked                    = {\n        [51378] = true, --Medallion of the Horde\n        [42123] = true, -- Medallion of the Alliance\n    },\n    shatterIDs  = {\n        45438,  -- Ice block\n        41450,  -- BoP\n        23415,  -- imp BoP\n        642,    -- Bubble\n        10278,  -- Hand of Protection\n    },\n    slowIDs = {\n        7373, 1715, 7372, 9080, 25212, 26141, 26211, 27584,  -- Hamstring\n        45524,  -- Chains of ice\n        3408,   -- Cripping poison\n        13810,  -- Frost aura F\n        31589,  -- Mage slow\n    },\n    DodgeParryIDs = {\n        5277,   -- Evasion\n    },\n    slowImmunity = {\n        1044,   -- Hand of Freedom\n        46924,  -- Bladestorm\n        53271,  -- Master's Call \n        46924,  -- Bladestorm\n        47585,  -- Dispersion\n        34692, 34471, 38373, -- The beast within\n        45438,  -- Ice block\n        1022, 87772, 66009, 41450, 23415, -- BoP\n        642,    -- Bubble\n        47585,  -- Dispersion\n        19263,  -- Deterrence\n    },\n    MagicImmunity= {\n        31224, -- Cloak of Shadows\n        48707, -- Anti-Magic Shell    \n        642,    -- Bubble\n        45438,  -- Ice block\n        19263,  -- Deterrence\n    }, \n    totemsToDestroy = {\n        \n        --\"Windfury Totem\",\n        --\"Тотем неистовства ветра\",\n        \n        -- \"Earthbind Totem\",\n        -- \"Тотем оков земли\",\n        \n        \"Spirit Link Totem\",\n        \"Тотем духовной связи\",\n        \n        -- \"Mana Tide Totem\",\n        -- \"Тотем прилива маны\",\n    },\n    PhysicalImmunity = {\n        45438,  -- Ice block\n        \n        1022, 87772, 66009, 41450, 23415, -- BoP\n        642,    -- Bubble\n        \n        19263,  -- Deterrence\n        47585,  -- Dispersion\n    }, \n    TotalImmunity = {\n        642,    -- Bubble\n        47585,  -- Dispersion\n        19263,  -- Deterrence\n        45438,  -- Ice block\n    },\n    PhysicalAndTotalImmunity = {\n        45438,  -- Ice block\n        1022, 87772, 66009, 41450, 23415, -- BoP\n        642,    -- Bubble\n        47585,  -- Dispersion\n        19263,  -- Deterrence\n    },\n    MagicAndTotalImmunity = {\n        642,    -- Bubble\n        47585,  -- Dispersion\n        19263,  -- Deterrence\n        31224,  -- Cloak of Shadows\n        48707,  -- Anti-Magic Shell    \n        642,    -- Bubble\n        45438,  -- Ice block\n    },\n    CantSunder = {\n        7386, 8647, 770, 35387,  -- Expose armor \n    },\n    ShouldDisarmSpells = {\n        51713, -- Shadowdance\n        46924, -- Bladestorm\n        51271, -- Pillar of Frost\n        49016, -- Unholy Frenzy\n    },\n    ReflectSpellsPvP = {\n        [50796]                            = true, -- Chaos Bolt\n        [59170]                            = true, -- Chaos Bolt\n        [59171]                            = true, -- Chaos Bolt\n        [59172]                            = true, -- Chaos Bolt\n        [33786]                            = true, -- Clone\n        [51514]                         = true, -- Hex\n        [118]                           = true, -- Poly\n        [12824]                         = true, -- Poly\n        [12825]                         = true, -- Poly\n        [12826]                         = true, -- Poly\n        [28271]                         = true, -- Poly turtle\n        [28272]                         = true, -- Poly pig\n        [61305]                         = true, -- Poly cat\n        [61721]                         = true, -- Poly rabbit\n        [61780]                         = true, -- Poly turkey\n        [339]                           = true, -- Dru roots\n        [1062]                          = true, -- Dru roots\n        [5195]                          = true, -- Dru roots\n        [5196]                          = true, -- Dru roots\n        [9852]                          = true, -- Dru roots\n        [9853]                          = true, -- Dru roots\n        [26989]                         = true, -- Dru roots\n        [53308]                         = true, -- Dru roots\n        [2912]                          = true, -- Star fire\n        [8949]                          = true, -- Star fire\n        [8950]                          = true, -- Star fire\n        [8951]                          = true, -- Star fire\n        [9875]                          = true, -- Star fire\n        [9876]                          = true, -- Star fire\n        [25298]                         = true, -- Star fire\n        [26986]                         = true, -- Star fire\n        [48464]                         = true, -- Star fire\n        [48465]                         = true, -- Star fire\n        [51505]                         = true, -- Lava burst\n        [60043]                         = true, -- Lava burst\n        [34914]                         = true, -- Vampiric touch\n        [34916]                         = true, -- Vampiric touch\n        [34917]                         = true, -- Vampiric touch\n        [48159]                         = true, -- Vampiric touch\n        [48160]                         = true, -- Vampiric touch\n        [14311]                         = true, -- Freezing trap\n        [60192]                         = true, -- Freezing arrow\n        [1499]                         = true, -- Freezing trap\n        [14310]                         = true, -- Freezing trap\n        [16166]                         = true, -- Elemental mastery\n        \n    },\n    imStunned = {\n        -- Death Knight\n        91800, -- Gnaw (pet stun)\n        \n        -- Druid\n        5211, -- Bash\n        22570, -- Maim\n        16979, -- Feral Charge (Bear, interrupts and immobilizes)\n        \n        -- Hunter\n        19577, -- Intimidation\n        90337, -- Bad manner\n        91797, -- Monstrous Blow\n        93433, -- Burrow Attack\n        56626, -- Sting\n        50519, -- Sonic blast\n        \n        -- Mage\n        44572, -- Deep Freeze\n        12592, -- Improved Polymorph\n        12357, -- Impact (Fireblast proc)\n        \n        -- Paladin\n        853, -- Hammer of Justice\n        \n        -- Priest\n        64044, -- Psychic Horror (with a disarm and horror effect)\n        \n        -- Rogue\n        408, -- Kidney Shot\n        1833, -- Cheap Shot\n        \n        -- Shaman\n        39796, -- Stoneclaw Totem Stun\n        58861, -- Bash (Feral Spirit)\n        \n        -- Warlock\n        30283, -- Shadowfury\n        89766, -- Axe Toss (from Felguard)\n        85114, -- Aftermath (Random stun fom rain)\n        \n        -- Warrior\n        85388, -- Throwdown\n        12809, -- Concussion Blow\n        46968, -- Shockwave\n        \n        \n        -- Tauren racial\n        20549, -- War Stomp\n    },\n    SpellReflectTimer = 0, \n}\n\nlocal arenaIDs = {\n    [1] = \"arena1\",\n    [2] = \"arena2\", \n    [3] = \"arena3\", \n    [4] = \"arena4\", \n    [5] = \"arena5\"\n}\n\nlocal partyIDs  = {\n    [1] = \"party1\",\n    [2] = \"party2\",\n}\n\n-- Initialization\nListener:Add(\"ACTION_EVENT_WARRIOR_SPELL_REFLECT\", \"UNIT_SPELLCAST_SUCCEEDED\", function(...)\n        local source, _, spellID = ...\n        if source == player and A.SpellReflection.ID == spellID then\n            Temp.SpellReflectTimer = (math.random(60, 90) / 100)\n        end\nend)\n\n-- Util functions\nlocal function SpellReflectTimerInit()\n    if Temp.SpellReflectTimer == 0 then\n        Temp.SpellReflectTimer = (math.random(60, 90) / 100)\n    end\nend\nTMW:RegisterCallback(\"TMW_ACTION_IS_INITIALIZED\", SpellReflectTimerInit)\n\n-- Usage of trinkets\nlocal function UseItems(unitID)\n    if A.Trinket1:IsReadyByPassCastGCD(unitID) and A.Trinket1:IsCastable() and A.Trinket1:GetItemCategory() ~= \"DEFF\" and not Temp.IsSlotTrinketBlocked[A.Trinket1.ID] and A.Trinket1:AbsentImun(unitID, Temp.TotalAndMagPhys) then\n        return A.Trinket1\n    end\n    \n    if A.Trinket2:IsReadyByPassCastGCD(unitID) and A.Trinket2:IsCastable() and A.Trinket2:GetItemCategory() ~= \"DEFF\" and not Temp.IsSlotTrinketBlocked[A.Trinket2.ID] and A.Trinket2:AbsentImun(unitID, Temp.TotalAndMagPhys) then\n        return A.Trinket2\n    end\nend\n\nlocal BurstPhase = {}\nlocal btn_BladestormBurst = false\nAction.ForceBurst = function(self, ...)\n    btn_BladestormBurst = not btn_BladestormBurst\n    if not btn_BladestormBurst then\n        A.Toaster:SpawnByTimer(\"OnniToast\", 0, \"STOPPING burst\", \"He dead yet?\", A.Bladestorm.ID)\n        wipe(BurstPhase)\n    else\n        A.Toaster:SpawnByTimer(\"OnniToast\", 0, \"STARTING burst\", \"Let's gooooooo!\", A.Bladestorm.ID)\n    end\n    \n    Print(\"Force  Burst: \" .. toStr[btn_BladestormBurst])\nend\n\n-- Reset Vars\nlocal function ResetVars()\n    if btn_BladestormBurst then\n        A.ForceBurst(\"ExecuteProc\")\n    end\nend\n\nTMW:RegisterCallback(\"TMW_ACTION_ENTERING\",                        ResetVars)\nTMW:RegisterCallback(\"TMW_ACTION_IS_INITIALIZED\",                ResetVars)\nListener:Add(\"ACTION_EVENT_WARRIOR\", \"PLAYER_REGEN_ENABLED\",    ResetVars)\n\nlocal function InMelee(unitID)\n    -- @return boolean \n    return A.Rend:IsInRange(unitID) or (A.Rend:IsBlockedBySpellBook() and Player:GetSwing(4) > 0)\nend \n\nlocal function IsBossFight()\n    -- @return boolean \n    for i = 1, MAX_BOSS_FRAMES do \n        if Unit(\"boss\" .. i):IsExists() then \n            return true \n        end \n    end \nend \n\nlocal function GetStance()\n    -- @return number (1 - BattleStance, 2 - DefensiveStance, 3 - BerserkerStance)\n    return Player:GetStance()\nend \n\nlocal function NextAutoIsSpecial()\n    -- @return boolean \n    -- true if HeroicStrike or Cleave placed in use queue by next swing attack \n    return A.HeroicStrike:IsSpellCurrent() or A.Cleave:IsSpellCurrent()\nend \n\nlocal function isCasterClass(unitID)\n    return Unit(unitID):Class() == \"MAGE\" or Unit(unitID):Class() == \"WARLOCK\" or Unit(unitID):Class() == \"PRIEST\" or Unit(unitID):IsHealer() == true\nend    \n\nlocal function isMeleeClass(unitID)\n    return Unit(unitID):Class() == \"WARRIOR\" or Unit(unitID):Class() == \"ROGUE\" or Unit(unitID):Class() == \"DEATHKNIGHT\"\nend         \n\n\nlocal function GetByRange(count, range, isNotEqual, isCheckCombat)\n    -- @return boolean \n    local c = 0 \n    for unitID in pairs(ActiveUnitPlates) do \n        if (not isNotEqual or not UnitIsUnit(unitID, \"target\")) and (not isCheckCombat or Unit(unitID):CombatTime() > 0) and not Unit(unitID):IsTotem() then \n            if ((not A.Hamstring:IsBlockedBySpellBook() and A.Hamstring:IsInRange(unitID)) or (not A.Rend:IsBlockedBySpellBook() and A.Rend:IsInRange(unitID))) then \n                c = c + 1\n            elseif range then \n                local r = Unit(unitID):GetRange()\n                if r > 0 and r <= range then \n                    c = c + 1\n                end \n            end \n            \n            if c >= count then \n                return true \n            end \n        end \n    end     \nend \n\nlocal function ShouldDisarm(unitID)\n    if  Unit(unitID):IsPlayer() and -- Is player\n    A.Disarm:GetCooldown() == 0 and -- Disarm no CD (cant use ready because stance limitation)\n    Unit(player):Power() > 15 and -- I have rage for disarm (ca)\n    Unit(unitID):HasBuffs(Temp.PhysicalAndTotalImmunity) == 0  and -- Target has no immunities on\n    Unit(unitID):HasDeBuffs(51722) == 0 and -- Target is not already disarmed\n    Unit(unitID):HasDeBuffs(676) == 0 and  -- Target is not already disarmed\n    Unit(unitID):HasBuffs(Temp.ShouldDisarmSpells) > 1 and\n    InMelee(unitID) and not \n    Unit(unitID):InLOS() then\n        return true\n    end\nend\n\nlocal multiRend = GetToggle(2, \"Multirend\")\nlocal function ShouldRend(unitID)\n    if multiRend \n    and Unit(unitID):IsPlayer() \n    and Unit(\"target\"):HasDeBuffs(A.Rend.ID, true) < GetGCD() \n    and Unit(target):HealthPercent() > 70 \n    and InMelee(unitID) \n    and A.Rend:IsReady(unitID) \n    and A.Rend:IsInRange(unitID)then\n        return true\n    end\nend\n\n\nlocal function CanInterrupt(unitID)\n    if A.Pummel:GetCooldown() == 0 and Unit(player):Power() >= 10 and InMelee(unitID) then\n        return true\n    end\nend\n\nlocal unitIDtargets = setmetatable({}, { -- string cache for faster performance\n        __index = function(t, v)\n            t[v] = v .. \"target\"\n            return t[v]\n        end,\n})\n\nlocal function ShouldSpellReflect()\n    local reflectHP                 = GetToggle(2, \"DefensiveReflect\")\n    if Unit(player):HealthPercent() <= reflectHP then\n        if A.Zone ~= \"arena\" then\n            local castLeft, _, spellID\n            for Reflect_UnitID in pairs(ActiveUnitPlates) do\n                castLeft, _, spellID = Unit(Reflect_UnitID):IsCastingRemains()\n                if castLeft > 0 and castLeft <= GetLatency() + Temp.SpellReflectTimer and UnitIsUnit(unitIDtargets[Reflect_UnitID], player) and Temp.ReflectSpellsPvP[spellID] then\n                    return true\n                end\n            end\n        else\n            local castLeft, _, spellID\n            local arenaPlayer\n            for i = 1, 5 do\n                arenaPlayer = arenaIDs[i]\n                castLeft, _, spellID = Unit(arenaPlayer):IsCastingRemains()\n                if castLeft > 0 and castLeft <= GetLatency() + Temp.SpellReflectTimer and UnitIsUnit(unitIDtargets[arenaPlayer], player) and Temp.ReflectSpellsPvP[spellID] then\n                    return true\n                end\n            end\n        end\n    end\n    \nend \n\nlocal function MassSpellReflectInRange(unitID)\n    return A.Intervene:IsInRange(party1)\nend\n\nlocal function GetByRangeWithDebuffAndBuff(range, hardstop, debuffIDs, buffIDs)\n    -- @return number\n    -- @usage A.MultiUnits:GetByRangeInCombat(@number, @number, @number)\n    -- All options are optimal\n    local total = 0\n    \n    for unitID in pairs(ActiveUnitPlates) do \n        if (not range or Unit(unitID):CanInterract(range)) and Unit(unitID):HasBuffs(debuffIDs) == 0 and Unit(unitID):HasDeBuffs(buffIDs) == 0 and Unit(unitID):InLOS() and (isMeleeClass(unitID) or Unit(unitID):Class() == \"PRIEST\") and not Unit(unitID):IsTotem() then \n            total = total + 1\n        end \n        \n        if hardstop and total >= hardstop then \n            break \n        end \n    end \n    \n    return total \nend \n\nlocal function GetGUID(unitID)\n    return (unitID and TeamCacheFriendlyUNITs[unitID]) or UnitGUID(unitID)\nend \n\n-------------------------------------------\n-- Revenge track\n-------------------------------------------\nlocal revengeGUID = {}\nlocal isPushedBack = 0\n\nlocal function RESET_GUID(DestGUID)    \n    wipe(revengeGUID)\n    isPushedBack = 0\nend\n\nlocal IsEventIsDied = {\n    [\"UNIT_DIED\"]                         = true,\n    [\"UNIT_DESTROYED\"]                    = true,\n    [\"UNIT_DISSIPATES\"]                    = true,\n    [\"PARTY_KILL\"]                         = true,\n    [\"SPELL_INSTAKILL\"]                 = true,\n}\n\nlocal function COMBAT_LOG_EVENT_UNFILTERED(...)\n    local _, EVENT, _, SourceGUID, _, _, _, DestGUID, _, _, _, missTypeSwing, spellName, _, missType = CombatLogGetCurrentEventInfo()\n    \n    -- Log Save\n    local lastSix = strsub(EVENT, -6)\n    local pGuid = GetGUID(\"player\")\n    if lastSix == \"MISSED\" then\n        if (missTypeSwing == \"DODGE\" or missTypeSwing == \"BLOCK\" or missTypeSwing == \"PARRY\") and pGuid == DestGUID then\n            revengeGUID[pGuid] = TMW.time + 5\n        end\n        -- Log Remove\n    else\n        if pGuid == SourceGUID and missTypeSwing == A.Revenge.ID then\n            RESET_GUID(DestGUID)\n        end\n        if DestGUID == pGuid\n        and (missTypeSwing == 59159 -- Thunderstorm\n            or missTypeSwing == 61384 -- Typhoon\n        or missTypeSwing == 42945) -- Blast Wave\n        then\n            isPushedBack = TMW.time\n        end\n    end\nend \n\nListener:Add(\"ACTION_EVENT_WARRIOR\", \"PLAYER_REGEN_ENABLED\", RESET_GUID) \nListener:Add(\"ACTION_EVENT_WARRIOR\", \"COMBAT_LOG_EVENT_UNFILTERED\", COMBAT_LOG_EVENT_UNFILTERED) \n\n\nlocal function IsRevengeUP(unitID)\n    -- @return boolean \n    local GUID = UnitGUID(unitID) \n    return GUID and revengeGUID[GUID] and TMW.time < revengeGUID[GUID]\nend \n\nlocal function HasAttachedGlyph(ID)\n    for i = 1, 6 do\n        local enabled, _, _, glyphSpellID = GetGlyphSocketInfo(i);\n        if enabled and glyphSpellID then\n            --print(i .. \" - \" .. glyphSpellID .. \" - \" .. GetGlyphLink(i))\n            if glyphSpellID == ID then\n                return true\n            end\n        end\n    end\n    return false\nend\n\n-- -- Create a frame to handle events\n-- local frame = CreateFrame(\"Frame\")\n\n-- -- Register the event you want to track (UNIT_SPELLCAST_START in this case)\n-- frame:RegisterEvent(\"UNIT_SPELLCAST_START\")\n\n-- -- Set up the event handler function\n-- frame:SetScript(\"OnEvent\", function(self, event, unit, castID, spellID)\n--     -- Check if the event is for the player's target\n--     if unit == \"target\" then\n--         -- Get the target's name\n--         local targetName = UnitName(\"target\") or \"Unknown Target\"\n\n--         -- Print the target's name, cast ID, and spell ID\n--         print(\"Target:\", targetName, \"Cast ID:\", castID, \"Spell ID:\", spellID)\n--     end\n-- end)\n\n\n\nlocal function GetByRange(count, range, isNotEqual, isCheckCombat)\n    -- @return boolean\n    local c = 0\n    for unitID in pairs(ActiveUnitPlates) do\n        if (not isNotEqual or not UnitIsUnit(unitID, \"target\")) and (not isCheckCombat or Unit(unitID):CombatTime() > 0) and not Unit(unitID):IsTotem() then\n            if ((not A.HeroicStrike:IsBlockedBySpellBook() and A.HeroicStrike:IsInRange(unitID)) or (not A.ShieldSlam:IsBlockedBySpellBook() and A.ShieldSlam:IsInRange(unitID))) then\n                c = c + 1\n            elseif range then\n                local r = Unit(unitID):GetRange()\n                if r > 0 and r <= range then\n                    c = c + 1\n                end\n            end\n            \n            if c >= count then\n                return true\n            end\n        end\n    end\nend\n\n-------------------------------------------\n-- GLOBAL API\n-------------------------------------------\n\n\nfunction Action:PowerLimitOK(meta)\n    -- @return boolean \n    local PowerLimit \n    if not self.isStance or (meta and meta == 2) then \n        return true \n    elseif self.isStance == 1 then \n        PowerLimit = GetToggle(2, \"BattleStancePowerLimit\") \n    elseif self.isStance == 2 then \n        PowerLimit = GetToggle(2, \"DefensiveStancePowerLimit\") \n    elseif self.isStance == 3 then \n        PowerLimit = GetToggle(2, \"BerserkerStancePowerLimit\") \n    end \n    \n    return PowerLimit and ((PowerLimit <= 0 and true) or Unit(\"player\"):Power() <= PowerLimit)\nend \n\nPlayer:AddTier(\"Tier8\", { 45431, 45433, 45429, 45430, 45432,   -- iLvl 225\n46151, 46149, 46146, 46148, 46150 }) -- ilvl 232\n\nPlayer:AddTier(\"Tier10\", { 50846, 50847, 50848, 50849, 50850,   -- iLvl 251\n        51215, 51216, 51217, 51218, 51219,    -- ilvl 264 \n51221, 51224, 51220, 51222, 51223 }) -- ilvl 277\n\n-------------------------------------------\n-- [[ WeaponSwingTimer ]] \n-------------------------------------------\n-- local function IsWeaponSwingTimerEnabled(silence)\n--     if not WeaponSwingTimerPlayerFrame then \n--         if not silence then \n--             Print(\"WeaponSwingTimer - \" .. strlowerCache[ADDON_DISABLED])\n--         end \n--         return  \n--     end \n\n--     if not WeaponSwingTimerPlayerFrame.main_right_text then \n--         if not silence then \n--             Print(\"WeaponSwingTimer - \" .. strlowerCache[INVTYPE_WEAPONMAINHAND] .. \" \" .. strlowerCache[STOPWATCH_TITLE] .. \" \" .. strlowerCache[ADDON_DEP_DISABLED])\n--         end \n--         return \n--     end \n\n--     if not WeaponSwingTimerPlayerFrame.off_right_text then \n--         if not silence then \n--             Print(\"WeaponSwingTimer - \" .. strlowerCache[INVTYPE_WEAPONOFFHAND] .. \" \" .. strlowerCache[STOPWATCH_TITLE] .. \" \" .. strlowerCache[ADDON_DEP_DISABLED])            \n--         end \n--         return \n--     end     \n\n--     return true \n-- end \n\n-- local function GetWeaponSwingTimer(slot)\n--     -- @return number provided by WeaponSwingTimer addon \n--     -- @usage 1 for main hand, 2 for off hand \n--     if slot == 1 then \n--         local text = WeaponSwingTimerPlayerFrame.main_right_text:GetText() \n--         if not text or text == \"\" then \n--             return 0 \n--         end \n--         return toNum[text] \n--     end \n\n--     if slot == 2 then \n--         local text = WeaponSwingTimerPlayerFrame.off_right_text:GetText()\n--         if not text or text == \"\" then \n--             return 0 \n--         end \n--         return toNum[text] \n--     end \n-- end \n\nlocal function HeroicStrikeAdjustedPower()\n    -- @return number \n    return (Player:HasWeaponOffHand(true) and GetToggle(2, \"HeroicStrike-Trick\") and GetToggle(2, \"HeroicStrike-TrickRage\") and IsWeaponSwingTimerEnabled(true) and A.HeroicStrike:GetSpellPowerCostCache()) or 0\nend \n\n-- -- [[ Initialization ]]\n-- local function WeaponSwingTimerInit()\n--     -- It will enable toggle for using HeroicStrike-Trick if WeaponSwingTimer addon also was found enabled ONCE, otherwise will do nothing \n--     if not IsWeaponSwingTimerEnabled(true) then \n--         -- Disable\n--         SetToggle({2, \"HeroicStrike-Trick\"}, false)\n--         SetToggle({2, \"HeroicStrike-TrickRage\"}, false)\n--     else \n--         -- Enable ONCE\n--         if TMW.db.profile.ActionDB[2].WeaponSwingTimerInit == nil then \n--             TMW.db.profile.ActionDB[2].WeaponSwingTimerInit = true \n--             SetToggle({2, \"HeroicStrike-Trick\"}, true)\n--             SetToggle({2, \"HeroicStrike-TrickRage\"}, false)\n--         end \n--     end \n--     TMW:UnregisterCallback(\"TMW_ACTION_IS_INITIALIZED\", WeaponSwingTimerInit)\n-- end \n-- TMW:RegisterCallback(\"TMW_ACTION_IS_INITIALIZED\", WeaponSwingTimerInit)\n\n-- [1] CC AntiFake Rotation\nA[1] = function(icon)    \n    if A.IntimidatingShout:GetCooldown() == 0 then\n        return A.AntiFakeCC:Show(icon)\n    end\nend \n\n-- [2] Kick AntiFake Rotation\nA[2] = function(icon)\n    local canPrePull = GetToggle(1, \"BossMods\") and BossMods:HasAnyAddon() and not inCombat and Unit(target):IsBoss() --and IsInRaid()\n    local unitID\n    if IsUnitEnemy(\"mouseover\") then \n        unitID = \"mouseover\"\n    elseif IsUnitEnemy(\"target\") then \n        unitID = \"target\"\n    end \n    \n    if unitID then         \n        local castLeft, _, _, _, notKickAble = Unit(unitID):IsCastingRemains()\n        \n        if castLeft > 0 then    \n            if not notKickAble and A.Pummel:GetCooldown() == 0 and Unit(\"player\"):Power() >= 10 then   \n                return A.AntiFakeInterrupt1:Show(icon)                                      \n            end\n        end       \n    end\n    \n    if  --Unit(player):HasBuffs(53908) == 0\n    A.PotionofSpeed:IsReadyByPassCastGCD(player, true) \n    and BossMods:GetPullTimer() <= 1.5\n    then\n        return A.PotionofSpeed:Show(icon)\n    end\nend\n\n-- [3] Rotation \n-- -- TODO / REMINDERS / Issues\n-- -- Issue; Overpower usage low compared to other warriors\n-- -- -- Need to record games to see if they actually fall off\n-- -- Issue; Delay disarm more, looks very unhuman\n-- -- --  needs to be in client\n-- -- Issue; Not properly multirending\n-- -- --  Added logging\n-- -- Improvement; Don't disarm bladestorm if retal is up\n-- -- -- Don't rend if proc is about to expire. Don't hamstring is proc is about to expire\n\nA[3] = function(icon)   \n    -- Toggles\n    local BattleStancePvP                   = GetToggle(2, \"BattlestanceValue\")\n    local DefensiveStancePvP                = GetToggle(2, \"DefensivestanceValue\")\n    local AoEenabled                        = GetToggle(2, \"AoE\")\n    local SunderPvp                         = GetToggle(2, \"SunderPvp\")\n    local EnragedRegenerationSlider         = GetToggle(2, \"EnragedRegeneration\")\n    local Totemstomp                        = GetToggle(2, \"TotemStomp\")\n    local DumpRageValuePvE                  = GetToggle(2, \"DumpRageValuePvE\")\n    local DumpRageValuePvP                  = GetToggle(2, \"DumpRageValuePvP\")\n    local ZugRageValue                      = GetToggle(2, \"ZugSliderValue\")\n    local HealthStoneSlider                 = GetToggle(2, \"Healthstone\")\n    local PushbackCharge                    = GetToggle(2, \"PushbackCharge\")\n    local ReckBurstEnabled                  = GetToggle(2, \"ReckBurstEnabled\")\n    local ReckMinHealthSlider               = GetToggle(2, \"ReckMinHealthSlider\")\n    local GloveSnipeHealth                  = GetToggle(2, \"GloveSnipeHealth\")\n    local AutoKick                          = GetToggle(2, \"AutoKick\")\n    local UseShieldWall                     = GetToggle(2, \"UseShieldWall\")\n    local RallyingCrySlider                 = GetToggle(2, \"RallyingCry\")\n    \n    local activeEnemies                     = MultiUnits:GetByRangeInCombat(10)\n    local SpecTree                          = GetPrimaryTalentTree()\n    \n    -- Specs\n    local armsSpec                          = SpecTree == 1\n    local furySpec                          = SpecTree == 2\n    local protSpec                          = SpecTree == 3\n    \n    \n    -- General vars\n    local player                            = \"player\"\n    local target                            = \"target\"\n    local isTarget, isTargetInMelee\n    local combatTime                        = Unit(\"player\"):CombatTime()\n    \n    -- Targets\n    local IceTomb = \"Ледяной склеп\" -- Ледяной склеп Великан клана Темных Рун\n    \n    local inCombat                          = combatTime > 0\n    local multipleTargets                   = GetByRange(2, 8)\n    local myRage                            = Unit(player):Power()\n    local myHealth                          = Unit(player):HealthPercent()\n    local improvedSlamRank                  = A.ImprovedSlam:GetTalentRank()\n    local improvedRevengeRank               = A.ImprovedRevenge:GetTalentRank()\n    local improvedBerserkerRage             = A.ImprovedBerserkerRage:GetTalentRank()\n    local notMoving                         = Player:IsStayingTime() > 0.2\n    local targetLowHealth                   = Unit(target):HealthPercent() < 30\n    local _, _, _, _, _, npc_id             = Unit(target):InfoGUID()\n    local isDummy                           = npc_id == 31146 or npc_id == 31144 or npc_id == 32666 or npc_id == 32667\n    local inStance                          = GetStance()\n    local canShatter                        = Unit(target):HasBuffs(Temp.shatterIDs)\n    local TimeRemainingSlowed               = Unit(target):HasDeBuffs(Temp.slowIDs)\n    local isDodgingOrParrying               = Unit(target):HasBuffs(Temp.DodgeParryIDs)\n    local slowImmune                        = Unit(target):HasBuffs(Temp.slowImmunity)\n    local CanBeDamaged                      = Unit(target):HasBuffs(Temp.PhysicalAndTotalImmunity) == 0\n    and not (Unit(target):Name() == IceTomb and Unit(target):HealthPercent() < 30) \n    and      Unit(target):HasBuffs(28995) == 0\n    --and not (isDummy and Unit(target):HealthPercent() < 100)\n    local CantSunder                        = Unit(target):HasDeBuffs(Temp.CantSunder) > 0\n    local Cycloned                          = Unit(target):HasBuffs(33786)\n    local TasteForBloodRemaining            = Unit(player):HasBuffs(56638)\n    local Bloodsurge                        = Unit(player):HasBuffs({46913,46914,46915,46916})\n    local _, instanceType                   = IsInInstance()\n    local clothWearer                       = Unit(target):Class() == \"MAGE\" or Unit(target):Class() == \"PRIEST\" or Unit(target):Class() == \"WARLOCK\"\n    local isInRaidOrDungeon                 = instanceType == \"raid\" or instanceType == \"party\"\n    local canPrePull                        = GetToggle(1, \"BossMods\") and BossMods:HasAnyAddon() and not inCombat and Unit(target):IsBoss() --and IsInRaid()\n    local noSpellUpThatRequiresShield       = Unit(player):HasBuffs(A.SpellReflection.ID) == 0 and Unit(player):HasBuffs(A.ShieldBlock.ID) == 0 and Unit(player):HasBuffs(A.ShieldWall.ID) == 0\n    -- local canUseRendInFury                  = combatTime > 0\n    local canOverpowerOnCast                = A.Overpower:IsReady() and Unit(target):IsCasting()\n    \n    -- Timeleft\n    local premiumExpires                    = date(\"999999\")\n    local today                             = date(\"%y%m%d\")\n    local enablePremiumFeature              = premiumExpires > today\n    \n    \n    --local shouldDesync = (GetWeaponSwingTimer(1) == GetWeaponSwingTimer(2)) and inCombat and furySpec and GetWeaponSwingTimer(2) < 0.6 and GetWeaponSwingTimer(2) > 0.4\n    \n    \n    if IsUnitEnemy(\"target\") then\n        isTarget            = \"target\"  \n        isTargetInMelee     = InMelee(isTarget)\n    end  \n    \n    \n    -- ############################# --\n    --          OFF GCD              --\n    -- ############################# --\n    \n    -- Rocket finisher\n    if A.Gloves:IsReadyByPassCastGCD(player) and\n    A.GlovesUseableEnchant.ID == 4181 \n    and Unit(target):HealthPercent() < GloveSnipeHealth \n    and Unit(target):HasBuffs(Temp.MagicImmunity) == 0 \n    and Cycloned == 0 \n    and Unit(target):IsEnemy() \n    and Unit(target):IsPlayer() \n    and Unit(target):HasBuffs(A.SpellReflection.ID) == 0 \n    then\n        Print(\"Using rocket gloves - please use WilloftheForsaken pixel for this.\")\n        return A.WilloftheForsaken:Show(icon)\n    end  \n    \n    -- Pushback timer reset\n    if (TMW.time - isPushedBack) > 2 \n    or Unit(player):GetSpellLastCast(A.Intercept.ID) < 0.5 \n    then\n        isPushedBack = 0\n    end\n    -- Charge after Pushback\n    if PushbackCharge and A.Charge:IsReadyByPassCastGCD(player) and isPushedBack > 0 and Unit(target):GetRange() >= 8 \n    then\n        return A.Charge:Show(icon)\n    end\n    \n    local useKick, useCC, useRacial, notInterruptable, castRemainsTime = A.InterruptIsValid(\"target\", nil, nil, true)\n    if useKick \n    and A.Pummel:IsReady(target) \n    and not notInterruptable \n    and castRemainsTime > GetLatency() \n    and AutoKick \n    then\n        return A.Pummel:Show(icon)\n    end\n    \n    -- [✔️] Health Potion\n    if HealthStoneSlider > myHealth \n    and A.RunicHealingPotion:IsReadyByPassCastGCD(player, true) \n    --and Unit(\"player\"):HasBuffs(53787) == 0\n    and TMW.CNDT.Env.CooldownDuration(GetItemSpell(A.RunicHealingPotion.ID)) == 0\n    then\n        return A.EscapeArtist:Show(icon)\n    end\n    \n    -- ############################# --\n    --          DEFENSIVES           --\n    -- ############################# --\n    \n    -- [✔️] Healthstone\n    if HealthStoneSlider > myHealth and (A.HSFel1:IsReady(player, true) or A.HSFel2:IsReady(player, true) or A.HSFel3:IsReady(player, true)) then\n        return A.EscapeArtist:Show(icon)\n    end\n    \n    if     A.RallyingCry:IsReady() and\n    Unit(player):HealthPercent() <= RallyingCrySlider\n    -- or Unit(\"party1\"):HealthPercent() <= RallyingCrySlider \n    -- or Unit(\"party2\"):HealthPercent() <= RallyingCrySlider)\n    then\n        return A.RallyingCry:Show(icon)\n    end\n    \n    -- [✔️] Enraged Regenration\n    if EnragedRegenerationSlider >= 0 and A.EnragedRegeneration:IsReady(player) and Unit(target):HealthPercent() > ZugRageValue and\n    (\n        (\n            EnragedRegenerationSlider == 100 and -- Slider is on 'Auto'\n            (\n                (\n                    not A.IsInPvP and\n                    Unit(player):HealthPercent() < 25 and\n                    Unit(player):TimeToDieX(5) < 6\n                ) or\n                (\n                    A.IsInPvP and Unit(player):HealthPercent() < 25 and\n                    (\n                        Unit(player):UseDeff() or\n                        (\n                            Unit(player, 5):HasFlags() and\n                            Unit(player):GetRealTimeDMG() > 0 and\n                            Unit(player):IsFocused(nil, true)\n                        )\n                    )\n                )\n            ) and\n            Unit(player):HasBuffs(\"DeffBuffs\") == 0\n        ) or\n        (    -- Custom\n            EnragedRegenerationSlider < 100 and\n            Unit(player):HealthPercent() <= EnragedRegenerationSlider\n        )\n    )\n    then\n        return A.EnragedRegeneration:Show(icon)\n    end\n    \n    -- [✔️] Spell Reflection\n    if A.SpellReflection:GetCooldown() < 1 \n    and ShouldSpellReflect() \n    and Unit(player):HasBuffs(A.Bladestorm.ID) == 0 \n    and myRage < 15\n    then \n        return A.SpellReflection:Show(icon)\n        --Print(\"trying to reflect\")\n    end\n    \n    -- [✔️] Disarm\n    if A.Disarm:GetCooldown() < 1 and ShouldDisarm(\"target\") and enablePremiumFeature then\n        Print(\"Trying to disarm target\")\n        return A.ChallengingShout:Show(icon)\n    end\n    \n    -- Shield Wall\n    if UseShieldWall ~= -1\n    and A.ShieldWall:GetCooldown() < 1\n    and inCombat\n    then\n        if UseShieldWall == 100\n        then\n            if Unit(player):GetRealTimeDMG() >= Unit(player):HealthMax() * 0.3\n            or Unit(player):TimeToDieX(15) < 3\n            or Unit(player):HealthPercent() <= 20\n            then\n                return A.Stoneform:Show(icon)\n            end\n        elseif Unit(player):HealthPercent() <= UseShieldWall\n        then\n            return A.Stoneform:Show(icon)\n        end\n    end\n    \n    -- [✔️] 1hander defense rotation\n    if  A.Player:HasWeaponTwoHand(true) ~= nil \n    and myHealth < DefensiveStancePvP \n    and not A.SwapWeapon:IsBlocked() \n    and not isInRaidOrDungeon \n    and not A.SwapWeapon:IsSuspended(0.5, 1) \n    and not protSpec\n    then\n        Player:RegisterWeaponTwoHand()\n        return A.SwapWeapon:Show(icon)\n    end\n    \n    -- [✔️] Back 2 2hander\n    if  A.Player:HasWeaponTwoHand(true) == nil\n    and not A.SwapWeapon:IsBlocked()\n    and not Player:IsSwapLocked()\n    and not furySpec\n    and not protSpec\n    and myHealth > BattleStancePvP\n    and not Player:IsCasting()\n    and not A.SwapWeapon:IsSuspended(0.5, 1)\n    and (\n        noSpellUpThatRequiresShield\n        and ShouldSpellReflect() ~= true\n    )\n    and (\n        --A.ShieldSlam:GetCooldown() > 0\n        not (Unit(target):HasBuffs(10278) >= 1 \n            or Unit(target):HasBuffs(1044) >= 2) -- BoP or Freedom\n    ) \n    then\n        Player:RegisterWeaponTwoHand()\n        return A.SwapWeapon:Show(icon)\n    end\n    \n    -- ############################# --\n    --      REMOVE IMMUNITY          --\n    -- ############################# --\n    \n    \n    --BR\n    if      A.BattleShout:IsReady(player)\n    and canShatter > 0 \n    and A.ShatteringThrow:GetCooldown() == 0 \n    and myRage < 25 \n    then\n        return A.BattleShout:Show(icon)\n    end\n    \n    -- [✔️] Shatter\n    if canShatter > 0 \n    and A.ShatteringThrow:GetCooldown() == 0 \n    and myRage >= 25 \n    then\n        return A.ShatteringThrow:Show(icon)\n    end\n    \n    -- ############################# --\n    --      FINISHER SCENARIOS       --\n    -- ############################# --\n    \n    if Unit(target):HealthPercent() < ZugRageValue and Unit(target):HasBuffs(Temp.PhysicalImmunity) == 0 and Cycloned == 0 and Unit(target):IsEnemy() and Unit(target):IsPlayer() then\n        \n        -- MortalStrike if MS almost dropping\n        if A.MortalStrike:IsReady(player) and Unit(target):HasDeBuffs(A.MortalStrike.ID) < 2 then\n            return A.MortalStrike:Show(icon) \n        end\n        \n        -- Overpower\n        if A.Overpower:IsReady(player) then\n            return A.Overpower:Show(icon) \n        end\n        \n        -- Execute\n        if A.Execute:IsReady(player) then\n            return A.Execute:Show(icon) \n        end\n        \n        -- MortalStrike\n        if A.MortalStrike:IsReady(player) then\n            return A.MortalStrike:Show(icon) \n        end\n        \n        -- Kill with heroic throws\n        if A.HeroicThrow:IsReady(player) \n        then\n            return A.HeroicThrow:Show(icon)\n        end \n    end\n    \n    \n    -- ############################# --\n    --      PRIO IN COMBAT PVP       --\n    -- ############################# --\n    \n    \n    if (((  Unit(target):IsEnemy() \n                and Unit(target):IsPlayer()))) \n    and Cycloned == 0 \n    and (TasteForBloodRemaining > 5\n    or TasteForBloodRemaining == 0)\n    then\n        -- -- Piercing howl - Arena units that are neaby & not slowed\n        -- if A.PiercingHowl:IsReady(player) and GetByRangeWithDebuffAndBuff(10, 5, Temp.slowIDs, Temp.slowImmunity) > 0 and (A.Charge:GetSpellTimeSinceLastCast() > 2 or A.Intercept:GetSpellTimeSinceLastCast() > 2) then \n        --     return A.PiercingHowl:Show(icon)\n        -- end\n        \n        -- Targeted slow\n        if TimeRemainingSlowed < 2 \n        and armsSpec\n        and Unit(target):GetMaxSpeed() >= 100\n        and slowImmune == 0 \n        and not Unit(target):IsPet() then\n            -- Hamstring\n            if      inStance ~= 2 \n            and myRage > 7 \n            and Unit(player):HasBuffs(Temp.PhysicalAndTotalImmunity) == 0 \n            and isTargetInMelee\n            and not Unit(target):HasDeBuffs(Temp.imStunned)\n            then\n                return A.Hamstring:Show(icon)\n            end\n            \n            if     inStance ~= 2 \n            and myRage > 7 \n            and Unit(player):HasBuffs(Temp.PhysicalAndTotalImmunity) == 0\n            and Unit(target):HasBuffs(5277) > 0 \n            and not A.Overpower:IsReadyByPassCastGCD()  -- Evasion\n            then\n                return A.Hamstring:Show(icon)\n            end\n            -- -- Piercing howl\n            -- if A.PiercingHowl:IsReady(player) and (isTarget and Unit(isTarget):GetRange() < 10) and (A.Charge:GetSpellTimeSinceLastCast() > 2 or A.Intercept:GetSpellTimeSinceLastCast() > 2) and not Unit(target):InLOS() then \n            --     return A.PiercingHowl:Show(icon)\n            -- end\n        end\n        \n        -- Reckburst\n        if ReckBurstEnabled and -- UI toggle: enabled\n        isTargetInMelee and -- Target in melee range\n        A.Recklessness:GetCooldown() == 0 and -- Recklessness off CD\n        Unit(player):HasBuffs(52437) > 3 and -- Execute proc > 3 seconds\n        myHealth > ReckMinHealthSlider and -- UI: Our health higher than slider\n        Unit(player):CombatTime() > 15 and -- I'm in combat for > 15 seconds\n        CanBeDamaged and -- No immunities\n        Unit(player):HasDeBuffs(Temp.DisarmedSpells) == 0 -- Not disarmed\n        then return A.Recklessness:Show(icon)\n        end\n        \n        if inStance == 3 and Unit(player):HealthPercent() > BattleStancePvP then\n            \n            -- Battle stance\n            if A.BattleStance:IsReadyByPassCastGCD(player) then\n                return A.BattleStance:Show(icon)\n            end\n            -- BattleShout\n            if A.BattleShout:IsReady(player)\n            and myRage < 20 then\n                return A.BattleShout:Show(icon)\n            end\n            -- Execute\n            if A.Execute:IsReady(player) then\n                return A.Execute:Show(icon) \n            end\n            -- Mortal Strike\n            if A.MortalStrike:IsReady(player) then\n                return A.MortalStrike:Show(icon) \n            end\n        end\n    end\n    \n    -- ############################# --\n    --       BURST BUTTON            --\n    -- ############################# --\n    if btn_BladestormBurst \n    and CanBeDamaged \n    and isTargetInMelee \n    and enablePremiumFeature \n    and Cycloned == 0 \n    then\n        \n        if TimeRemainingSlowed > 1 or not Unit(target):IsPlayer() then\n            -- Zerker stance to Recklessness if not on CD\n            if A.Recklessness:GetCooldown() == 0 then\n                if A.BerserkerStance:IsReadyByPassCastGCD(player) and inStance ~= 3 then\n                    return A.BerserkerStance:Show(icon)\n                end\n                if inStance == 3 then\n                    return A.Recklessness:Show(icon)\n                end\n            end\n        end\n        \n        -- Trinkets\n        local Item = UseItems(player)\n        if Item and (TimeRemainingSlowed > 1  or not Unit(target):IsPlayer()) then\n            return Item:Show(icon)\n        end\n        \n        -- Offensive racials\n        if A.Berserking:IsReady(player) then\n            return A.Berserking:Show(icon)\n        end\n        \n        if A.BloodFury:IsReady(player) then\n            return A.BloodFury:Show(icon)\n        end\n        \n        -- Rage dumps before going battle\n        if  myRage > 55 \n        and inStance == 3 \n        and A.MortalStrike:IsReady(player) then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        -- Battle stance\n        if A.BattleStance:IsReadyByPassCastGCD(player) \n        and inStance ~= 1 \n        and armsSpec\n        then\n            return A.BattleStance:Show(icon)\n        end     \n        \n        -- BattleShout for rage\n        if     A.BattleShout:IsReady(player) \n        and myRage < 20\n        then\n            return A.BattleShout:Show(icon)\n        end\n        \n        \n        -- MS\n        if A.MortalStrike:IsReady(player) \n        and (Player:GetSwing(4) \n            < (GetPing() + GetCurrentGCD() + 0.5)) \n        then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        -- Bladestorm\n        if      A.Bladestorm:IsReady(player) \n        and Unit(target):HasDeBuffs(A.MortalStrike.ID) > 6 \n        then\n            return A.Bladestorm:Show(icon)\n        end\n        \n        -- Normal rotation\n        if A.MortalStrike:GetCooldown() > 0 \n        and A.Bladestorm:GetCooldown() > 0 \n        then\n            A.ForceBurst(\"ExecuteProc\")\n        end\n    end\n    \n    -- Kill totems\n    if Unit(target):IsTotem() \n    and armsSpec then\n        \n        if A.HeroicThrow:IsReady(player) \n        and not Unit(target):InLOS() then\n            \n            for _,totemname in pairs(Temp.totemsToDestroy) do\n                if Unit(target):Name() == totemname\n                and Unit(target):Health() >= 10000\n                and not InMelee(target)\n                then\n                    return A.HeroicThrow:Show(icon)\n                end\n            end\n        end\n    end\n    \n    -- Target totems\n    if not Unit(target):IsTotem() and not targetLowHealth and A.HeroicThrow:GetCooldown() == 0 and Totemstomp and enablePremiumFeature then\n        if ActiveUnitPlates then  \n            for nameplate in pairs(ActiveUnitPlates) do             \n                if Unit(nameplate):InLOS() then\n                    for _,totemname in pairs(Temp.totemsToDestroy) do\n                        if Unit(nameplate):Name() == totemname then\n                            return Action:Show(icon, ACTION_CONST_AUTOTARGET)\n                        end\n                    end\n                end         \n            end \n        end\n    end\n    \n    --Heroic throw with charge in PVE\n    if A.HeroicThrow:IsReadyByPassCastGCD(player)\n    and Unit(player):GetSpellLastCast(A.Intercept.ID) < 1\n    and furySpec\n    and combatTime < 3\n    and CanBeDamaged\n    and not Unit(target):IsPlayer()\n    and not Unit(target):IsPet()\n    and Unit(target):IsBoss()\n    then\n        return A.HeroicThrow:Show(icon)\n    end\n    \n    local maybeWantToManualDef = A.DefensiveStance:IsSpellLastGCD() and (A.Intervene:GetCooldown() < 3 or A.ShieldBlock:GetCooldown() < 3 or A.ShieldWall:GetCooldown() < 3 and A.DisarmGetCooldown() < 3)\n    -- ############################# --\n    -- [❓] STANCES\n    -- ############################# --\n    if not furySpec and not protSpec and (inStance ~= 3 or (inStance == 3 and (A.Intercept:GetCooldown() > 3 or Unit(target):GetRange() < 8)) or A.Pummel:GetSpellTimeSinceLastCast() < 3) then\n        \n        if A.DefensiveStance:IsReadyByPassCastGCD(player) \n        and inStance ~= 2 \n        and Unit(player):HealthPercent() < DefensiveStancePvP \n        and not btn_BladestormBurst --and not isInRaidOrDungeon \n        then\n            return A.DefensiveStance:Show(icon)\n        end\n        \n        if A.BattleStance:IsReadyByPassCastGCD(player) \n        and inStance ~= 1  \n        and (Unit(player):HealthPercent() > BattleStancePvP \n            and not btn_BladestormBurst \n            and not ShouldDisarm(target) \n            and Unit(player):HasBuffs(A.ShieldWall.ID) == 0 \n            and not maybeWantToManualDef \n            and Unit(player):HasBuffs(A.ShieldBlock.ID) == 0 \n            and not A.Revenge:IsReady(player) \n            or A.Pummel:GetSpellTimeSinceLastCast() < 3) \n        then\n            return A.BattleStance:Show(icon)\n        end\n        \n    elseif A.BerserkerStance:IsReadyByPassCastGCD(player)\n    and furySpec\n    and inStance ~= 3\n    and inCombat\n    and A.BattleStance:GetSpellTimeSinceLastCast() > 1.6\n    and Unit(target):HasDeBuffs(A.Rend.ID, true) > 0\n    and Unit(player):HasBuffs(871) == 0\n    then\n        return A.BerserkerStance:Show(icon)\n    end\n    \n    if A.BerserkerStance:IsReadyByPassCastGCD(player)\n    and furySpec\n    and inStance ~= 3\n    and inCombat\n    and (A.Rend:GetSpellTimeSinceLastCast() < 1.6 or A.Overpower:GetSpellTimeSinceLastCast() < 1.6)\n    and Unit(target):HasDeBuffs(A.Rend.ID, true) > 0\n    then\n        return A.BerserkerStance:Show(icon)\n    end\n    \n    \n    if A.WillToSurvive:IsReadyByPassCastGCD(player) \n    and\n    (Unit(\"player\"):HasDeBuffs(59039) > 0 or Unit(\"player\"):HasDeBuffs(34716) > 0)\n    then\n        return A.WillToSurvive:Show(icon)\n    end\n    \n    -- Def Stance (Prot spec)\n    if inStance ~= 2 \n    and A.DefensiveStance:IsReadyByPassCastGCD(player) \n    and protSpec\n    then\n        return A.DefensiveStance:Show(icon)\n    end\n    \n    -- ############################# --\n    --       Out of combat           --\n    -- ############################# --\n    \n    -- Stopattack\n    if Unit(target):Name() == IceTomb \n    and Unit(target):HealthPercent() < 30\n    then\n        Action.SetToggle({1, \"AutoAttack\"}, false)\n        return A.MockingBlow:Show(icon)\n    else Action.SetToggle({1, \"AutoAttack\"}, true)\n    end\n    \n    -- [✔️] Shouts\n    if A.BattleShout:IsReady(player) \n    and GetToggle(2, \"BattleShout\") \n    and (Unit(player):HasBuffs(A.BattleShout.ID) < 5) \n    and Unit(player):HasBuffs(48932) == 0 \n    and Unit(player):HasBuffs(27141) == 0 \n    and Unit(player):HasBuffs(3680) == 0 \n    and Unit(target):HealthPercent() > 20\n    then\n        return A.BattleShout:Show(icon)\n    end\n    \n    if A.CommandingShout:IsReady(player) \n    and not GetToggle(2, \"BattleShout\") \n    and (Unit(player):HasBuffs(A.CommandingShout.ID) < 10) \n    -- or (Unit(player):HealthPercent() < EnragedRegenerationSlider)\n    then\n        return A.CommandingShout:Show(icon)\n    end\n    \n    -- BattleShout\n    if A.BattleShout:IsReady(player)\n    and BossMods:GetPullTimer() ~= 0\n    and BossMods:GetPullTimer() <= 10\n    and not protSpec\n    then\n        return A.BattleShout:Show(icon)\n    end\n    \n    -- Reck+Potion PrePull\n    if  canPrePull \n    and BossMods:GetPullTimer() ~= 0 \n    and BossMods:GetPullTimer() <= 3.1 \n    and (A.Recklessness:GetCooldown() == 0 or A.Recklessness:IsSpellLastGCD()) \n    then\n        \n        -- Berserker Stance\n        if  inStance ~= 3 \n        and A.BerserkerStance:IsReadyByPassCastGCD(player) \n        and A.Recklessness:GetCooldown() == 0\n        then\n            return A.BerserkerStance:Show(icon)\n        end\n        \n        \n        -- Recklessness\n        if  inStance == 3 \n        and A.Recklessness:IsReadyByPassCastGCD(player) \n        then\n            return A.Recklessness:Show(icon)\n        end\n        \n        \n        \n        -- BattleShout\n        if  A.BattleShout:IsReady(player)\n        and not protSpec\n        then\n            return A.BattleShout:Show(icon)\n        end\n        \n        \n        -- Battle Stance (Arms spec)\n        if inStance ~= 2 \n        and A.BattleStance:IsReadyByPassCastGCD(player) \n        and armsSpec\n        then\n            return A.BattleStance:Show(icon)\n        end\n        \n        -- DeathWish\n        if inStance == 3 \n        and A.DeathWish:IsReadyByPassCastGCD(player)\n        then\n            return A.DeathWish:Show(icon)\n        end\n        \n        --  Potion of Speed\n        if  Unit(player):HasBuffs(53908) == 0\n        and A.PotionofSpeed:IsReadyByPassCastGCD(player, true) \n        then\n            return A.PotionofSpeed:Show(icon)\n        end\n    end\n    \n    -- ############################# --\n    --          ST PvE ARMS          --\n    -- ############################# --\n    if CanBeDamaged and isTargetInMelee and not multipleTargets and not Unit(target):IsPlayer() and armsSpec and not Unit(target):IsPet() then\n        \n        -- MS\n        if A.MortalStrike:IsReady(player) \n        then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        -- HS > 70 rage\n        if A.HeroicStrike:IsReady(player) \n        and myRage > DumpRageValuePvE \n        and not A.HeroicStrike:IsSpellCurrent() \n        and (Unit(target):HasDeBuffs(86346) >= 1 or myRage == 100)\n        then\n            return A.HeroicStrike:Show(icon)\n        end\n        \n        -- Sunder Armor\n        -- Reapply sunder if sunders are enabled and they will expire in 2 seconds\n        if A.SunderArmor:IsReady(player)\n        and GetToggle(2, \"SunderCount\")\n        and GetToggle(2, \"SunderCount\") > 0 \n        and Unit(\"target\"):HasDeBuffs(7386) < 3\n        and not CantSunder \n        and Unit(\"target\"):IsBoss() \n        and not HasAttachedGlyph(89003) -- ColossusSmash applies sunder\n        then\n            return A.SunderArmor:Show(icon)\n        end\n        \n        -- Rend\n        if A.Rend:IsReady(player) and Unit(\"target\"):HasDeBuffs(A.Rend.ID, true) < GetGCD() then\n            return A.Rend:Show(icon) \n        end\n        \n        --ColossusSmash\n        if A.ColossusSmash:IsReady(player) and Unit(target):HasDeBuffs(86346) <= GetGCD() then\n            return A.WarStomp:Show(icon)\n        end\n        \n        -- Execute\n        if A.Execute:IsReady(player) then\n            return A.Execute:Show(icon) \n        end\n        \n        -- Overpower\n        if A.Overpower:IsReady(player) then\n            return A.Overpower:Show(icon) \n        end\n        \n        -- MS\n        if A.MortalStrike:IsReady(player) then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        -- Sunder (can be modified in UI)\n        if A.SunderArmor:IsReady(player) and GetToggle(2, \"SunderCount\") and Unit(\"target\"):HasDeBuffsStacks(11597) < GetToggle(2, \"SunderCount\") and not CantSunder and Unit(\"target\"):IsBoss() then\n            return A.SunderArmor:Show(icon)\n        end\n        \n        -- -- Bladestorm\n        -- if AoEenabled and BurstIsON(target) and A.Bladestorm:IsReady(player) then\n        --     return A.Bladestorm:Show(icon)\n        -- end\n        \n        if A.ThunderClap:IsReady(player) then\n            return A.ThunderClap:Show(icon)\n        end\n        \n        -- -- Revenge\n        -- if A.Revenge:IsReady(player) and myRage >= 5 then\n        --     return A.ConcussionBlow:Show(icon) \n        -- end \n        \n        -- [✔️] Victory rush\n        if A.VictoryRush:IsReady(player) then\n            return A.VictoryRush:Show(icon)\n        end\n        \n        -- Slam (improved & standing still)\n        if A.Slam:IsReady(player) and improvedSlamRank == 2 and notMoving and myRage > 15  then\n            return A.Slam:Show(icon)\n        end\n        \n        -- BShout\n        if A.BattleShout:IsReady(player) and myRage < 60 then\n            return A.BattleShout:Show(icon)\n        end\n    end\n    \n    -- ############################# --\n    --          AoE PvE ARMS         --\n    -- ############################# --\n    if      CanBeDamaged\n    and isTargetInMelee\n    and multipleTargets\n    and armsSpec\n    and not Unit(target):IsPlayer() \n    and not Unit(target):IsPet() \n    then\n        \n        -- Cleave > 70 rage\n        if AoEenabled \n        and A.Cleave:IsReady(player) \n        and (myRage > 45 or \n            (myRage > 30 and A.Bladestorm:GetCooldown() > 2))\n        then\n            return A.Cleave:Show(icon)\n        end \n        \n        -- BR\n        if A.BattleShout:IsReady(player) and myRage < 60 then\n            return A.BattleShout:Show(icon)\n        end\n        \n        -- Bladestorm\n        if A.Bladestorm:IsReady(player)\n        and AoEenabled\n        and BurstIsON(target)\n        then\n            return A.Bladestorm:Show(icon)\n        end\n        \n        -- Revenge\n        if A.Revenge:IsReady(player) \n        and inStance == 2\n        then\n            return A.Revenge:Show(icon) \n        end \n        \n        -- SS\n        if AoEenabled and A.SweepingStrikes:IsReady(player) then\n            return A.SweepingStrikes:Show(icon) \n        end\n        \n        -- TC\n        if AoEenabled and A.ThunderClap:IsReady(player) then\n            return A.ThunderClap:Show(icon) \n        end\n        \n        --ColossusSmash\n        if A.ColossusSmash:IsReady(player) and Unit(target):HasDeBuffs(86346) <= GetGCD() then\n            return A.WarStomp:Show(icon)\n        end\n        \n        -- Overpower\n        if A.Overpower:IsReady(player) then\n            return A.Overpower:Show(icon) \n        end\n        \n        -- BS\n        if BurstIsON(target) and AoEenabled and A.Bladestorm:IsReady(player)  then\n            return A.Bladestorm:Show(icon)\n        end\n        \n        -- Cleave as dump (TODO: check glyph of cleaving) \n        if AoEenabled and A.Cleave:IsReady(player) and not NextAutoIsSpecial then\n            return A.Cleave:Show(icon)\n        end\n        \n        -- Rend\n        if A.Rend:IsReady(player) and Unit(\"target\"):HasDeBuffs(A.Rend.ID, true) < GetGCD() then\n            return A.Rend:Show(icon) \n        end\n        \n        -- Execute\n        if A.Execute:IsReady(player) then\n            return A.Execute:Show(icon) \n        end\n        \n        -- Slam (improved & standing still)\n        if A.Slam:IsReady(player) and improvedSlamRank == 2 and notMoving and myRage > 15 then\n            return A.Slam:Show(icon)\n        end\n        \n        -- MS\n        if A.MortalStrike:IsReady(player) then\n            return A.MortalStrike:Show(icon)\n        end\n    end\n    --hui\n    \n    -- ############################# --\n    --          ST PvE PROT          --\n    -- ############################# --\n    if CanBeDamaged\n    and isTargetInMelee\n    and protSpec\n    and (activeEnemies == 1 or not multipleTargets or not AoEenabled)\n    then\n        --print(\"solo\")\n        -- HS \n        if A.HeroicStrike:IsReady(player)\n        and myRage > DumpRageValuePvE\n        then\n            return A.HeroicStrike:Show(icon)\n        end\n        \n        --VictoryRush\n        if A.VictoryRush:IsReady(player)\n        and Unit(player):HasBuffs(32216) > GetGCD()\n        and Unit(player):HealthPercent() < 80\n        then\n            return A.VictoryRush:Show(icon)\n        end\n        \n        if CanInterrupt(target)\n        and Unit(target):IsCastingRemains() > 0\n        and Unit(target):IsPlayer()\n        and Unit(target):HealthPercent() < 40\n        and Unit(target):HasBuffs(Temp.KickImun) == 0\n        or (\n            Unit(target):IsCastingRemains(697) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Voidwalker\n            or Unit(target):IsCastingRemains(691) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Felhunter\n            or Unit(target):IsCastingRemains(713) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Incubus\n            or Unit(target):IsCastingRemains(712) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Succubus\n            or Unit(target):IsCastingRemains(688) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Imp\n        ) \n        then \n            return A.Pummel:Show(icon)\n        end\n        \n        -- BR\n        if  A.BattleShout:IsReady(player) and myRage < 50\n        and not Player:HasTier(\"Tier10\", 4)\n        then\n            return A.BattleShout:Show(icon)\n        end\n        \n        -- -- Shockwave\n        -- if  A.Shockwave:IsReady(player) \n        --     and not Unit(target):IsPlayer()\n        --     and Unit(target):IsCasting(66134)\n        --     and AoEenabled\n        --  then\n        --     return A.Shockwave:Show(icon)\n        -- end\n        \n        -- Enrage regen prio\n        if  A.EnragedRegeneration:IsReady(player) and myRage >= 15\n        and Unit(player):HasBuffs(47437) > 0 -- LastStand\n        and (\n            Unit(player):HasBuffs(57516) > 0 -- Enraged\n            or Unit(player):HasBuffs(18499) > 0 -- BerserkerRage\n        ) \n        then\n            return A.EnragedRegeneration:Show(icon)\n        end\n        \n        -- SS PvE\n        if A.ShieldSlam:IsReady(player)\n        then\n            return A.ShieldSlam:Show(icon)\n        end\n        \n        -- Rend\n        if A.Rend:IsReady(player)\n        and Unit(\"target\"):HasDeBuffs(A.Rend.ID, true) == 0\n        then\n            return A.Rend:Show(icon)\n        end\n        \n        -- Thunderclap\n        if A.ThunderClap:IsReady(player)\n        and Unit(\"target\"):HasDeBuffs(A.Rend.ID, true) <= 5 \n        and (Unit(\"target\"):HasDeBuffs(6343) <= 5    -- Clap (War)\n            or Unit(\"target\"):HasDeBuffs(53696) <= 5 -- Judgements of the Just (pala)\n            or Unit(\"target\"):HasDeBuffs(48484) <= 5 -- Infected Wounds (bear)\n            or Unit(\"target\"):HasDeBuffs(8042) <= 5) -- Earth shock (Sham)\n        then\n            return A.ThunderClap:Show(icon)\n        end\n        \n        -- Revenge\n        if  A.Revenge:IsReady(player) \n        then\n            return A.Revenge:Show(icon)\n        end\n        \n        \n        \n        -- Devastate - for 3 stacks of sunder\n        if A.Devastate:IsReady(player) \n        and Unit(target):HasDeBuffsStacks(7386) < 3\n        --and Unit(target):IsBoss()\n        then\n            return A.Devastate:Show(icon)\n        end\n        \n        -- -- Shockwave\n        -- if  A.Shockwave:IsReady(player)  \n        --     and not Unit(target):IsPet()\n        --     then\n        --         return A.Shockwave:Show(icon)\n        -- end\n        \n        -- Demoralizing Shout\n        if  A.DemoralizingShout:IsReady(player)\n        and Unit(target):HasDeBuffs(81130)==0 -- Scarlet fver (DK)\n        and Unit(target):HasDeBuffs(1160)==0  -- Demo (war)\n        and Unit(target):HasDeBuffs(702)==0   -- Curse of weakness (lock)\n        and Unit(target):HasDeBuffs(99)==0    -- Demo (druid)\n        and Unit(target):HasDeBuffs(26017)==0 -- Vindication (pala)\n        and Unit(target):HealthMax() > 110000\n        then\n            return A.DemoralizingShout:Show(icon)\n        end\n        \n        -- Devastate\n        if  A.Devastate:IsReady(player) then\n            return A.Devastate:Show(icon)\n        end\n    end\n    \n    -- ############################# --\n    --          AoE PvE PROT         --\n    -- ############################# --\n    if CanBeDamaged\n    and isTargetInMelee\n    and protSpec\n    and not Unit(target):IsPet()\n    and (activeEnemies >= 2 or multipleTargets)\n    and AoEenabled\n    then\n        \n        -- Cleave\n        if A.Cleave:IsReady(player) \n        and myRage > DumpRageValuePvE\n        then\n            return A.Cleave:Show(icon)\n        end\n        \n        if A.VictoryRush:IsReady(player)\n        and Unit(player):HasBuffs(32216) > GetGCD()\n        and Unit(player):HealthPercent() < 80\n        then\n            return A.VictoryRush:Show(icon)\n        end\n        \n        -- Rend\n        if A.Rend:IsReady(player)\n        and Unit(\"target\"):HasDeBuffs(A.Rend.ID, true) == 0\n        then\n            return A.Rend:Show(icon)\n        end\n        \n        -- Thunderclap\n        if A.ThunderClap:IsReady(player)\n        then\n            return A.ThunderClap:Show(icon)\n        end\n        \n        -- Revenge\n        if A.Revenge:IsReady(player) \n        then\n            return A.Revenge:Show(icon)\n        end\n        \n        -- -- Shockwave\n        -- if A.Shockwave:IsReady(player) \n        --     then\n        --         return A.Shockwave:Show(icon)\n        -- end\n        \n        -- SS\n        if A.ShieldSlam:IsReady(player) \n        then\n            return A.ShieldSlam:Show(icon)\n        end\n        \n        -- Demoralizing Shout\n        if A.DemoralizingShout:IsReady(player)\n        and Unit(target):HasDeBuffs(47437)==0 -- Demo war\n        and Unit(target):HasDeBuffs(1160)==0 -- Demo war\n        and Unit(target):HasDeBuffs(26017)==0 -- Vindication pala Rank 2\n        and Unit(target):HasDeBuffs(26016)==0 -- Vindication pala Rank 1\n        and Unit(target):HasDeBuffs(48560)==0 -- Demo druid    \n        then\n            return A.DemoralizingShout:Show(icon)\n        end\n        \n        \n        \n        -- Devastate\n        if A.Devastate:IsReady(player) \n        then\n            return A.Devastate:Show(icon)\n        end\n    end\n    \n    -- ############################# --\n    --          PvP Base             --\n    -- ############################# --\n    \n    if   armsSpec\n    and CanBeDamaged \n    and Cycloned == 0 \n    and isTargetInMelee \n    and not btn_BladestormBurst \n    and IsUnitEnemy(target) \n    and (Unit(target):IsPlayer() or Unit(target):IsPet()) then\n        \n        \n        -- Save rage for MS\n        local saveForMS = myRage < 20 and A.MortalStrike:GetCooldown() < 3\n        \n        if A.InnerRage:IsReadyByPassCastGCD()\n        and myRage >= 90\n        then return A.InnerRage:Show(icon)\n        end\n        \n        \n        -- Hamstring mages and mounted\n        if      A.Hamstring:IsReady(player)\n        and Unit(target):Class() == \"MAGE\"\n        and Unit(target):HasDeBuffs(1715) <= 3\n        and not Unit(target):IsTotem()\n        then\n            return A.Hamstring:Show(icon)\n        end\n        \n        -- [✔️] Victory rush\n        if A.VictoryRush:IsReady(player) \n        and not saveForMS \n        and Unit(player):HealthPercent() < 70\n        then\n            return A.VictoryRush:Show(icon)\n        end\n        \n        -- [✔️] Overpower spam when evasion is up\n        if A.Overpower:IsReady(player) \n        and (Unit(target):HasBuffs(5277) > 0)\n        then\n            return A.Overpower:Show(icon)\n        end\n        \n        -- [✔️] Pummel when low health or trying to resum pet\n        if CanInterrupt(unitID)\n        and Unit(target):IsCastingRemains() > 0\n        and Unit(target):IsPlayer()\n        and Unit(target):HealthPercent() < 40\n        and Unit(target):HasBuffs(Temp.KickImun) == 0\n        \n        or (\n            Unit(target):IsCastingRemains(697) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Voidwalker\n            or Unit(target):IsCastingRemains(691) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Felhunter\n            or Unit(target):IsCastingRemains(713) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Incubus\n            or Unit(target):IsCastingRemains(712) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Succubus\n            or Unit(target):IsCastingRemains(688) > 0 and Unit(target):HasBuffs(31821) == 0 and Unit(target):HasBuffs(19746) == 0 -- Imp\n        ) \n        then \n            return A.Pummel:Show(icon)\n        end\n        \n        -- [✔️] Prio rend rogues\n        if  not targetLowHealth\n        and A.Rend:IsReady(player) \n        and Unit(target):HasDeBuffs(A.Rend.ID) == 0 \n        and Unit(target):Class() == \"ROGUE\" \n        and not Unit(target):IsTotem()\n        then\n            return A.Rend:Show(icon)\n        end\n        \n        -- [✔️] HS > DumpRageValue\n        if A.HeroicStrike:IsReady(player) \n        and (myRage > DumpRageValuePvP or Unit(player):HasBuffs(85730) > 0)\n        and (not saveForMS or Unit(player):HasBuffs(85730) > 2)\n        and (Unit(target):HasDeBuffs(86346) >= 1 or myRage == 100)\n        then\n            return A.HeroicStrike:Show(icon)\n        end\n        \n        -- [✔️] MS when 3 stax of Slaughter\n        if A.MortalStrike:IsReady(player)\n        and Unit(player):HasDeBuffsStacks(84586) == 3\n        then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        --ColossusSmash\n        if      A.ColossusSmash:IsReady(player) \n        and Unit(target):HasDeBuffs(86346) <= GetGCD() -- ColossusSmash debuff\n        and A.MortalStrike:IsReady(player)\n        and not Unit(target):IsTotem()\n        then\n            return A.WarStomp:Show(icon)\n        end\n        \n        -- [✔️] Keep MS alive\n        if Unit(target):HasDeBuffs(A.MortalStrike.ID) <= 3 \n        and not Unit(target):HasDeBuffs(A.MortalStrike.ID) == 0\n        and A.MortalStrike:IsReady(player)\n        then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        --ColossusSmash\n        if      A.ColossusSmash:IsReady(player) \n        and Unit(target):HasDeBuffs(86346) <= GetGCD() -- ColossusSmash debuff\n        and not Unit(target):IsTotem()\n        then\n            return A.WarStomp:Show(icon)\n        end\n        \n        \n        -- [✔️] Prevent loss of overpower proc\n        if A.Overpower:IsReady(player) \n        --and TasteForBloodRemaining < 5 \n        then\n            return A.Overpower:Show(icon) \n        end\n        \n        -- TODO; Check if we need to spend overpower from dodges asap (TFB will not be up) or maybe thats covered by above? What does following return when nothing?\n        --Print(\"TasteForBloodRemaining < 5 DOES THIS MEAN TRUE IF NOTHING?\", TasteForBloodRemaining < 5)\n        \n        -- -- [✔️] Overpower on cast or if they are full health to create pressure\n        -- if A.Overpower:IsReady(player) and (Unit(target):IsCasting() or Unit(target):HealthPercent() > 80) then\n        --     return A.Overpower:Show(icon) \n        -- end\n        \n        -- [✔️] Revenge\n        if A.Revenge:IsReady(player) \n        and inStance == 2\n        then\n            return A.Revenge:Show(icon)\n        end \n        \n        -- -- [✔️] Revenge\n        -- if IsRevengeUP(player) then\n        --     return A.ConcussionBlow:Show(icon) \n        -- end\n        \n        -- [✔️] Sweeping (off GCD)\n        if  AoEenabled\n        and A.SweepingStrikes:IsReadyByPassCastGCD(player) \n        and myRage > 70\n        and (activeEnemies >= 2 or multipleTargets)\n        and HasAttachedGlyph(58384) -- SweepingStrikes Glyph\n        then\n            return A.SweepingStrikes:Show(icon) \n        end\n        \n        -- [✔️] Keep sunders alive when you have more than 2\n        if A.SunderArmor:IsReady(player)\n        and SunderPvp\n        and not targetLowHealth\n        and Unit(target):HasDeBuffsStacks(7386) > 2\n        and not CantSunder\n        and not saveForMS\n        and not Unit(target):IsTotem()\n        then\n            return A.SunderArmor:Show(icon)\n        end\n        \n        -- [✔️] Keep Rend alive\n        if  not targetLowHealth\n        and A.Rend:IsReady(player)\n        and Unit(target):HasDeBuffs(A.Rend.ID) <= GetGCD() \n        and not Unit(target):IsTotem()\n        then\n            \n            return A.Rend:Show(icon)\n        end\n        \n        -- [✔️] Overpower\n        if A.Overpower:IsReady(player) and not isCasterClass(target) then\n            return A.Overpower:Show(icon) \n        end\n        \n        -- [✔️] MS\n        if A.MortalStrike:IsReady(player) then\n            return A.MortalStrike:Show(icon)\n        end\n        \n        \n        -- [✔️] Execute\n        if A.Execute:IsReady(player) and not saveForMS then\n            return A.Execute:Show(icon) \n        end\n        \n        --ColossusSmash\n        if      A.ColossusSmash:IsReady(player) \n        and Unit(target):HasDeBuffs(86346) <= GetGCD() -- ColossusSmash debuff\n        and not Unit(target):IsTotem()\n        then\n            return A.WarStomp:Show(icon)\n        end\n        \n        -- [✔️] Victory rush\n        if A.VictoryRush:IsReady(player) and not saveForMS then\n            return A.VictoryRush:Show(icon)\n        end\n        \n        -- Demo shout if melee && not almost killing\n        if not targetLowHealth\n        and A.DemoralizingShout:IsReady(player) \n        and isMeleeClass(target) \n        and Unit(target):HasDeBuffs(A.DemoralizingShout.ID) < GetGCD() \n        and not saveForMS \n        then\n            return A.DemoralizingShout:Show(icon) \n        end\n        \n        -- [✔️] TC if not save for ms \n        if AoEenabled \n        and A.ThunderClap:IsReady(player)\n        and not saveForMS \n        and not Unit(target):IsTotem()\n        then\n            return A.ThunderClap:Show(icon)\n        end\n        \n        \n        -- [✔️] Sunder\n        if A.SunderArmor:IsReady(player) \n        and SunderPvp \n        and not targetLowHealth \n        and myRage > 50 \n        and Unit(target):HasDeBuffsStacks(7386) < 3 \n        and not CantSunder \n        and not saveForMS \n        and not clothWearer\n        and not Unit(target):IsTotem() then\n            return A.SunderArmor:Show(icon)\n        end\n        \n        \n        \n        \n    end\nend\n\n-- [5] Trinket Rotation \nA[5] = function(icon)\n    \n    -- BerserkerRage \n    -- Note: Loss of Control \n    --if GetStance() == 3 and LoC:IsValid(Temp.BerserkerRageLoC) and A.BerserkerRage:IsReadyP(\"player\") then \n    --return A.BerserkerRage:Show(icon)\n    --end \nend \n\n-- Pasive Rotation \nlocal function ArenaRotation(icon, unitID) \n    if A.IsInPvP and (A.Zone == \"pvp\" or A.Zone == \"arena\") then\n        \n        local useKickPvP, useCCPvP, useRacialPvP, notInterruptablePvP, castRemainsTimePvP = A.InterruptIsValid(unitID, \"PvPInterrupts\", nil, nil)\n        \n        -- Pummel based on interrupts list\n        if useKickPvP \n        and CanInterrupt(unitID) \n        and not notInterruptablePvP \n        and (castRemainsTimePvP > GetLatency()) \n        then\n            return A.Pummel:Show(icon)\n        end\n        \n        -- Disarm\n        if ShouldDisarm(unitID) then\n            return A.ChallengingShout:Show(icon)\n        end\n        \n        -- Rend\n        if not Action.IsQueueRunning() \n        and ShouldRend(unitID) \n        then\n            Print(\"Trying to multirend\")\n            return A.Rend:Show(icon)\n        end\n        \n    end\nend \n\nA[6] = function(icon)\n    if ArenaRotation(icon, \"arena1\") then \n        return true \n    end \nend \n\nA[7] = function(icon)\n    if ArenaRotation(icon, \"arena2\") then \n        return true \n    end \nend \n\nA[8] = function(icon)\n    if ArenaRotation(icon, \"arena3\") then \n        return true \n    end \n    \n    \n    if IsUnitEnemy(\"focus\") then \n        local castLeft, _, _, _, notKickAble = Unit(\"focus\"):IsCastingRemains()\n        --Print(castLeft)\n        \n        if castLeft > 0 then    \n            if A.Pummel:GetCooldown() == 0 and Unit(\"player\"):Power() >= 10 then   \n                return A.AntiFakeInterrupt1:Show(icon)                                      \n            end\n        end       \n    end      \nend \n\nA[9] = function(icon)\n    if ArenaRotation(icon, \"arena4\") then \n        return true \n    end \nend \n\nA[10] = function(icon)\n    if ArenaRotation(icon, \"arena5\") then \n        return true \n    end \nend \n\n-- Nil (nothing for profile here, just wipe to nil)\nA[4] = nil \n\n-------------------------------------------\n-- UI: QUEUE BASE\n-------------------------------------------\nlocal GameLocale = GetLocale()    \nlocal Localization = {\n    [GameLocale] = {},\n    enUS          = {\n        QERROR1 = \"Already queued: \",\n        QERROR2 = \"Not available: \",\n        SHIELD_ERROR = \"No shields found on the character!\",\n        POWER_ERROR = \"You don't have enough rage: \",\n        TACTICAL_ERROR = \"You lack talent\" .. A.TacticalMastery:Info() .. \" points: \",\n        DISARMED = \"You're disarmed!\",\n    },\n    ruRU         = {\n        QERROR1 = \"Уже находится в очереди: \",\n        QERROR2 = \"Недоступно: \",\n        SHIELD_ERROR = \"Щиты не найдены у персонажа!\",\n        POWER_ERROR = \"Вам не хватает ярости: \",\n        TACTICAL_ERROR = \"Вам не хватает в таланте \" .. A.TacticalMastery:Info() .. \" очков: \",\n        DISARMED = \"Вы обезоружены!\",\n    },\n}\nlocal L = setmetatable(Localization[GameLocale], { __index = Localization.enUS })",
 				}, -- [1]
 				{
 					["Name"] = "Profile UI",
@@ -5907,21 +5904,24 @@ TellMeWhenDB = {
 				}, -- [2]
 				["n"] = 2,
 			},
+			["TextureName"] = "Flat",
 			["Groups"] = {
 				{
+					["GUID"] = "TMW:group:1Rhh0xLqd4g8",
 					["TimerBar_MiddleColor"] = "ff000000",
 					["Scale"] = 0.600000023841858,
 					["TimerBar_CompleteColor"] = "ff000000",
+					["Name"] = "Shown Main",
 					["TimerBar_StartColor"] = "ff000000",
 					["Locked"] = true,
 					["Columns"] = 8,
 					["Icons"] = {
 						{
+							["Enabled"] = true,
 							["Type"] = "meta",
 							["Icons"] = {
 								"TMW:icon:1T0KeNg=IDQd", -- [1]
 							},
-							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -5933,11 +5933,11 @@ TellMeWhenDB = {
 							},
 						}, -- [1]
 						{
+							["Enabled"] = true,
 							["Type"] = "meta",
 							["Icons"] = {
 								"TMW:icon:1T0KeNh2uwMT", -- [1]
 							},
-							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -5949,12 +5949,12 @@ TellMeWhenDB = {
 							},
 						}, -- [2]
 						{
+							["Enabled"] = true,
 							["Type"] = "meta",
+							["GUID"] = "TMW:icon:1T0MjrGnynSL",
 							["Icons"] = {
 								"TMW:icon:1T0Kg0ZzHksM", -- [1]
 							},
-							["Enabled"] = true,
-							["GUID"] = "TMW:icon:1T0MjrGnynSL",
 							["States"] = {
 								{
 								}, -- [1]
@@ -5966,12 +5966,12 @@ TellMeWhenDB = {
 							},
 						}, -- [3]
 						{
+							["Enabled"] = true,
 							["Type"] = "meta",
+							["GUID"] = "TMW:icon:1T0NdouSxYDb",
 							["Icons"] = {
 								"TMW:icon:1T0Kg0a1tFci", -- [1]
 							},
-							["Enabled"] = true,
-							["GUID"] = "TMW:icon:1T0NdouSxYDb",
 							["States"] = {
 								{
 								}, -- [1]
@@ -5983,11 +5983,11 @@ TellMeWhenDB = {
 							},
 						}, -- [4]
 						{
+							["Enabled"] = true,
 							["Type"] = "meta",
 							["Icons"] = {
 								"TMW:icon:1T0Kg0a6eYf9", -- [1]
 							},
-							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -5999,11 +5999,11 @@ TellMeWhenDB = {
 							},
 						}, -- [5]
 						{
+							["Enabled"] = true,
 							["Type"] = "meta",
 							["Icons"] = {
 								"TMW:icon:1T0Kg0aBPYen", -- [1]
 							},
-							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -6015,11 +6015,11 @@ TellMeWhenDB = {
 							},
 						}, -- [6]
 						{
+							["Enabled"] = true,
 							["Type"] = "meta",
 							["Icons"] = {
 								"TMW:icon:1T0Kg0aG1oeM", -- [1]
 							},
-							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -6031,11 +6031,11 @@ TellMeWhenDB = {
 							},
 						}, -- [7]
 						{
+							["Enabled"] = true,
 							["Type"] = "meta",
 							["Icons"] = {
 								"TMW:icon:1T0Kg0aKbPUI", -- [1]
 							},
-							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -7391,8 +7391,6 @@ TellMeWhenDB = {
 							},
 						}, -- [120]
 					},
-					["Name"] = "Shown Main",
-					["GUID"] = "TMW:group:1Rhh0xLqd4g8",
 					["Point"] = {
 						["y"] = 12,
 						["x"] = -29,
@@ -7401,31 +7399,34 @@ TellMeWhenDB = {
 					},
 				}, -- [1]
 				{
+					["GUID"] = "TMW:group:1T0KXe2TsCkW",
 					["TimerBar_MiddleColor"] = "ff000000",
 					["Scale"] = 0.600000023841858,
 					["TimerBar_CompleteColor"] = "ff000000",
+					["Name"] = "Hidden APL",
 					["TimerBar_StartColor"] = "ff000000",
 					["Locked"] = true,
 					["Columns"] = 8,
 					["Icons"] = {
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
+							["Type"] = "conditionicon",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["FakeHidden"] = true,
 							["Conditions"] = {
 								{
-									["Type"] = "LUA",
 									["Name"] = "Rotation(thisobj)",
+									["Type"] = "LUA",
 								}, -- [1]
 								["n"] = 1,
 							},
 							["GUID"] = "TMW:icon:1T0KeNg=IDQd",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -7435,26 +7436,26 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [1]
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
+							["Type"] = "conditionicon",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["FakeHidden"] = true,
 							["Conditions"] = {
 								{
-									["Type"] = "LUA",
 									["Name"] = "Rotation(thisobj)",
+									["Type"] = "LUA",
 								}, -- [1]
 								["n"] = 1,
 							},
 							["GUID"] = "TMW:icon:1T0KeNh2uwMT",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -7464,26 +7465,26 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [2]
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
+							["Type"] = "conditionicon",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["FakeHidden"] = true,
 							["Conditions"] = {
 								{
-									["Type"] = "LUA",
 									["Name"] = "Rotation(thisobj)",
+									["Type"] = "LUA",
 								}, -- [1]
 								["n"] = 1,
 							},
 							["GUID"] = "TMW:icon:1T0Kg0ZzHksM",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -7493,26 +7494,26 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [3]
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
+							["Type"] = "conditionicon",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["FakeHidden"] = true,
 							["Conditions"] = {
 								{
-									["Type"] = "LUA",
 									["Name"] = "Rotation(thisobj)",
+									["Type"] = "LUA",
 								}, -- [1]
 								["n"] = 1,
 							},
 							["GUID"] = "TMW:icon:1T0Kg0a1tFci",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -7522,26 +7523,26 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [4]
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
+							["Type"] = "conditionicon",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["FakeHidden"] = true,
 							["Conditions"] = {
 								{
-									["Type"] = "LUA",
 									["Name"] = "Rotation(thisobj)",
+									["Type"] = "LUA",
 								}, -- [1]
 								["n"] = 1,
 							},
 							["GUID"] = "TMW:icon:1T0Kg0a6eYf9",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -7551,26 +7552,26 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [5]
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
+							["Type"] = "conditionicon",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["FakeHidden"] = true,
 							["Conditions"] = {
 								{
-									["Type"] = "LUA",
 									["Name"] = "Rotation(thisobj)",
+									["Type"] = "LUA",
 								}, -- [1]
 								["n"] = 1,
 							},
 							["GUID"] = "TMW:icon:1T0Kg0aBPYen",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -7580,26 +7581,26 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [6]
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
+							["Type"] = "conditionicon",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["FakeHidden"] = true,
 							["Conditions"] = {
 								{
-									["Type"] = "LUA",
 									["Name"] = "Rotation(thisobj)",
+									["Type"] = "LUA",
 								}, -- [1]
 								["n"] = 1,
 							},
 							["GUID"] = "TMW:icon:1T0Kg0aG1oeM",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -7609,26 +7610,26 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [7]
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
+							["Type"] = "conditionicon",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["FakeHidden"] = true,
 							["Conditions"] = {
 								{
-									["Type"] = "LUA",
 									["Name"] = "Rotation(thisobj)",
+									["Type"] = "LUA",
 								}, -- [1]
 								["n"] = 1,
 							},
 							["GUID"] = "TMW:icon:1T0Kg0aKbPUI",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -7638,7 +7639,6 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [8]
 						{
 							["ShowTimerText"] = true,
@@ -8985,8 +8985,6 @@ TellMeWhenDB = {
 							},
 						}, -- [120]
 					},
-					["Name"] = "Hidden APL",
-					["GUID"] = "TMW:group:1T0KXe2TsCkW",
 					["Point"] = {
 						["y"] = 50,
 						["x"] = -29.0000038146973,
@@ -8995,30 +8993,41 @@ TellMeWhenDB = {
 					},
 				}, -- [2]
 				{
-					["Point"] = {
-						["relativeTo"] = "TMW:group:1TMvhh5X05mC",
-						["x"] = -0.0001220703125,
+					["GUID"] = "TMW:group:1P3cu8AAtSYM",
+					["Columns"] = 1,
+					["Name"] = "Visible APL",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["BorderInset"] = true,
+							["BorderIcon"] = 1.5,
+						},
 					},
 					["Locked"] = true,
-					["Columns"] = 1,
+					["Conditions"] = {
+						{
+							["Name"] = "return not GetToggle(1, \"DisableRotationDisplay\")",
+							["Type"] = "LUA",
+						}, -- [1]
+						["n"] = 1,
+					},
 					["Icons"] = {
 						{
+							["Enabled"] = true,
 							["Type"] = "meta",
+							["Events"] = {
+								{
+									["OnlyShown"] = true,
+									["Type"] = "Lua",
+									["Lua"] = "Action.ToggleMainUI()",
+									["Event"] = "OnRightClick",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1T0MjsTsMtq6",
 							["Icons"] = {
 								"TMW:icon:1ThI9XCjZDaF", -- [1]
 								"TMW:icon:1T0MjrGnynSL", -- [2]
 								"TMW:icon:1ThI9XCnmSqm", -- [3]
-							},
-							["Enabled"] = true,
-							["GUID"] = "TMW:icon:1T0MjsTsMtq6",
-							["Events"] = {
-								{
-									["Type"] = "Lua",
-									["Lua"] = "Action.ToggleMainUI()",
-									["OnlyShown"] = true,
-									["Event"] = "OnRightClick",
-								}, -- [1]
-								["n"] = 1,
 							},
 							["States"] = {
 								{
@@ -9031,41 +9040,38 @@ TellMeWhenDB = {
 							},
 						}, -- [1]
 					},
-					["Name"] = "Visible APL",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["BorderInset"] = true,
-							["BorderIcon"] = 1.5,
-						},
+					["Point"] = {
+						["relativeTo"] = "TMW:group:1TMvhh5X05mC",
+						["x"] = -0.0001220703125,
 					},
-					["Conditions"] = {
-						{
-							["Type"] = "LUA",
-							["Name"] = "return not GetToggle(1, \"DisableRotationDisplay\")",
-						}, -- [1]
-						["n"] = 1,
-					},
-					["GUID"] = "TMW:group:1P3cu8AAtSYM",
 				}, -- [3]
 				{
 					["GUID"] = "TMW:group:1TMvhh5X05mC",
-					["Level"] = 11,
 					["Columns"] = 1,
+					["Name"] = "Visible APL Layout",
+					["Level"] = 11,
+					["Conditions"] = {
+						{
+							["Name"] = "return not GetToggle(1, \"DisableRotationDisplay\") and not GetToggle(1, \"DisableRotationModes\")",
+							["Type"] = "LUA",
+						}, -- [1]
+						["n"] = 1,
+					},
 					["Icons"] = {
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
+							["Type"] = "conditionicon",
 							["Events"] = {
 								{
+									["OnlyShown"] = true,
 									["Type"] = "Lua",
 									["Lua"] = "if IsShiftKeyDown() then\n    Action.ToggleBurst()\nelseif IsControlKeyDown() then\n    Action.ToggleMode()\nelseif IsAltKeyDown() then\n    Action.ToggleAoE()\nelse\n    Action.PrintHelpToggle()\nend",
-									["OnlyShown"] = true,
 									["Event"] = "OnLeftClick",
 								}, -- [1]
 								{
+									["OnlyShown"] = true,
 									["Type"] = "Lua",
 									["Lua"] = "Action.ToggleMainUI()",
-									["OnlyShown"] = true,
 									["Event"] = "OnRightClick",
 								}, -- [2]
 								["n"] = 2,
@@ -9091,14 +9097,6 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						}, -- [1]
-					},
-					["Name"] = "Visible APL Layout",
-					["Conditions"] = {
-						{
-							["Type"] = "LUA",
-							["Name"] = "return not GetToggle(1, \"DisableRotationDisplay\") and not GetToggle(1, \"DisableRotationModes\")",
-						}, -- [1]
-						["n"] = 1,
 					},
 					["Point"] = {
 						["y"] = 80.58238983154297,
@@ -9108,28 +9106,31 @@ TellMeWhenDB = {
 					},
 				}, -- [4]
 				{
+					["GUID"] = "TMW:group:1TbIsE4I9qqk",
 					["Strata"] = "HIGH",
+					["Columns"] = 2,
+					["Name"] = "Hidden Visual Settings",
 					["Scale"] = 1.68641984462738,
 					["Rows"] = 3,
-					["Columns"] = 2,
 					["Icons"] = {
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "LUA",
-									["Name"] = "return Player:IsStance(1)",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1TbIsE4JwoWN",
+							["Type"] = "conditionicon",
+							["FakeHidden"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["Texts"] = {
 										[2] = "",
 									},
 								},
+							},
+							["GUID"] = "TMW:icon:1TbIsE4JwoWN",
+							["Conditions"] = {
+								{
+									["Name"] = "return Player:IsStance(1)",
+									["Type"] = "LUA",
+								}, -- [1]
+								["n"] = 1,
 							},
 							["CustomTex"] = "2457",
 							["States"] = {
@@ -9141,37 +9142,37 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [1]
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "LUA",
-									["Name"] = "return Player:IsSwapLocked()",
-								}, -- [1]
-								["n"] = 1,
-							},
+							["Type"] = "conditionicon",
+							["FakeHidden"] = true,
 							["Events"] = {
 								{
-									["Scale"] = 0.6,
-									["AnimColor"] = "87000000",
 									["Type"] = "Animations",
 									["Period"] = 0.3,
 									["Animation"] = "ICONFLASH",
+									["Scale"] = 0.6,
+									["AnimColor"] = "87000000",
 									["Event"] = "OnShow",
 									["Infinite"] = true,
 								}, -- [1]
 								["n"] = 1,
 							},
-							["GUID"] = "TMW:icon:1TbIsE4MfEaw",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["Texts"] = {
 										[2] = "",
 									},
 								},
+							},
+							["GUID"] = "TMW:icon:1TbIsE4MfEaw",
+							["Conditions"] = {
+								{
+									["Name"] = "return Player:IsSwapLocked()",
+									["Type"] = "LUA",
+								}, -- [1]
+								["n"] = 1,
 							},
 							["CustomTex"] = "9576",
 							["States"] = {
@@ -9183,25 +9184,25 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [2]
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "LUA",
-									["Name"] = "return Player:IsStance(2)",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1TbIsE4P3Suo",
+							["Type"] = "conditionicon",
+							["FakeHidden"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["Texts"] = {
 										[2] = "",
 									},
 								},
+							},
+							["GUID"] = "TMW:icon:1TbIsE4P3Suo",
+							["Conditions"] = {
+								{
+									["Name"] = "return Player:IsStance(2)",
+									["Type"] = "LUA",
+								}, -- [1]
+								["n"] = 1,
 							},
 							["CustomTex"] = "71",
 							["States"] = {
@@ -9213,25 +9214,25 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [3]
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "LUA",
-									["Name"] = "return not Player:HasShield(true)",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1TbIsE4RRLCE",
+							["Type"] = "conditionicon",
+							["FakeHidden"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["Texts"] = {
 										[2] = "",
 									},
 								},
+							},
+							["GUID"] = "TMW:icon:1TbIsE4RRLCE",
+							["Conditions"] = {
+								{
+									["Name"] = "return not Player:HasShield(true)",
+									["Type"] = "LUA",
+								}, -- [1]
+								["n"] = 1,
 							},
 							["CustomTex"] = "2718",
 							["States"] = {
@@ -9243,25 +9244,25 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [4]
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "LUA",
-									["Name"] = "return Player:IsStance(3)",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1TbIyqJ3TFKU",
+							["Type"] = "conditionicon",
+							["FakeHidden"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["Texts"] = {
 										[2] = "",
 									},
 								},
+							},
+							["GUID"] = "TMW:icon:1TbIyqJ3TFKU",
+							["Conditions"] = {
+								{
+									["Name"] = "return Player:IsStance(3)",
+									["Type"] = "LUA",
+								}, -- [1]
+								["n"] = 1,
 							},
 							["CustomTex"] = "2458",
 							["States"] = {
@@ -9273,25 +9274,25 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [5]
 						{
-							["Type"] = "conditionicon",
 							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "LUA",
-									["Name"] = "return Player:HasShield(true)",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1TbIyqJ7JJmF",
+							["Type"] = "conditionicon",
+							["FakeHidden"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["Texts"] = {
 										[2] = "",
 									},
 								},
+							},
+							["GUID"] = "TMW:icon:1TbIyqJ7JJmF",
+							["Conditions"] = {
+								{
+									["Name"] = "return Player:HasShield(true)",
+									["Type"] = "LUA",
+								}, -- [1]
+								["n"] = 1,
 							},
 							["CustomTex"] = "9116",
 							["States"] = {
@@ -9303,11 +9304,8 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
 						}, -- [6]
 					},
-					["Name"] = "Hidden Visual Settings",
-					["GUID"] = "TMW:group:1TbIsE4I9qqk",
 					["Point"] = {
 						["y"] = -9,
 						["x"] = -75,
@@ -9316,18 +9314,18 @@ TellMeWhenDB = {
 					},
 				}, -- [5]
 				{
-					["Scale"] = 1,
-					["Locked"] = true,
+					["GUID"] = "TMW:group:1TbIvGERJZOy",
 					["Columns"] = 2,
+					["Scale"] = 1,
 					["Icons"] = {
 						{
+							["Enabled"] = true,
 							["Type"] = "meta",
 							["Icons"] = {
 								"TMW:icon:1TbIsE4JwoWN", -- [1]
 								"TMW:icon:1TbIsE4P3Suo", -- [2]
 								"TMW:icon:1TbIyqJ3TFKU", -- [3]
 							},
-							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9339,13 +9337,13 @@ TellMeWhenDB = {
 							},
 						}, -- [1]
 						{
+							["Enabled"] = true,
 							["Type"] = "meta",
 							["Icons"] = {
 								"TMW:icon:1TbIsE4MfEaw", -- [1]
 								"TMW:icon:1TbIsE4RRLCE", -- [2]
 								"TMW:icon:1TbIyqJ7JJmF", -- [3]
 							},
-							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -9364,14 +9362,14 @@ TellMeWhenDB = {
 							["BorderIcon"] = 1.5,
 						},
 					},
+					["Locked"] = true,
 					["Conditions"] = {
 						{
-							["Type"] = "ICON",
 							["Icon"] = "TMW:icon:1T0MjsTsMtq6",
+							["Type"] = "ICON",
 						}, -- [1]
 						["n"] = 1,
 					},
-					["GUID"] = "TMW:group:1TbIvGERJZOy",
 					["Point"] = {
 						["y"] = 43,
 						["relativeTo"] = "TMW:group:1P3cu8AAtSYM",
@@ -9379,12 +9377,13 @@ TellMeWhenDB = {
 				}, -- [6]
 				{
 					["GUID"] = "TMW:group:1ThI5PpEuV8I",
-					["Locked"] = true,
 					["Columns"] = 1,
+					["Locked"] = true,
+					["Name"] = "Visible LoC PlayerFrame",
 					["Icons"] = {
 						{
+							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Type"] = "TheAction - LossOfControl",
 							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -9393,6 +9392,14 @@ TellMeWhenDB = {
 									},
 								},
 							},
+							["Conditions"] = {
+								{
+									["Name"] = "return LossOfControl:IsEnabled(\"PlayerFrame\")",
+									["Type"] = "LUA",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Type"] = "TheAction - LossOfControl",
 							["States"] = {
 								{
 									["Alpha"] = 0,
@@ -9405,17 +9412,8 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "LUA",
-									["Name"] = "return LossOfControl:IsEnabled(\"PlayerFrame\")",
-								}, -- [1]
-								["n"] = 1,
-							},
 						}, -- [1]
 					},
-					["Name"] = "Visible LoC PlayerFrame",
 					["Point"] = {
 						["y"] = 2,
 						["relativeTo"] = "PlayerFrame",
@@ -9423,103 +9421,105 @@ TellMeWhenDB = {
 					},
 				}, -- [7]
 				{
+					["GUID"] = "TMW:group:1ThI9JkxdKiN",
+					["Locked"] = true,
+					["Name"] = "Hidden LoC RotationFrame",
+					["Columns"] = 1,
+					["Scale"] = 1,
+					["Rows"] = 2,
+					["Icons"] = {
+						{
+							["GUID"] = "TMW:icon:1ThI9XCjZDaF",
+							["ShowTimer"] = true,
+							["FakeHidden"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Name"] = "return LossOfControl:IsEnabled(\"RotationFrame\") and LossOfControl:GetFrameOrder() <= 3",
+									["Type"] = "LUA",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Type"] = "TheAction - LossOfControl",
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[102] = {
+									["Alpha"] = 1,
+								},
+							},
+						}, -- [1]
+						{
+							["GUID"] = "TMW:icon:1ThI9XCnmSqm",
+							["ShowTimer"] = true,
+							["FakeHidden"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Name"] = "return LossOfControl:IsEnabled(\"RotationFrame\") and LossOfControl:GetFrameOrder() > 1",
+									["Type"] = "LUA",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Type"] = "TheAction - LossOfControl",
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[102] = {
+									["Alpha"] = 1,
+								},
+							},
+						}, -- [2]
+					},
 					["Point"] = {
 						["y"] = -15,
 						["x"] = -29,
 						["point"] = "TOPLEFT",
 						["relativePoint"] = "TOPLEFT",
 					},
-					["Scale"] = 1,
-					["Rows"] = 2,
-					["Locked"] = true,
-					["Columns"] = 1,
-					["Icons"] = {
-						{
-							["ShowTimer"] = true,
-							["Type"] = "TheAction - LossOfControl",
-							["ShowTimerText"] = true,
-							["GUID"] = "TMW:icon:1ThI9XCjZDaF",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-								[102] = {
-									["Alpha"] = 1,
-								},
-							},
-							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "LUA",
-									["Name"] = "return LossOfControl:IsEnabled(\"RotationFrame\") and LossOfControl:GetFrameOrder() <= 3",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["FakeHidden"] = true,
-						}, -- [1]
-						{
-							["ShowTimer"] = true,
-							["Type"] = "TheAction - LossOfControl",
-							["ShowTimerText"] = true,
-							["GUID"] = "TMW:icon:1ThI9XCnmSqm",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										[2] = "",
-									},
-								},
-							},
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-								[102] = {
-									["Alpha"] = 1,
-								},
-							},
-							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "LUA",
-									["Name"] = "return LossOfControl:IsEnabled(\"RotationFrame\") and LossOfControl:GetFrameOrder() > 1",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["FakeHidden"] = true,
-						}, -- [2]
-					},
-					["Name"] = "Hidden LoC RotationFrame",
-					["GUID"] = "TMW:group:1ThI9JkxdKiN",
 				}, -- [8]
 			},
 			["ForceNoBlizzCC"] = true,
-			["Locked"] = true,
+			["Version"] = 110701,
 			["ActionDB"] = {
 				{
 					["ColorPickerConfig"] = {
-						["progressBar"] = {
+						["highlight"] = {
 							["color"] = {
+							},
+							["blank"] = {
 							},
 						},
 						["font"] = {
@@ -9536,18 +9536,12 @@ TellMeWhenDB = {
 								},
 							},
 						},
-						["highlight"] = {
-							["color"] = {
-							},
-							["blank"] = {
-							},
-						},
 						["backdrop"] = {
 							["panel"] = {
 								["a"] = 0.8,
-								["b"] = 0.06,
-								["g"] = 0.06,
 								["r"] = 0.06,
+								["g"] = 0.06,
+								["b"] = 0.06,
 							},
 							["highlight"] = {
 							},
@@ -9560,6 +9554,10 @@ TellMeWhenDB = {
 							["borderDisabled"] = {
 							},
 							["slider"] = {
+							},
+						},
+						["progressBar"] = {
+							["color"] = {
 							},
 						},
 					},
@@ -9649,7 +9647,7 @@ TellMeWhenDB = {
 					["TotemStomp"] = false,
 					["ZugSliderValue"] = 30,
 					["BattlestanceValue"] = 37,
-					["GloveSnipeHealth"] = 5,
+					["GloveSnipeHealth"] = 6,
 					["BattleShout"] = true,
 					["DefensiveReflect"] = 70,
 					["Healthstone"] = -1,
@@ -9685,12 +9683,12 @@ TellMeWhenDB = {
 					["DisarmShadowDance"] = true,
 				}, -- [2]
 				{
-					["QluaActions"] = {
-					},
-					["AutoHidden"] = false,
 					["disabledActions"] = {
 						["Spell97462nilnil"] = true,
 					},
+					["QluaActions"] = {
+					},
+					["AutoHidden"] = false,
 					["luaActions"] = {
 					},
 				}, -- [3]
@@ -9736,27 +9734,12 @@ TellMeWhenDB = {
 						},
 					},
 					["MouseAuto"] = true,
-					["UseMouse"] = true,
-					["UseMain"] = true,
-					["HealOnlyHealers"] = true,
-					["BlackList"] = {
-						["ruRU"] = {
-						},
-					},
 					["MousePvE"] = {
 						["Min"] = 13,
 						["Max"] = 30,
 						["ruRU"] = {
 						},
 					},
-					["MainPvP"] = {
-						["Min"] = 19,
-						["Max"] = 36,
-						["ruRU"] = {
-						},
-					},
-					["UsePvP"] = true,
-					["PvPOnlySmart"] = true,
 					["PvP"] = {
 						["Min"] = 58,
 						["Max"] = 85,
@@ -9768,11 +9751,11 @@ TellMeWhenDB = {
 								["ID"] = 20484,
 								["useRacial"] = true,
 							},
-							["Гнев деревьев"] = {
+							["Вой ужаса"] = {
 								["Enabled"] = true,
 								["useKick"] = true,
 								["useCC"] = true,
-								["ID"] = 339,
+								["ID"] = 5484,
 								["useRacial"] = true,
 							},
 							["Призыв инфернала"] = {
@@ -9796,18 +9779,18 @@ TellMeWhenDB = {
 								["ID"] = 2645,
 								["useRacial"] = true,
 							},
-							["Укус виверны"] = {
-								["Enabled"] = true,
-								["useKick"] = true,
-								["useCC"] = true,
-								["ID"] = 19386,
-								["useRacial"] = true,
-							},
 							["Отпугивание зверя"] = {
 								["Enabled"] = true,
 								["useKick"] = true,
 								["useCC"] = true,
 								["ID"] = 1513,
+								["useRacial"] = true,
+							},
+							["Укус виверны"] = {
+								["Enabled"] = true,
+								["useKick"] = true,
+								["useCC"] = true,
+								["ID"] = 19386,
 								["useRacial"] = true,
 							},
 							["Изгнание"] = {
@@ -9859,11 +9842,11 @@ TellMeWhenDB = {
 								["ID"] = 9484,
 								["useRacial"] = true,
 							},
-							["Вой ужаса"] = {
+							["Гнев деревьев"] = {
 								["Enabled"] = true,
 								["useKick"] = true,
 								["useCC"] = true,
-								["ID"] = 5484,
+								["ID"] = 339,
 								["useRacial"] = true,
 							},
 							["Спячка"] = {
@@ -9875,7 +9858,11 @@ TellMeWhenDB = {
 							},
 						},
 					},
-					["MainAuto"] = true,
+					["HealOnlyHealers"] = true,
+					["BlackList"] = {
+						["ruRU"] = {
+						},
+					},
 					["Heal"] = {
 						["Min"] = 62,
 						["Max"] = 91,
@@ -9952,6 +9939,17 @@ TellMeWhenDB = {
 							},
 						},
 					},
+					["MainPvP"] = {
+						["Min"] = 19,
+						["Max"] = 36,
+						["ruRU"] = {
+						},
+					},
+					["UseMain"] = true,
+					["PvPOnlySmart"] = true,
+					["UsePvP"] = true,
+					["MainAuto"] = true,
+					["UseMouse"] = true,
 				}, -- [4]
 				{
 					["UsePurge"] = true,
@@ -9962,37 +9960,37 @@ TellMeWhenDB = {
 							["ruRU"] = {
 								["Восстановление"] = {
 									["Enabled"] = true,
-									["Dur"] = 0,
 									["Role"] = "ANY",
-									["Name"] = "Восстановление",
+									["Dur"] = 0,
 									["ID"] = 8936,
 									["Stack"] = 0,
+									["Name"] = "Восстановление",
 									["onlyBear"] = true,
 								},
 								["Длань свободы"] = {
 									["Enabled"] = true,
-									["Dur"] = 1.5,
 									["Role"] = "ANY",
-									["Name"] = "Длань свободы",
+									["Dur"] = 1.5,
 									["ID"] = 1044,
 									["Stack"] = 0,
+									["Name"] = "Длань свободы",
 								},
 								["Омоложение"] = {
 									["Enabled"] = true,
-									["Dur"] = 0,
 									["Role"] = "ANY",
-									["Name"] = "Омоложение",
+									["Dur"] = 0,
 									["ID"] = 774,
 									["Stack"] = 0,
+									["Name"] = "Омоложение",
 									["onlyBear"] = true,
 								},
 								["Знак дикой природы"] = {
 									["Enabled"] = true,
-									["Dur"] = 0,
 									["Role"] = "ANY",
-									["Name"] = "Знак дикой природы",
+									["Dur"] = 0,
 									["ID"] = 1126,
 									["Stack"] = 0,
+									["Name"] = "Знак дикой природы",
 									["onlyBear"] = true,
 								},
 							},
@@ -10005,12 +10003,12 @@ TellMeWhenDB = {
 							["ruRU"] = {
 								["Контроль над разумом"] = {
 									["Enabled"] = true,
-									["Dur"] = 0,
 									["Role"] = "ANY",
-									["Name"] = "Контроль над разумом",
+									["Dur"] = 0,
 									["canStealOrPurge"] = true,
 									["ID"] = 605,
 									["Stack"] = 0,
+									["Name"] = "Контроль над разумом",
 								},
 							},
 						},
@@ -10018,75 +10016,75 @@ TellMeWhenDB = {
 							["ruRU"] = {
 								["Придание сил"] = {
 									["Enabled"] = true,
-									["Dur"] = 4,
 									["Role"] = "ANY",
-									["Name"] = "Придание сил",
+									["Dur"] = 4,
 									["ID"] = 10060,
 									["Stack"] = 0,
+									["Name"] = "Придание сил",
 								},
 								["Мощь тайной магии"] = {
 									["Enabled"] = true,
-									["Dur"] = 4,
 									["Role"] = "ANY",
-									["Name"] = "Мощь тайной магии",
+									["Dur"] = 4,
 									["ID"] = 12042,
 									["Stack"] = 0,
+									["Name"] = "Мощь тайной магии",
 								},
 								["Возгорание"] = {
 									["Enabled"] = true,
-									["Dur"] = 4,
 									["Role"] = "ANY",
-									["Name"] = "Возгорание",
+									["Dur"] = 4,
 									["ID"] = 11129,
 									["Stack"] = 0,
+									["Name"] = "Возгорание",
 								},
 								["Природная стремительность"] = {
 									["Enabled"] = true,
-									["Dur"] = 1.5,
 									["Role"] = "ANY",
-									["Name"] = "Природная стремительность",
+									["Dur"] = 1.5,
 									["ID"] = 16188,
 									["Stack"] = 0,
+									["Name"] = "Природная стремительность",
 								},
 								["Господство Скверны"] = {
 									["Enabled"] = true,
-									["Dur"] = 0,
 									["Role"] = "ANY",
-									["Name"] = "Господство Скверны",
+									["Dur"] = 0,
 									["ID"] = 18708,
 									["Stack"] = 0,
+									["Name"] = "Господство Скверны",
 								},
 								["Усиление проклятия"] = {
 									["Enabled"] = true,
-									["Dur"] = 10,
 									["Role"] = "ANY",
-									["Name"] = "Усиление проклятия",
+									["Dur"] = 10,
 									["ID"] = 18288,
 									["Stack"] = 0,
+									["Name"] = "Усиление проклятия",
 								},
 								["Покорение стихий"] = {
 									["Enabled"] = true,
-									["Dur"] = 1.5,
 									["Role"] = "ANY",
-									["Name"] = "Покорение стихий",
+									["Dur"] = 1.5,
 									["ID"] = 16166,
 									["Stack"] = 0,
+									["Name"] = "Покорение стихий",
 								},
 								["Божественное одобрение"] = {
 									["Enabled"] = true,
-									["Dur"] = 0,
 									["Role"] = "ANY",
-									["Name"] = "Божественное одобрение",
+									["Dur"] = 0,
 									["ID"] = 31842,
 									["Stack"] = 0,
+									["Name"] = "Божественное одобрение",
 								},
 								["Длань защиты"] = {
 									["Enabled"] = true,
-									["Dur"] = 1,
 									["Role"] = "ANY",
-									["Name"] = "Длань защиты",
+									["Dur"] = 1,
 									["ID"] = 1022,
 									["Stack"] = 0,
+									["Name"] = "Длань защиты",
 								},
 							},
 						},
@@ -10105,28 +10103,28 @@ TellMeWhenDB = {
 							["ruRU"] = {
 								["Контроль над разумом"] = {
 									["Enabled"] = true,
-									["Dur"] = 0,
 									["Role"] = "ANY",
-									["Name"] = "Контроль над разумом",
+									["Dur"] = 0,
 									["canStealOrPurge"] = true,
 									["ID"] = 605,
 									["Stack"] = 0,
+									["Name"] = "Контроль над разумом",
 								},
 								["Господство над разумом"] = {
 									["Enabled"] = true,
-									["Dur"] = 0,
 									["Role"] = "ANY",
-									["Name"] = "Господство над разумом",
+									["Dur"] = 0,
 									["ID"] = 15859,
 									["Stack"] = 0,
+									["Name"] = "Господство над разумом",
 								},
 								["Насылание безумия"] = {
 									["Enabled"] = true,
-									["Dur"] = 0,
 									["Role"] = "ANY",
-									["Name"] = "Насылание безумия",
+									["Dur"] = 0,
 									["ID"] = 12888,
 									["Stack"] = 0,
+									["Name"] = "Насылание безумия",
 								},
 							},
 						},
@@ -10134,11 +10132,11 @@ TellMeWhenDB = {
 							["ruRU"] = {
 								["Магическое заземление"] = {
 									["Enabled"] = true,
-									["Dur"] = 0,
 									["Role"] = "ANY",
-									["Name"] = "Магическое заземление",
+									["Dur"] = 0,
 									["ID"] = 19714,
 									["Stack"] = 0,
+									["Name"] = "Магическое заземление",
 								},
 							},
 						},
@@ -10678,7 +10676,7 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raid28"] = {
+						["raid7"] = {
 							["Enabled"] = true,
 							["Role"] = "AUTO",
 							["useUtils"] = true,
@@ -10705,38 +10703,10 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["pet"] = {
-							["isPet"] = true,
-							["Role"] = "AUTO",
-							["Enabled"] = true,
-							["useUtils"] = true,
-							["LUA"] = "",
-							["useHoTs"] = true,
-							["useShields"] = true,
-							["useDispel"] = true,
-						},
-						["raid7"] = {
-							["Enabled"] = true,
-							["Role"] = "AUTO",
-							["useUtils"] = true,
-							["LUA"] = "",
-							["useHoTs"] = true,
-							["useShields"] = true,
-							["useDispel"] = true,
-						},
 						["raidpet29"] = {
 							["isPet"] = true,
 							["Role"] = "AUTO",
 							["Enabled"] = true,
-							["useUtils"] = true,
-							["LUA"] = "",
-							["useHoTs"] = true,
-							["useShields"] = true,
-							["useDispel"] = true,
-						},
-						["raid35"] = {
-							["Enabled"] = true,
-							["Role"] = "AUTO",
 							["useUtils"] = true,
 							["LUA"] = "",
 							["useHoTs"] = true,
@@ -10753,7 +10723,16 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raid38"] = {
+						["raid28"] = {
+							["Enabled"] = true,
+							["Role"] = "AUTO",
+							["useUtils"] = true,
+							["LUA"] = "",
+							["useHoTs"] = true,
+							["useShields"] = true,
+							["useDispel"] = true,
+						},
+						["raid35"] = {
 							["Enabled"] = true,
 							["Role"] = "AUTO",
 							["useUtils"] = true,
@@ -10765,6 +10744,25 @@ TellMeWhenDB = {
 						["raid16"] = {
 							["Enabled"] = true,
 							["Role"] = "AUTO",
+							["useUtils"] = true,
+							["LUA"] = "",
+							["useHoTs"] = true,
+							["useShields"] = true,
+							["useDispel"] = true,
+						},
+						["raid38"] = {
+							["Enabled"] = true,
+							["Role"] = "AUTO",
+							["useUtils"] = true,
+							["LUA"] = "",
+							["useHoTs"] = true,
+							["useShields"] = true,
+							["useDispel"] = true,
+						},
+						["raidpet21"] = {
+							["isPet"] = true,
+							["Role"] = "AUTO",
+							["Enabled"] = true,
 							["useUtils"] = true,
 							["LUA"] = "",
 							["useHoTs"] = true,
@@ -10906,7 +10904,7 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raid17"] = {
+						["raid36"] = {
 							["Enabled"] = true,
 							["Role"] = "AUTO",
 							["useUtils"] = true,
@@ -10935,10 +10933,9 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raidpet5"] = {
-							["isPet"] = true,
-							["Role"] = "AUTO",
+						["raid20"] = {
 							["Enabled"] = true,
+							["Role"] = "AUTO",
 							["useUtils"] = true,
 							["LUA"] = "",
 							["useHoTs"] = true,
@@ -10964,7 +10961,7 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raid20"] = {
+						["raid2"] = {
 							["Enabled"] = true,
 							["Role"] = "AUTO",
 							["useUtils"] = true,
@@ -10991,16 +10988,17 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raid2"] = {
-							["Enabled"] = true,
+						["raidpet5"] = {
+							["isPet"] = true,
 							["Role"] = "AUTO",
+							["Enabled"] = true,
 							["useUtils"] = true,
 							["LUA"] = "",
 							["useHoTs"] = true,
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raid36"] = {
+						["raid17"] = {
 							["Enabled"] = true,
 							["Role"] = "AUTO",
 							["useUtils"] = true,
@@ -11085,7 +11083,7 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raidpet33"] = {
+						["pet"] = {
 							["isPet"] = true,
 							["Role"] = "AUTO",
 							["Enabled"] = true,
@@ -11104,7 +11102,7 @@ TellMeWhenDB = {
 							["useShields"] = true,
 							["useDispel"] = true,
 						},
-						["raidpet21"] = {
+						["raidpet33"] = {
 							["isPet"] = true,
 							["Role"] = "AUTO",
 							["Enabled"] = true,
@@ -11145,8 +11143,8 @@ TellMeWhenDB = {
 						false, -- [5]
 						true, -- [6]
 					},
-					["OffsetMode"] = "FIXED",
 					["OffsetTanks"] = 0,
+					["OffsetHealersShields"] = 0,
 					["ManaManagementStopAtTTD"] = 6,
 					["OffsetHealersUtils"] = 0,
 					["MultiplierPetsOutCombat"] = 1.15,
@@ -11160,7 +11158,7 @@ TellMeWhenDB = {
 					},
 					["AfterMouseoverEnemyDelay"] = 0,
 					["Profile"] = "",
-					["OffsetHealersShields"] = 0,
+					["OffsetMode"] = "FIXED",
 					["OffsetHealers"] = 0,
 					["OffsetDamagers"] = 0,
 					["MultiplierThreat"] = 0.95,
@@ -11170,6 +11168,7 @@ TellMeWhenDB = {
 				}, -- [8]
 				["Ver"] = 2,
 			},
+			["NumGroups"] = 8,
 			["WarnInvalids"] = false,
 		},
 	},
